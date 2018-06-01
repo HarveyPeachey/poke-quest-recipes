@@ -4,18 +4,17 @@ import { pokeFood } from '../pokeFood';
 import './styles/TypeList.css';
 
 const TypeList = () => {
+  const items = pokeFood.map(pokeFood => {
+    return (
+      <TypeItem
+        key={pokeFood.id}
+        pokeFood={pokeFood}
+      />
+    );
+  });
   return (
     <section className="type-list">
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
-      <TypeItem />
+      {items}
     </section>
   )
 }
