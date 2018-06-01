@@ -7,11 +7,15 @@ class App extends Component {
   constructor() {
     super();
     this.state = {};
+    this.handleOnClick = this.handleOnClick.bind(this);
+  }
+  handleOnClick(id) {
+    console.log(id);
   }
   render() {
     return (
       <div className="App">
-        <TypeList />
+        <TypeList handleOnClick={this.handleOnClick} />
         <RecipeView />
       </div>
     );
