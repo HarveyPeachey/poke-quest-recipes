@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import TypeList from './TypeList';
+import RecipeView from './RecipeView';
 import './styles/App.css';
 
 class App extends Component {
@@ -11,6 +12,7 @@ class App extends Component {
     return (
       <div className="App">
         <TypeList />
+        <RecipeView />
       </div>
     );
   }
