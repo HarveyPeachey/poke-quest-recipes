@@ -9,23 +9,23 @@ export const Recipes = [
        },
        {
          "components":["bb","bb","bb","tm","tm"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","bb","br","br"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","ir","tm","tm"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","bb","h","bm"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","h","h","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -47,7 +47,7 @@ export const Recipes = [
        },
        {
          "components":["bb","bb","bb","f","f"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -57,11 +57,11 @@ export const Recipes = [
      "set_ingredients":[
        {
          "components":["tm","tm","tm","bm","bm"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bm","bm","bm","tm","tm"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -91,27 +91,27 @@ export const Recipes = [
        },
        {
          "components":["tm","tm","tm","f","f"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","f","f","tm"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["ir","ir","h","tm","bb"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["tm","tm","ir","h","f"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","tm","tm","h"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["f","f","bb","tm","br"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -125,15 +125,15 @@ export const Recipes = [
        },
        {
          "components":["br","br","br","bm","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["br","bm","a","a","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["br","br","a","a","f"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -151,7 +151,7 @@ export const Recipes = [
        },
        {
          "components":["h","h","h","bb","bb"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -191,23 +191,23 @@ export const Recipes = [
        },
        {
          "components":["f","f","f","a","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["f","f","ir","ir","br"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["f","f","f","a","ir"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["f","f","a","a","bb"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["f","f","f","bb","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -221,11 +221,11 @@ export const Recipes = [
        },
        {
          "components":["f","f","br","br","ir"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["f","f","f","br","br"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -243,15 +243,15 @@ export const Recipes = [
        },
        {
          "components":["tm","tm","tm","bm","bm"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["tm","tm","tm","bb","bb"],
-         "quality": "Basic"
+         "quality": "Normal"
        },
        {
          "components":["tm","tm","tm","a","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -265,7 +265,7 @@ export const Recipes = [
        },
        {
          "components":["tm","tm","h","h","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   },
@@ -279,7 +279,7 @@ export const Recipes = [
        },
        {
          "components":["bb","bb","h","tm","tm"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
      ]
   }
