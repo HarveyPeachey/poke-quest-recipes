@@ -4,17 +4,61 @@ import RecipeView from './RecipeView';
 import { Recipes } from '../Recipes';
 import './styles/App.css';
 
+// console.log(Recipes[0].set_ingredients[0].components[0]);
+for (var i = 0; i < Recipes.length; i++) {
+  for (var j = 0; j < Recipes[i].set_ingredients.length; j++) {
+    for (var k = 0; k < Recipes[i].set_ingredients[j].components.length; k++) {
+      switch(Recipes[i].set_ingredients[j].components[k]) {
+        case "a":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/apricorn.png"
+          break;
+        case "bm":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/balmmushroom.png"
+          break;
+        case "br":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/bigroot.png"
+          break;
+        case "bb":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/blukberry.png"
+          break;
+        case "f":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/fossil.png"
+          break;
+        case "h":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/honey.png"
+          break;
+        case "ir":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/icyrock.png"
+          break;
+        case "tm":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/tinymushroom.png"
+          break;
+        default:
+          console.log("Invalid Shortcode")
+      }
+    }
+  }
+}
+
 class App extends Component {
   constructor() {
     super();
-    this.state = { recipeName: {}};
+    this.state = { recipe: {}};
     this.handleOnClick = this.handleOnClick.bind(this);
   }
   handleOnClick(id) {
     for (var i = 0; i < Recipes.length; i++) {
       if (Recipes[i].type_id === id) {
-        const recipeName = Recipes[i];
-        this.setState({recipeName: recipeName})
+        const recipe = Recipes[i];
+        this.setState({recipe: recipe})
       }
     }
   }
@@ -22,7 +66,7 @@ class App extends Component {
     return (
       <div className="App">
         <TypeList handleOnClick={this.handleOnClick} />
-        <RecipeView recipeName={this.state.recipeName} />
+        <RecipeView recipe={this.state.recipe} />
       </div>
     );
   }
