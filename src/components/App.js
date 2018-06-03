@@ -6,7 +6,7 @@ import ReactGA from 'react-ga';
 import './styles/App.css';
 
 ReactGA.initialize('UA-120203104-1');
-ReactGA.pageview(window.location.pathname + window.location.search);
+ReactGA.pageview(window.location.pathname);
 
 
 // Logic for conversion of Shortcode to URLS
