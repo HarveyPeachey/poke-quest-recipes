@@ -5,7 +5,7 @@ import { Recipes } from '../Recipes';
 import ReactGA from 'react-ga';
 import './styles/App.css';
 
-ReactGA.initialize('UA-000000-01');
+ReactGA.initialize('UA-120203104-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 
