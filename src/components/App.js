@@ -4,7 +4,7 @@ import RecipeView from './RecipeView';
 import { Recipes } from '../Recipes';
 import './styles/App.css';
 
-// console.log(Recipes[0].set_ingredients[0].components[0]);
+// Logic for conversion of Shortcode to URLS
 for (var i = 0; i < Recipes.length; i++) {
   for (var j = 0; j < Recipes[i].set_ingredients.length; j++) {
     for (var k = 0; k < Recipes[i].set_ingredients[j].components.length; k++) {

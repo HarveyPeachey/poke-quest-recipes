@@ -9,7 +9,7 @@ export const pokeFood = [
     id: 7,
     type: "Normal",
     color: "#A8A77A",
-    name: "Plain Crepe a la Cube",
+    name: ["Plain Crepe a la Cube"],
   },
   {
     id: 8,
