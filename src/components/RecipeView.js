@@ -14,7 +14,6 @@ const RecipeView = ( {recipe} ) => {
     );
   })
   : "none"
-  console.log(ingred);
   return (
     <section className="recipe-view">
       <h1 className="recipe-name">{recipe_name}</h1>
