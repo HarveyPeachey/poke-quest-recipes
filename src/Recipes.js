@@ -234,7 +234,7 @@ export const Recipes = [
      "recipe_name":"Hot Pot a la Cube",
      "set_ingredients":[
        {
-         "components":["tm","tm","bm","bb",bb],
+         "components":["tm","tm","bm","bb","bb"],
          "quality": "Good"
        },
        {
