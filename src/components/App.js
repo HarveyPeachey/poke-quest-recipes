@@ -2,7 +2,12 @@ import React, { Component } from 'react';
 import TypeList from './TypeList';
 import RecipeView from './RecipeView';
 import { Recipes } from '../Recipes';
+import ReactGA from 'react-ga';
 import './styles/App.css';
+
+ReactGA.initialize('UA-000000-01');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 // Logic for conversion of Shortcode to URLS
 for (var i = 0; i < Recipes.length; i++) {
