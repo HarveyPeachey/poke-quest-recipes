@@ -161,19 +161,19 @@ export const Recipes = [
      "set_ingredients":[
        {
          "components":["bb","bb","bb","a","a"],
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","bb","a","f"],
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","h","a","f"],
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "components":["bb","bb","h","a","a"],
-         "quality": ""
+         "quality": "Normal"
        }
      ]
   },
