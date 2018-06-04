@@ -1,19 +1,31 @@
 @import '_colors.less';
 
 .recipe-view {
-  width: 50%;
-  height: 80%;
-  padding: 10px;
-  margin-right: 10px;
   background-color: @sec-color;
   border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   font-family: helvetica;
   overflow: auto;
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
 }
 h1 {
   text-align: center;
   font-size: 22px;
   padding-bottom: 20px;
+}
+
+@media (min-width: 992px) {
+  .recipe-view {
+    width: 50%;
+    height: 80%;
+    margin: 0 10px 0 0;
+  }
 }
