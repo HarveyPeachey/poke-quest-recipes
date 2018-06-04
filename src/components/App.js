@@ -25,10 +25,18 @@ class App extends Component {
   render() {
     return (
         <div className="App">
-        <div className="title" >Pokemon Quest Recipes</div>
+        <div className="title" ><strong>Pokemon Quest Recipes</strong></div>
         <TypeList handleOnClick={this.handleOnClick} />
         <RecipeView recipe={this.state.recipe} />
-        <div>Version 1.1</div>
+       {/*<div className="app-info">
+          <p className="version"><strong>Version 1.1</strong></p>
+          <p><strong>Changes since last version:</strong>
+            <br/>Mobile and tablet support
+            <br/>Expedition amounts for recipe completion
+            <br/>Images appear smaller for small ingredients
+            <br/>Added more recipes from <a rel="noopener noreferrer" href="https://bit.ly/2sD81iM" target="_blank">https://bit.ly/2sD81iM</a>
+          </p>
+        </div>*/}
       </div>
 
     );
