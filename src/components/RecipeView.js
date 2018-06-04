@@ -3,7 +3,7 @@ import IngredView from './IngredView'
 import './styles/RecipeView.css';
 
 const RecipeView = ( {recipe} ) => {
-  const { recipe_name, set_ingredients } = recipe
+  const { recipe_name, set_ingredients, /*pokemon*/ } = recipe
   const isIngredDefined = (set_ingredients !== undefined)
   const ingred = isIngredDefined
   ? set_ingredients.map(set_ingredients => {
@@ -17,6 +17,7 @@ const RecipeView = ( {recipe} ) => {
   return (
     <section className="recipe-view">
       <h1 className="recipe-name">{recipe_name}</h1>
+      {/*<img className="ingred-image" src={pokemon !== undefined ? pokemon[0] : null} />*/}
       {set_ingredients !== undefined ? ingred : null }
     </section>
   )

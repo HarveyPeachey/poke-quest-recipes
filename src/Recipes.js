@@ -107,7 +107,8 @@ export const Recipes = [
          "components":["br","br","br","f","rm"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":2,
@@ -125,7 +126,8 @@ export const Recipes = [
          "components":["tm","tm","tm","tm","tm"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":3,
@@ -149,9 +151,10 @@ export const Recipes = [
        },
        {
          "components":["bb","bb","bb","bb","bb"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":4,
@@ -179,9 +182,10 @@ export const Recipes = [
        },
        {
          "components":["a","a","a","a","a"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":5,
@@ -205,9 +209,10 @@ export const Recipes = [
        },
        {
          "components":["f","f","f","f","f"],
-         "quality": "Basic"
+         "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":6,
@@ -237,7 +242,8 @@ export const Recipes = [
          "components":["bb","bb","h","h","a"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":7,
@@ -259,7 +265,8 @@ export const Recipes = [
          "components":["bb","bb","bb","f","f"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":8,
@@ -273,7 +280,8 @@ export const Recipes = [
          "components":["bm","bm","bm","tm","tm"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":9,
@@ -323,7 +331,8 @@ export const Recipes = [
          "components":["f","f","bb","tm","br"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":10,
@@ -345,7 +354,8 @@ export const Recipes = [
          "components":["br","br","a","a","f"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":11,
@@ -363,7 +373,8 @@ export const Recipes = [
          "components":["h","h","h","bb","bb"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":12,
@@ -385,7 +396,8 @@ export const Recipes = [
          "components":["bb","bb","h","a","a"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":13,
@@ -419,7 +431,8 @@ export const Recipes = [
          "components":["f","f","f","bb","a"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":14,
@@ -437,7 +450,8 @@ export const Recipes = [
          "components":["f","f","f","br","br"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":15,
@@ -463,7 +477,8 @@ export const Recipes = [
          "components":["tm","tm","tm","a","a"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":16,
@@ -477,7 +492,8 @@ export const Recipes = [
          "components":["tm","tm","h","h","a"],
          "quality": "Normal"
        }
-     ]
+     ],
+     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
   },
   {
      "type_id":17,
