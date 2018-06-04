@@ -4,6 +4,8 @@ import './styles/IngredView.css'
 const IngredView = ({set_ingredients}) => {
   const { components, quality } = set_ingredients
   var noExped = null
+  var imgSizes = []
+  var imgUrls = []
   switch(quality) {
     case "Special":
       noExped = 6
@@ -23,58 +25,59 @@ const IngredView = ({set_ingredients}) => {
   for (var i = 0; i < components.length; i++) {
     switch(components[i]) {
       case "a":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/apricorn.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/apricorn.png"
+        imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "bm":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/balmmushroom.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/balmmushroom.png"
+        imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "br":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/bigroot.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/bigroot.png"
+        imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "bb":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/blukberry.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/blukberry.png"
+        imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "f":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/fossil.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/fossil.png"
+        imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "h":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/honey.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/honey.png"
+        imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "ir":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/icyrock.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/icyrock.png"
+        imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "tm":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/tinymushroom.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/tinymushroom.png"
+        imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "rm":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/rainbowmatter.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/rainbowmatter.png"
+        imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "ms":
-        components[i] =
-        "https://www.serebii.net/quest/ingredients/mysticalshell.png"
+        imgUrls[i] = "https://www.serebii.net/quest/ingredients/mysticalshell.png"
+        imgSizes[i] = {width: "50px", height:"50px"}
         break;
       default:
         console.log("Invalid Shortcode")
       }
   }
+  console.log(imgSizes,components)
   const imagesView =
     <section className="ingred-view">
       <div className="info">Quality: {quality}</div>
       <div className="info exped">Expeditions: {noExped}</div>
-      <img className="ingred-image" alt="comp" src={components[0]} />
-      <img className="ingred-image" alt="comp" src={components[1]} />
-      <img className="ingred-image" alt="comp" src={components[2]} />
-      <img className="ingred-image" alt="comp" src={components[3]} />
-      <img className="ingred-image" alt="comp" src={components[4]} />
+      <img style={imgSizes[0]} className="ingred-image" alt="comp" src={imgUrls[0]} />
+      <img style={imgSizes[1]} className="ingred-image" alt="comp" src={imgUrls[1]} />
+      <img style={imgSizes[2]} className="ingred-image" alt="comp" src={imgUrls[2]} />
+      <img style={imgSizes[3]} className="ingred-image" alt="comp" src={imgUrls[3]} />
+      <img style={imgSizes[4]} className="ingred-image" alt="comp" src={imgUrls[4]} />
     </section>
   return imagesView
 }
