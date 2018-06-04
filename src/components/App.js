@@ -24,10 +24,13 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="App">
+        <div className="App">
+        <div className="title" >Pokemon Quest Recipes</div>
         <TypeList handleOnClick={this.handleOnClick} />
         <RecipeView recipe={this.state.recipe} />
+        <div>Version 1.1</div>
       </div>
+
     );
   }
 }
