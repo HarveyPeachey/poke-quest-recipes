@@ -46,6 +46,14 @@ for (var i = 0; i < Recipes.length; i++) {
           Recipes[i].set_ingredients[j].components[k] =
           "https://www.serebii.net/quest/ingredients/tinymushroom.png"
           break;
+        case "rm":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/rainbowmatter.png"
+          break;
+        case "ms":
+          Recipes[i].set_ingredients[j].components[k] =
+          "https://www.serebii.net/quest/ingredients/mysticalshell.png"
+          break;
         default:
           console.log("Invalid Shortcode")
       }

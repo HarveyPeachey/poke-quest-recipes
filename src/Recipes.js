@@ -1,5 +1,215 @@
 export const Recipes = [
   {
+     "type_id":1,
+     "recipe_name":"Mulligan Stew a la Cube",
+     "set_ingredients":[
+       {
+         "components":["h","h","br","br","rm"],
+         "quality": "Special"
+       },
+       {
+         "components":["h","h","ir","ir","rm"],
+         "quality": "Special"
+       },
+       {
+         "components":["bm","bm","bm","br","ir"],
+         "quality": "Special"
+       },
+       {
+         "components":["br","br","br","ir","rm"],
+         "quality": "Special"
+       },
+       {
+         "components":["bm","bm","bm","bb","bb"],
+         "quality": "Very Good"
+       },
+       {
+         "components":["rm","rm","rm","rm","rm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["f","f","f","tm","tm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["f","f","f","bb","bb"],
+         "quality": "Normal"
+       },
+       {
+         "components":["a","a","a","bb","bb"],
+         "quality": "Normal"
+       },
+       {
+         "components":["a","a","a","tm","tm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","a","a","f"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","a","a","tm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","f","f","a"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","f","f","tm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["ir","ir","tm","tm","f"],
+         "quality": "Normal"
+       },
+       {
+         "components":["ir","bb","h","a","f"],
+         "quality": "Normal"
+       },
+       {
+         "components":["f","f","br","ir","h"],
+         "quality": "Normal"
+       },
+       {
+         "components":["h","h","bb","bb","tm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["ir","ir","ir","bm","bm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["br","br","br","h","h"],
+         "quality": "Normal"
+       },
+       {
+         "components":["ir","bm","h","bm","bb"],
+         "quality": "Normal"
+       },
+       {
+         "components":["rm","br","ir","h","bm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["a","a","a","tm","bb"],
+         "quality": "Normal"
+       },
+       {
+         "components":["tm","tm","br","f","h"],
+         "quality": "Normal"
+       },
+       {
+         "components":["tm","tm","a","a","ir"],
+         "quality": "Normal"
+       },
+       {
+         "components":["br","br","br","f","rm"],
+         "quality": "Normal"
+       }
+     ]
+  },
+  {
+     "type_id":2,
+     "recipe_name":"Red Stew a la Cube",
+     "set_ingredients":[
+       {
+         "components":["br","br","br","br","br"],
+         "quality": "Special"
+       },
+       {
+         "components":["tm","tm","tm","br","br"],
+         "quality": "Good"
+       },
+       {
+         "components":["tm","tm","tm","tm","tm"],
+         "quality": "Normal"
+       }
+     ]
+  },
+  {
+     "type_id":3,
+     "recipe_name":"Blue Soda a la Cube",
+     "set_ingredients":[
+       {
+         "components":["ir","ir","ir","ir","ir"],
+         "quality": "Special"
+       },
+       {
+         "components":["bb","bb","bb","bb","tm"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","bb","bb","a"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","bb","bb","f"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","bb","bb","bb"],
+         "quality": "Basic"
+       }
+     ]
+  },
+  {
+     "type_id":4,
+     "recipe_name":"Yellow Curry a la Cube",
+     "set_ingredients":[
+       {
+         "components":["h","h","h","h","br"],
+         "quality": "Special"
+       },
+       {
+         "components":["h","h","bb","a","a"],
+         "quality": "Good"
+       },
+       {
+         "components":["a","a","a","a","bb"],
+         "quality": "Normal"
+       },
+       {
+         "components":["h","h","a","a","a"],
+         "quality": "Normal"
+       },
+       {
+         "components":["h","h","a","a","bb"],
+         "quality": "Normal"
+       },
+       {
+         "components":["a","a","a","a","a"],
+         "quality": "Basic"
+       }
+     ]
+  },
+  {
+     "type_id":5,
+     "recipe_name":"Gray Porridge a la Cube",
+     "set_ingredients":[
+       {
+         "components":["bm","bm","bm","bm","h"],
+         "quality": "Special"
+       },
+       {
+         "components":["bm","bm","bm","bm","br"],
+         "quality": "Special"
+       },
+       {
+         "components":["bm","bm","bm","bm","ir"],
+         "quality": "Special"
+       },
+       {
+         "components":["bm","bm","bm","bm","tm"],
+         "quality": "Very Good"
+       },
+       {
+         "components":["f","f","f","f","f"],
+         "quality": "Basic"
+       }
+     ]
+  },
+  {
      "type_id":6,
      "recipe_name":"Mouth-Watering Dip a la Cube",
      "set_ingredients":[
@@ -280,6 +490,16 @@ export const Recipes = [
        {
          "components":["bb","bb","h","tm","tm"],
          "quality": "Normal"
+       }
+     ]
+  },
+  {
+     "type_id":18,
+     "recipe_name":"Ambrosia of Legends a la Cube",
+     "set_ingredients":[
+       {
+         "components":["ms","ms","ms","ms","ms"],
+         "quality": "Rare (Mewtwo)"
        }
      ]
   }

@@ -1,5 +1,35 @@
 export const pokeFood = [
   {
+    id: 1,
+    type: "Misc",
+    color: "#DB9D3C",
+    name: "Mulligan Stew à la Cube",
+  },
+  {
+    id: 2,
+    type: "Red",
+    color: "#FC6547",
+    name: "Red Stew à la Cube",
+  },
+  {
+    id: 3,
+    type: "Blue",
+    color: "#32F0FD",
+    name: "Blue Soda à la Cube",
+  },
+  {
+    id: 4,
+    type: "Yellow",
+    color: "#FEE93A",
+    name: "Yellow Curry à la Cube",
+  },
+  {
+    id: 5,
+    type: "Gray",
+    color: "#808080",
+    name: "Gray Porridge à la Cube",
+  },
+  {
     id: 6,
     type: "Water",
     color: "#6A92ED",
@@ -70,5 +100,11 @@ export const pokeFood = [
     type: "Fighting",
     color: "#BE322E",
     name: "Get Swole Syrup a la Cube",
-  }
+  },
+  {
+    id: 18,
+    type: "Legend",
+    color: "#F7CF43",
+    name: "Ambrosia of Legends à la Cube",
+  },
 ];
