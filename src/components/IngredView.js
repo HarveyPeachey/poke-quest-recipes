@@ -20,6 +20,52 @@ const IngredView = ({set_ingredients}) => {
     default:
       noExped = null
   }
+  for (var i = 0; i < components.length; i++) {
+    switch(components[i]) {
+      case "a":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/apricorn.png"
+        break;
+      case "bm":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/balmmushroom.png"
+        break;
+      case "br":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/bigroot.png"
+        break;
+      case "bb":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/blukberry.png"
+        break;
+      case "f":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/fossil.png"
+        break;
+      case "h":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/honey.png"
+        break;
+      case "ir":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/icyrock.png"
+        break;
+      case "tm":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/tinymushroom.png"
+        break;
+      case "rm":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/rainbowmatter.png"
+        break;
+      case "ms":
+        components[i] =
+        "https://www.serebii.net/quest/ingredients/mysticalshell.png"
+        break;
+      default:
+        console.log("Invalid Shortcode")
+      }
+  }
   const imagesView =
     <section className="ingred-view">
       <div className="info">Quality: {quality}</div>

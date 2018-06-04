@@ -8,59 +8,6 @@ import './styles/App.css';
 ReactGA.initialize('UA-120203104-1');
 ReactGA.pageview(window.location.pathname);
 
-
-// Logic for conversion of Shortcode to URLS
-for (var i = 0; i < Recipes.length; i++) {
-  for (var j = 0; j < Recipes[i].set_ingredients.length; j++) {
-    for (var k = 0; k < Recipes[i].set_ingredients[j].components.length; k++) {
-      switch(Recipes[i].set_ingredients[j].components[k]) {
-        case "a":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/apricorn.png"
-          break;
-        case "bm":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/balmmushroom.png"
-          break;
-        case "br":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/bigroot.png"
-          break;
-        case "bb":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/blukberry.png"
-          break;
-        case "f":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/fossil.png"
-          break;
-        case "h":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/honey.png"
-          break;
-        case "ir":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/icyrock.png"
-          break;
-        case "tm":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/tinymushroom.png"
-          break;
-        case "rm":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/rainbowmatter.png"
-          break;
-        case "ms":
-          Recipes[i].set_ingredients[j].components[k] =
-          "https://www.serebii.net/quest/ingredients/mysticalshell.png"
-          break;
-        default:
-          console.log("Invalid Shortcode")
-      }
-    }
-  }
-}
-
 class App extends Component {
   constructor() {
     super();

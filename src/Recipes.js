@@ -515,7 +515,7 @@ export const Recipes = [
      "set_ingredients":[
        {
          "components":["ms","ms","ms","ms","ms"],
-         "quality": "Rare (Mewtwo)"
+         "quality": "Special"
        }
      ]
   }
