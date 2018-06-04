@@ -223,6 +223,10 @@ export const Recipes = [
          "quality": "Very Good"
        },
        {
+         "components":["bb","bb","h","br","ir"],
+         "quality": "Very Good"
+       },
+       {
          "components":["bb","bb","bb","tm","tm"],
          "quality": "Normal"
        },
@@ -240,6 +244,10 @@ export const Recipes = [
        },
        {
          "components":["bb","bb","h","h","a"],
+         "quality": "Normal"
+       },
+       {
+         "components":["bb","bb","tm","br","ir"],
          "quality": "Normal"
        }
      ],
@@ -272,6 +280,22 @@ export const Recipes = [
      "type_id":8,
      "recipe_name":"Sludge Soup a la Cube",
      "set_ingredients":[
+       {
+         "components":["bm","bm","bm","tm","rm"],
+         "quality": "Special"
+       },
+       {
+         "components":["bm","bm","tm","tm","br"],
+         "quality": "Very Good"
+       },
+       {
+         "components":["bm","bm","tm","tm","rm"],
+         "quality": "Very Good"
+       },
+       {
+         "components":["bm","bm","bm","tm","br"],
+         "quality": "Very Good"
+       },
        {
          "components":["tm","tm","tm","bm","bm"],
          "quality": "Normal"
@@ -362,6 +386,10 @@ export const Recipes = [
      "recipe_name":"Honey Nectar a la Cube",
      "set_ingredients":[
        {
+         "components":["h","h","h","bb","rm"],
+         "quality": "Special"
+       },
+       {
          "components":["h","h","h","ir","bb"],
          "quality": "Very Good"
        },
@@ -403,6 +431,14 @@ export const Recipes = [
      "type_id":13,
      "recipe_name":"Stone Soup a la Cube",
      "set_ingredients":[
+       {
+         "components":["ir","ir","ir","f","rm"],
+         "quality": "Special"
+       },
+       {
+         "components":["ir","ir","br","a","f"],
+         "quality": "Very Good"
+       },
        {
          "components":["ir","ir","ir","f","a"],
          "quality": "Very Good"
@@ -458,6 +494,10 @@ export const Recipes = [
      "recipe_name":"Hot Pot a la Cube",
      "set_ingredients":[
        {
+         "components":["bm","bm","bm","br","br"],
+         "quality": "Special"
+       },
+       {
          "components":["tm","tm","bm","bb","bb"],
          "quality": "Good"
        },
@@ -476,6 +516,10 @@ export const Recipes = [
        {
          "components":["tm","tm","tm","a","a"],
          "quality": "Normal"
+       },
+       {
+         "components":["tm","tm","br","bm","h"],
+         "quality": "Normal"
        }
      ],
      "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
@@ -484,6 +528,14 @@ export const Recipes = [
      "type_id":16,
      "recipe_name":"Watt a Risotta a la Cube",
      "set_ingredients":[
+       {
+         "components":["h","h","h","br","ir"],
+         "quality": "Special"
+       },
+       {
+         "components":["h","h","a","br","br"],
+         "quality": "Very Good"
+       },
        {
          "components":["h","h","br","bm","a"],
          "quality": "Very Good"
