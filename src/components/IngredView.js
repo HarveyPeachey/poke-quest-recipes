@@ -68,7 +68,6 @@ const IngredView = ({set_ingredients}) => {
         console.log("Invalid Shortcode")
       }
   }
-  console.log(imgSizes,components)
   const imagesView =
     <section className="ingred-view">
       <div className="info">Quality: {quality}</div>

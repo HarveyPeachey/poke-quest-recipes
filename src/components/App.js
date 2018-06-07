@@ -26,7 +26,7 @@ class App extends Component {
     return (
         <div className="App">
         <div className="title" ><strong>Pokemon Quest Recipes</strong></div>
-        <TypeList handleOnClick={this.handleOnClick} />
+        <TypeList recipe={ Recipes } handleOnClick={this.handleOnClick} />
         <RecipeView recipe={this.state.recipe} />
         <div className="app-info">
           <p className="version"><strong>Version 1.1</strong></p>

@@ -1,6 +1,8 @@
 export const Recipes = [
   {
      "type_id":1,
+     "type_name": "Misc",
+     "color": "#DB9D3C",
      "recipe_name":"Mulligan Stew a la Cube",
      "set_ingredients":[
        {
@@ -108,10 +110,12 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":[""]
   },
   {
      "type_id":2,
+     "type_name": "Red",
+     "color": "#FC6547",
      "recipe_name":"Red Stew a la Cube",
      "set_ingredients":[
        {
@@ -127,10 +131,12 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":[""]
   },
   {
      "type_id":3,
+     "type_name": "Blue",
+     "color": "#32F0FD",
      "recipe_name":"Blue Soda a la Cube",
      "set_ingredients":[
        {
@@ -154,10 +160,12 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":[""]
   },
   {
      "type_id":4,
+     "type_name": "Yellow",
+     "color": "#FEE93A",
      "recipe_name":"Yellow Curry a la Cube",
      "set_ingredients":[
        {
@@ -185,10 +193,12 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":[""]
   },
   {
      "type_id":5,
+     "type_name": "Gray",
+     "color": "#808080",
      "recipe_name":"Gray Porridge a la Cube",
      "set_ingredients":[
        {
@@ -212,10 +222,12 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":[""]
   },
   {
      "type_id":6,
+     "type_name": "Water",
+     "color": "#6A92ED",
      "recipe_name":"Mouth-Watering Dip a la Cube",
      "set_ingredients":[
        {
@@ -251,10 +263,27 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Squirtle",
+                "Psyduck",
+                "Poliwag",
+                "Slowpoke",
+                "Shellder",
+                "Tentacool",
+                "Seel",
+                "Krabby",
+                "Horsea",
+                "Goldeen",
+                "Staryu",
+                "Magikarp",
+                "Lapras",
+                "Omanyte",
+                "Kabuto"
+     ]
   },
   {
      "type_id":7,
+     "type_name": "Normal",
+     "color": "#A8A77A",
      "recipe_name":"Plain Crepe a la Cube",
      "set_ingredients":[
        {
@@ -274,10 +303,24 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Rattata",
+                "Clefairy",
+                "Jigglypuff",
+                "Meowth",
+                "Lickitung",
+                "Chansey",
+                "Kangaskhan",
+                "Tauros",
+                "Ditto",
+                "Eevee",
+                "Porygon",
+                "Snorlax"
+     ]
   },
   {
      "type_id":8,
+     "type_name": "Poison",
+     "color": "#9F449E",
      "recipe_name":"Sludge Soup a la Cube",
      "set_ingredients":[
        {
@@ -305,10 +348,21 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Bulbasaur",
+                "Ekans",
+                "Nidoran♀",
+                "Nidoran♂",
+                "Zubat",
+                "Tentacool",
+                "Grimer",
+                "Gastly",
+                "Koffing"
+     ]
   },
   {
      "type_id":9,
+     "type_name": "Ground",
+     "color": "#DFBF6E",
      "recipe_name":"Mud Pie a la Cube",
      "set_ingredients":[
        {
@@ -356,10 +410,18 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Sandshrew",
+                "Diglett",
+                "Geodude",
+                "Onix",
+                "Cubone",
+                "Rhyhorn"
+     ]
   },
   {
      "type_id":10,
+     "type_name": "Grass",
+     "color": "#7BC657",
      "recipe_name":"Veggie Smoothie a la Cube",
      "set_ingredients":[
        {
@@ -379,10 +441,18 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Bulbasaur",
+                "Oddish",
+                "Paras",
+                "Bellsprout",
+                "Exeggcute",
+                "Tangela"
+     ]
   },
   {
      "type_id":11,
+     "type_name": "Bug",
+     "color": "#A8B731",
      "recipe_name":"Honey Nectar a la Cube",
      "set_ingredients":[
        {
@@ -402,10 +472,18 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Caterpie",
+                "Weedle",
+                "Paras",
+                "Venonat",
+                "Scyther",
+                "Pinsir"
+     ]
   },
   {
      "type_id":12,
+     "type_name": "Psychic",
+     "color": "#F65B89",
      "recipe_name":"Brain Food a la Cube",
      "set_ingredients":[
        {
@@ -425,10 +503,18 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Abra",
+                "Slowpoke",
+                "Drowzee",
+                "Exeggcute",
+                "Mr. Mime",
+                "Jynx"
+     ]
   },
   {
      "type_id":13,
+     "type_name": "Rock",
+     "color": "#B79F41",
      "recipe_name":"Stone Soup a la Cube",
      "set_ingredients":[
        {
@@ -468,10 +554,18 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Geodude",
+                "Onix",
+                "Rhyhorn",
+                "Omanyte",
+                "Kabuto",
+                "Aerodactyl"
+     ]
   },
   {
      "type_id":14,
+     "type_name": "Flying",
+     "color": "#A893ED",
      "recipe_name":"Light-as-Air Casserole a la Cube",
      "set_ingredients":[
        {
@@ -487,10 +581,19 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Pidgey",
+                "Spearow",
+                "Zubat",
+                "Farfetch'd",
+                "Doduo",
+                "Scyther",
+                "Aerodactyl"
+     ]
   },
   {
      "type_id":15,
+     "type_name": "Fire",
+     "color": "#EE803B",
      "recipe_name":"Hot Pot a la Cube",
      "set_ingredients":[
        {
@@ -522,10 +625,17 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Charmander",
+                "Vulpix",
+                "Growlithe",
+                "Ponyta",
+                "Magmar"
+     ]
   },
   {
      "type_id":16,
+     "type_name": "Electric",
+     "color": "#F7CF43",
      "recipe_name":"Watt a Risotta a la Cube",
      "set_ingredients":[
        {
@@ -545,10 +655,16 @@ export const Recipes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["https://www.serebii.net/quest/pokemon/007.png","https://www.serebii.net/quest/pokemon/054.png"]
+     "pokemon":["Pikachu",
+                "Magnemite",
+                "Voltorb",
+                "Electabuzz"
+     ]
   },
   {
      "type_id":17,
+     "type_name": "Fighting",
+     "color": "#BE322E",
      "recipe_name":"Get Swole Syrup a la Cube",
      "set_ingredients":[
        {
@@ -559,16 +675,25 @@ export const Recipes = [
          "components":["bb","bb","h","tm","tm"],
          "quality": "Normal"
        }
+     ],
+     "pokemon":["Mankey",
+                "Machop",
+                "Hitmonlee",
+                "Hitmonchan"
      ]
   },
   {
      "type_id":18,
+     "type_name": "Legend",
+     "color": "#F7CF43",
      "recipe_name":"Ambrosia of Legends a la Cube",
      "set_ingredients":[
        {
          "components":["ms","ms","ms","ms","ms"],
          "quality": "Special"
        }
+     ],
+     "pokemon":[""
      ]
   }
 ]

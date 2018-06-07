@@ -1,14 +1,13 @@
 import React from 'react';
 import TypeItem from './TypeItem'
-import { pokeFood } from '../pokeFood';
 import './styles/TypeList.css';
 
-const TypeList = ({ handleOnClick }) => {
-  const items = pokeFood.map(pokeFood => {
+const TypeList = ({ recipe, handleOnClick }) => {
+  const items = recipe.map(recipe => {
     return (
       <TypeItem
-        key={pokeFood.id}
-        pokeFood={pokeFood}
+        key={recipe.type_id}
+        recipe={recipe}
         handleOnClick={handleOnClick}
       />
     );
