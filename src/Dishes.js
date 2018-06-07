@@ -1,112 +1,112 @@
-export const Recipes = [
+export const Dishes = [
   {
      "type_id":1,
      "type_name": "Misc",
      "color": "#DB9D3C",
-     "recipe_name":"Mulligan Stew a la Cube",
-     "set_ingredients":[
+     "dish_name":"Mulligan Stew a la Cube",
+     "variations":[
        {
-         "components":["h","h","br","br","rm"],
+         "ingredients":["h","h","br","br","rm"],
          "quality": "Special"
        },
        {
-         "components":["h","h","ir","ir","rm"],
+         "ingredients":["h","h","ir","ir","rm"],
          "quality": "Special"
        },
        {
-         "components":["bm","bm","bm","br","ir"],
+         "ingredients":["bm","bm","bm","br","ir"],
          "quality": "Special"
        },
        {
-         "components":["br","br","br","ir","rm"],
+         "ingredients":["br","br","br","ir","rm"],
          "quality": "Special"
        },
        {
-         "components":["bm","bm","bm","bb","bb"],
+         "ingredients":["bm","bm","bm","bb","bb"],
          "quality": "Very Good"
        },
        {
-         "components":["rm","rm","rm","rm","rm"],
+         "ingredients":["rm","rm","rm","rm","rm"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","f","tm","tm"],
+         "ingredients":["f","f","f","tm","tm"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","f","bb","bb"],
+         "ingredients":["f","f","f","bb","bb"],
          "quality": "Normal"
        },
        {
-         "components":["a","a","a","bb","bb"],
+         "ingredients":["a","a","a","bb","bb"],
          "quality": "Normal"
        },
        {
-         "components":["a","a","a","tm","tm"],
+         "ingredients":["a","a","a","tm","tm"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","a","a","f"],
+         "ingredients":["bb","bb","a","a","f"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","a","a","tm"],
+         "ingredients":["bb","bb","a","a","tm"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","f","f","a"],
+         "ingredients":["bb","bb","f","f","a"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","f","f","tm"],
+         "ingredients":["bb","bb","f","f","tm"],
          "quality": "Normal"
        },
        {
-         "components":["ir","ir","tm","tm","f"],
+         "ingredients":["ir","ir","tm","tm","f"],
          "quality": "Normal"
        },
        {
-         "components":["ir","bb","h","a","f"],
+         "ingredients":["ir","bb","h","a","f"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","br","ir","h"],
+         "ingredients":["f","f","br","ir","h"],
          "quality": "Normal"
        },
        {
-         "components":["h","h","bb","bb","tm"],
+         "ingredients":["h","h","bb","bb","tm"],
          "quality": "Normal"
        },
        {
-         "components":["ir","ir","ir","bm","bm"],
+         "ingredients":["ir","ir","ir","bm","bm"],
          "quality": "Normal"
        },
        {
-         "components":["br","br","br","h","h"],
+         "ingredients":["br","br","br","h","h"],
          "quality": "Normal"
        },
        {
-         "components":["ir","bm","h","bm","bb"],
+         "ingredients":["ir","bm","h","bm","bb"],
          "quality": "Normal"
        },
        {
-         "components":["rm","br","ir","h","bm"],
+         "ingredients":["rm","br","ir","h","bm"],
          "quality": "Normal"
        },
        {
-         "components":["a","a","a","tm","bb"],
+         "ingredients":["a","a","a","tm","bb"],
          "quality": "Normal"
        },
        {
-         "components":["tm","tm","br","f","h"],
+         "ingredients":["tm","tm","br","f","h"],
          "quality": "Normal"
        },
        {
-         "components":["tm","tm","a","a","ir"],
+         "ingredients":["tm","tm","a","a","ir"],
          "quality": "Normal"
        },
        {
-         "components":["br","br","br","f","rm"],
+         "ingredients":["br","br","br","f","rm"],
          "quality": "Normal"
        }
      ],
@@ -116,18 +116,18 @@ export const Recipes = [
      "type_id":2,
      "type_name": "Red",
      "color": "#FC6547",
-     "recipe_name":"Red Stew a la Cube",
-     "set_ingredients":[
+     "dish_name":"Red Stew a la Cube",
+     "variations":[
        {
-         "components":["br","br","br","br","br"],
+         "ingredients":["br","br","br","br","br"],
          "quality": "Special"
        },
        {
-         "components":["tm","tm","tm","br","br"],
+         "ingredients":["tm","tm","tm","br","br"],
          "quality": "Good"
        },
        {
-         "components":["tm","tm","tm","tm","tm"],
+         "ingredients":["tm","tm","tm","tm","tm"],
          "quality": "Normal"
        }
      ],
@@ -137,26 +137,26 @@ export const Recipes = [
      "type_id":3,
      "type_name": "Blue",
      "color": "#32F0FD",
-     "recipe_name":"Blue Soda a la Cube",
-     "set_ingredients":[
+     "dish_name":"Blue Soda a la Cube",
+     "variations":[
        {
-         "components":["ir","ir","ir","ir","ir"],
+         "ingredients":["ir","ir","ir","ir","ir"],
          "quality": "Special"
        },
        {
-         "components":["bb","bb","bb","bb","tm"],
+         "ingredients":["bb","bb","bb","bb","tm"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","bb","bb","a"],
+         "ingredients":["bb","bb","bb","bb","a"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","bb","bb","f"],
+         "ingredients":["bb","bb","bb","bb","f"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","bb","bb","bb"],
+         "ingredients":["bb","bb","bb","bb","bb"],
          "quality": "Normal"
        }
      ],
@@ -166,30 +166,30 @@ export const Recipes = [
      "type_id":4,
      "type_name": "Yellow",
      "color": "#FEE93A",
-     "recipe_name":"Yellow Curry a la Cube",
-     "set_ingredients":[
+     "dish_name":"Yellow Curry a la Cube",
+     "variations":[
        {
-         "components":["h","h","h","h","br"],
+         "ingredients":["h","h","h","h","br"],
          "quality": "Special"
        },
        {
-         "components":["h","h","bb","a","a"],
+         "ingredients":["h","h","bb","a","a"],
          "quality": "Good"
        },
        {
-         "components":["a","a","a","a","bb"],
+         "ingredients":["a","a","a","a","bb"],
          "quality": "Normal"
        },
        {
-         "components":["h","h","a","a","a"],
+         "ingredients":["h","h","a","a","a"],
          "quality": "Normal"
        },
        {
-         "components":["h","h","a","a","bb"],
+         "ingredients":["h","h","a","a","bb"],
          "quality": "Normal"
        },
        {
-         "components":["a","a","a","a","a"],
+         "ingredients":["a","a","a","a","a"],
          "quality": "Normal"
        }
      ],
@@ -199,26 +199,26 @@ export const Recipes = [
      "type_id":5,
      "type_name": "Gray",
      "color": "#808080",
-     "recipe_name":"Gray Porridge a la Cube",
-     "set_ingredients":[
+     "dish_name":"Gray Porridge a la Cube",
+     "variations":[
        {
-         "components":["bm","bm","bm","bm","h"],
+         "ingredients":["bm","bm","bm","bm","h"],
          "quality": "Special"
        },
        {
-         "components":["bm","bm","bm","bm","br"],
+         "ingredients":["bm","bm","bm","bm","br"],
          "quality": "Special"
        },
        {
-         "components":["bm","bm","bm","bm","ir"],
+         "ingredients":["bm","bm","bm","bm","ir"],
          "quality": "Special"
        },
        {
-         "components":["bm","bm","bm","bm","tm"],
+         "ingredients":["bm","bm","bm","bm","tm"],
          "quality": "Very Good"
        },
        {
-         "components":["f","f","f","f","f"],
+         "ingredients":["f","f","f","f","f"],
          "quality": "Normal"
        }
      ],
@@ -228,38 +228,38 @@ export const Recipes = [
      "type_id":6,
      "type_name": "Water",
      "color": "#6A92ED",
-     "recipe_name":"Mouth-Watering Dip a la Cube",
-     "set_ingredients":[
+     "dish_name":"Mouth-Watering Dip a la Cube",
+     "variations":[
        {
-         "components":["ir","bb","bb","h","h"],
+         "ingredients":["ir","bb","bb","h","h"],
          "quality": "Very Good"
        },
        {
-         "components":["bb","bb","h","br","ir"],
+         "ingredients":["bb","bb","h","br","ir"],
          "quality": "Very Good"
        },
        {
-         "components":["bb","bb","bb","tm","tm"],
+         "ingredients":["bb","bb","bb","tm","tm"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","bb","br","br"],
+         "ingredients":["bb","bb","bb","br","br"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","ir","tm","tm"],
+         "ingredients":["bb","bb","ir","tm","tm"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","bb","h","bm"],
+         "ingredients":["bb","bb","bb","h","bm"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","h","h","a"],
+         "ingredients":["bb","bb","h","h","a"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","tm","br","ir"],
+         "ingredients":["bb","bb","tm","br","ir"],
          "quality": "Normal"
        }
      ],
@@ -284,22 +284,22 @@ export const Recipes = [
      "type_id":7,
      "type_name": "Normal",
      "color": "#A8A77A",
-     "recipe_name":"Plain Crepe a la Cube",
-     "set_ingredients":[
+     "dish_name":"Plain Crepe a la Cube",
+     "variations":[
        {
-         "components":["h","h","h","bm","bm"],
+         "ingredients":["h","h","h","bm","bm"],
          "quality": "Special"
        },
        {
-         "components":["h","h","bb","bm","bm"],
+         "ingredients":["h","h","bb","bm","bm"],
          "quality": "Very Good"
        },
        {
-         "components":["bb","bb","h","f","f"],
+         "ingredients":["bb","bb","h","f","f"],
          "quality": "Good"
        },
        {
-         "components":["bb","bb","bb","f","f"],
+         "ingredients":["bb","bb","bb","f","f"],
          "quality": "Normal"
        }
      ],
@@ -321,30 +321,30 @@ export const Recipes = [
      "type_id":8,
      "type_name": "Poison",
      "color": "#9F449E",
-     "recipe_name":"Sludge Soup a la Cube",
-     "set_ingredients":[
+     "dish_name":"Sludge Soup a la Cube",
+     "variations":[
        {
-         "components":["bm","bm","bm","tm","rm"],
+         "ingredients":["bm","bm","bm","tm","rm"],
          "quality": "Special"
        },
        {
-         "components":["bm","bm","tm","tm","br"],
+         "ingredients":["bm","bm","tm","tm","br"],
          "quality": "Very Good"
        },
        {
-         "components":["bm","bm","tm","tm","rm"],
+         "ingredients":["bm","bm","tm","tm","rm"],
          "quality": "Very Good"
        },
        {
-         "components":["bm","bm","bm","tm","br"],
+         "ingredients":["bm","bm","bm","tm","br"],
          "quality": "Very Good"
        },
        {
-         "components":["tm","tm","tm","bm","bm"],
+         "ingredients":["tm","tm","tm","bm","bm"],
          "quality": "Normal"
        },
        {
-         "components":["bm","bm","bm","tm","tm"],
+         "ingredients":["bm","bm","bm","tm","tm"],
          "quality": "Normal"
        }
      ],
@@ -363,50 +363,50 @@ export const Recipes = [
      "type_id":9,
      "type_name": "Ground",
      "color": "#DFBF6E",
-     "recipe_name":"Mud Pie a la Cube",
-     "set_ingredients":[
+     "dish_name":"Mud Pie a la Cube",
+     "variations":[
        {
-         "components":["h","h","h","ir","ir"],
+         "ingredients":["h","h","h","ir","ir"],
          "quality": "Special"
        },
        {
-         "components":["br","br","br","ir","ir"],
+         "ingredients":["br","br","br","ir","ir"],
          "quality": "Special"
        },
        {
-         "components":["br","bb","bm","f","ir"],
+         "ingredients":["br","bb","bm","f","ir"],
          "quality": "Very Good"
        },
        {
-         "components":["ir","ir","h","h","bb"],
+         "ingredients":["ir","ir","h","h","bb"],
          "quality": "Very Good"
        },
        {
-         "components":["tm","tm","tm","ir","ir"],
+         "ingredients":["tm","tm","tm","ir","ir"],
          "quality": "Good"
        },
        {
-         "components":["tm","tm","tm","f","f"],
+         "ingredients":["tm","tm","tm","f","f"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","f","f","tm"],
+         "ingredients":["bb","bb","f","f","tm"],
          "quality": "Normal"
        },
        {
-         "components":["ir","ir","h","tm","bb"],
+         "ingredients":["ir","ir","h","tm","bb"],
          "quality": "Normal"
        },
        {
-         "components":["tm","tm","ir","h","f"],
+         "ingredients":["tm","tm","ir","h","f"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","tm","tm","h"],
+         "ingredients":["bb","bb","tm","tm","h"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","bb","tm","br"],
+         "ingredients":["f","f","bb","tm","br"],
          "quality": "Normal"
        }
      ],
@@ -422,22 +422,22 @@ export const Recipes = [
      "type_id":10,
      "type_name": "Grass",
      "color": "#7BC657",
-     "recipe_name":"Veggie Smoothie a la Cube",
-     "set_ingredients":[
+     "dish_name":"Veggie Smoothie a la Cube",
+     "variations":[
        {
-         "components":["br","br","br","a","a"],
+         "ingredients":["br","br","br","a","a"],
          "quality": "Very Good"
        },
        {
-         "components":["br","br","br","bm","a"],
+         "ingredients":["br","br","br","bm","a"],
          "quality": "Normal"
        },
        {
-         "components":["br","bm","a","a","a"],
+         "ingredients":["br","bm","a","a","a"],
          "quality": "Normal"
        },
        {
-         "components":["br","br","a","a","f"],
+         "ingredients":["br","br","a","a","f"],
          "quality": "Normal"
        }
      ],
@@ -453,22 +453,22 @@ export const Recipes = [
      "type_id":11,
      "type_name": "Bug",
      "color": "#A8B731",
-     "recipe_name":"Honey Nectar a la Cube",
-     "set_ingredients":[
+     "dish_name":"Honey Nectar a la Cube",
+     "variations":[
        {
-         "components":["h","h","h","bb","rm"],
+         "ingredients":["h","h","h","bb","rm"],
          "quality": "Special"
        },
        {
-         "components":["h","h","h","ir","bb"],
+         "ingredients":["h","h","h","ir","bb"],
          "quality": "Very Good"
        },
        {
-         "components":["bb","bb","h","h","a"],
+         "ingredients":["bb","bb","h","h","a"],
          "quality": "Good"
        },
        {
-         "components":["h","h","h","bb","bb"],
+         "ingredients":["h","h","h","bb","bb"],
          "quality": "Normal"
        }
      ],
@@ -484,22 +484,22 @@ export const Recipes = [
      "type_id":12,
      "type_name": "Psychic",
      "color": "#F65B89",
-     "recipe_name":"Brain Food a la Cube",
-     "set_ingredients":[
+     "dish_name":"Brain Food a la Cube",
+     "variations":[
        {
-         "components":["bb","bb","bb","a","a"],
+         "ingredients":["bb","bb","bb","a","a"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","bb","a","f"],
+         "ingredients":["bb","bb","bb","a","f"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","h","a","f"],
+         "ingredients":["bb","bb","h","a","f"],
          "quality": "Normal"
        },
        {
-         "components":["bb","bb","h","a","a"],
+         "ingredients":["bb","bb","h","a","a"],
          "quality": "Normal"
        }
      ],
@@ -515,42 +515,42 @@ export const Recipes = [
      "type_id":13,
      "type_name": "Rock",
      "color": "#B79F41",
-     "recipe_name":"Stone Soup a la Cube",
-     "set_ingredients":[
+     "dish_name":"Stone Soup a la Cube",
+     "variations":[
        {
-         "components":["ir","ir","ir","f","rm"],
+         "ingredients":["ir","ir","ir","f","rm"],
          "quality": "Special"
        },
        {
-         "components":["ir","ir","br","a","f"],
+         "ingredients":["ir","ir","br","a","f"],
          "quality": "Very Good"
        },
        {
-         "components":["ir","ir","ir","f","a"],
+         "ingredients":["ir","ir","ir","f","a"],
          "quality": "Very Good"
        },
        {
-         "components":["ir","ir","f","a","a"],
+         "ingredients":["ir","ir","f","a","a"],
          "quality": "Good"
        },
        {
-         "components":["f","f","f","a","a"],
+         "ingredients":["f","f","f","a","a"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","ir","ir","br"],
+         "ingredients":["f","f","ir","ir","br"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","f","a","ir"],
+         "ingredients":["f","f","f","a","ir"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","a","a","bb"],
+         "ingredients":["f","f","a","a","bb"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","f","bb","a"],
+         "ingredients":["f","f","f","bb","a"],
          "quality": "Normal"
        }
      ],
@@ -566,18 +566,18 @@ export const Recipes = [
      "type_id":14,
      "type_name": "Flying",
      "color": "#A893ED",
-     "recipe_name":"Light-as-Air Casserole a la Cube",
-     "set_ingredients":[
+     "dish_name":"Light-as-Air Casserole a la Cube",
+     "variations":[
        {
-         "components":["ir","ir","ir","br","br"],
+         "ingredients":["ir","ir","ir","br","br"],
          "quality": "Special"
        },
        {
-         "components":["f","f","br","br","ir"],
+         "ingredients":["f","f","br","br","ir"],
          "quality": "Normal"
        },
        {
-         "components":["f","f","f","br","br"],
+         "ingredients":["f","f","f","br","br"],
          "quality": "Normal"
        }
      ],
@@ -594,34 +594,34 @@ export const Recipes = [
      "type_id":15,
      "type_name": "Fire",
      "color": "#EE803B",
-     "recipe_name":"Hot Pot a la Cube",
-     "set_ingredients":[
+     "dish_name":"Hot Pot a la Cube",
+     "variations":[
        {
-         "components":["bm","bm","bm","br","br"],
+         "ingredients":["bm","bm","bm","br","br"],
          "quality": "Special"
        },
        {
-         "components":["tm","tm","bm","bb","bb"],
+         "ingredients":["tm","tm","bm","bb","bb"],
          "quality": "Good"
        },
        {
-         "components":["tm","tm","tm","h","h"],
+         "ingredients":["tm","tm","tm","h","h"],
          "quality": "Good"
        },
        {
-         "components":["tm","tm","tm","bm","bm"],
+         "ingredients":["tm","tm","tm","bm","bm"],
          "quality": "Normal"
        },
        {
-         "components":["tm","tm","tm","bb","bb"],
+         "ingredients":["tm","tm","tm","bb","bb"],
          "quality": "Normal"
        },
        {
-         "components":["tm","tm","tm","a","a"],
+         "ingredients":["tm","tm","tm","a","a"],
          "quality": "Normal"
        },
        {
-         "components":["tm","tm","br","bm","h"],
+         "ingredients":["tm","tm","br","bm","h"],
          "quality": "Normal"
        }
      ],
@@ -636,22 +636,22 @@ export const Recipes = [
      "type_id":16,
      "type_name": "Electric",
      "color": "#F7CF43",
-     "recipe_name":"Watt a Risotta a la Cube",
-     "set_ingredients":[
+     "dish_name":"Watt a Risotta a la Cube",
+     "variations":[
        {
-         "components":["h","h","h","br","ir"],
+         "ingredients":["h","h","h","br","ir"],
          "quality": "Special"
        },
        {
-         "components":["h","h","a","br","br"],
+         "ingredients":["h","h","a","br","br"],
          "quality": "Very Good"
        },
        {
-         "components":["h","h","br","bm","a"],
+         "ingredients":["h","h","br","bm","a"],
          "quality": "Very Good"
        },
        {
-         "components":["tm","tm","h","h","a"],
+         "ingredients":["tm","tm","h","h","a"],
          "quality": "Normal"
        }
      ],
@@ -665,14 +665,14 @@ export const Recipes = [
      "type_id":17,
      "type_name": "Fighting",
      "color": "#BE322E",
-     "recipe_name":"Get Swole Syrup a la Cube",
-     "set_ingredients":[
+     "dish_name":"Get Swole Syrup a la Cube",
+     "variations":[
        {
-         "components":["bb","bb","h","tm","bm"],
+         "ingredients":["bb","bb","h","tm","bm"],
          "quality": "Good"
        },
        {
-         "components":["bb","bb","h","tm","tm"],
+         "ingredients":["bb","bb","h","tm","tm"],
          "quality": "Normal"
        }
      ],
@@ -686,10 +686,10 @@ export const Recipes = [
      "type_id":18,
      "type_name": "Legend",
      "color": "#F7CF43",
-     "recipe_name":"Ambrosia of Legends a la Cube",
-     "set_ingredients":[
+     "dish_name":"Ambrosia of Legends a la Cube",
+     "variations":[
        {
-         "components":["ms","ms","ms","ms","ms"],
+         "ingredients":["ms","ms","ms","ms","ms"],
          "quality": "Special"
        }
      ],

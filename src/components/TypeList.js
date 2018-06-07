@@ -1,22 +1,22 @@
 import React from 'react';
 import TypeItem from './TypeItem'
-import './styles/TypeList.css';
+import './styles/TypeView.css';
 
-const TypeList = ({ recipe, handleOnClick }) => {
-  const items = recipe.map(recipe => {
+const TypeView = ({ dish, handleOnClick }) => {
+  const items = dish.map(dish => {
     return (
       <TypeItem
-        key={recipe.type_id}
-        recipe={recipe}
+        key={dish.type_id}
+        dish={dish}
         handleOnClick={handleOnClick}
       />
     );
   });
   return (
-    <section className="type-list">
+    <section className="type-view">
       {items}
     </section>
   )
 }
 
-export default TypeList;
+export default TypeView;

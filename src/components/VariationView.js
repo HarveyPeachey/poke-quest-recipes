@@ -1,8 +1,8 @@
 import React from 'react';
-import './styles/IngredView.css'
+import './styles/VariationView.css'
 
-const IngredView = ({set_ingredients}) => {
-  const { components, quality } = set_ingredients
+const VariationView = ({variations}) => {
+  const { ingredients, quality } = variations
   var noExped = null
   var imgSizes = []
   var imgUrls = []
@@ -22,8 +22,8 @@ const IngredView = ({set_ingredients}) => {
     default:
       noExped = null
   }
-  for (var i = 0; i < components.length; i++) {
-    switch(components[i]) {
+  for (var i = 0; i < ingredients.length; i++) {
+    switch(ingredients[i]) {
       case "a":
         imgUrls[i] = "https://www.serebii.net/quest/ingredients/apricorn.png"
         imgSizes[i] = {width: "30px", height:"30px"}
@@ -69,7 +69,7 @@ const IngredView = ({set_ingredients}) => {
       }
   }
   const imagesView =
-    <section className="ingred-view">
+    <section className="variation-view">
       <div className="info">Quality: {quality}</div>
       <div className="info exped">Expeditions: {noExped}</div>
       <img style={imgSizes[0]} className="ingred-image" alt="comp" src={imgUrls[0]} />
@@ -81,4 +81,4 @@ const IngredView = ({set_ingredients}) => {
   return imagesView
 }
 
-export default IngredView;
+export default VariationView;
