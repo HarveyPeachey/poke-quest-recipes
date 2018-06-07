@@ -3,24 +3,34 @@ import './styles/VariationView.css'
 
 const VariationView = ({variations}) => {
   const { ingredients, quality } = variations
-  var noExped = null
+  var basicBronze, silver, gold = null
   var imgSizes = []
   var imgUrls = []
   switch(quality) {
     case "Special":
-      noExped = 6
+      basicBronze = 6
+      silver = 7
+      gold = 8
       break;
     case "Very Good":
-      noExped = 5
+      basicBronze = 5
+      silver = 6
+      gold = 7
       break;
     case "Good":
-      noExped = 4
+      basicBronze = 4
+      silver =  5
+      gold = 6
       break;
     case "Normal":
-      noExped = 2
+      basicBronze = 2
+      silver =  3
+      gold = 4
       break;
     default:
-      noExped = null
+      basicBronze  = null
+      silver = null
+      gold = null
   }
   for (var i = 0; i < ingredients.length; i++) {
     switch(ingredients[i]) {
@@ -71,7 +81,14 @@ const VariationView = ({variations}) => {
   const imagesView =
     <section className="variation-view">
       <div className="info">Quality: {quality}</div>
-      <div className="info exped">Expeditions: {noExped}</div>
+      <div className="info exped">Expeditions:
+        <span className="bronze"> {basicBronze}</span>
+        <span> | </span>
+        <span className="silver">{silver}</span>
+        <span> | </span>
+        <span className="gold">{gold}</span>
+
+      </div>
       <img style={imgSizes[0]} className="ingred-image" alt="comp" src={imgUrls[0]} />
       <img style={imgSizes[1]} className="ingred-image" alt="comp" src={imgUrls[1]} />
       <img style={imgSizes[2]} className="ingred-image" alt="comp" src={imgUrls[2]} />
