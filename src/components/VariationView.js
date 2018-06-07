@@ -81,7 +81,8 @@ const VariationView = ({variations}) => {
   const imagesView =
     <section className="variation-view">
       <div className="info">Quality: {quality}</div>
-      <div className="info exped">Expeditions:
+      <div className="info exped">
+        <span className="exped-text">Expeditions:</span>
         <span className="bronze"> {basicBronze}</span>
         <span> | </span>
         <span className="silver">{silver}</span>
