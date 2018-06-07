@@ -9,13 +9,10 @@ const DishView = ( {dish} ) => {
   const isVariationDefined = (variations !== undefined)
   const isPokemonDefined = (pokemon !== undefined)
   var dishPokemon = []
-  var count = 0
   if (isPokemonDefined) {
     if (pokemon.length !== 0) {
       for (var i = 0; i < pokemon.length; i++) {
-        count = count + 1
         for (var j = 0; j < pokeSprites.length; j++) {
-          count = count + 1
           if (pokemon[i] === pokeSprites[j].name) {
             dishPokemon.push(pokeSprites[j]);
             break;
@@ -24,7 +21,6 @@ const DishView = ( {dish} ) => {
       }
     }
   }
-  console.log(count);
   const variation = isVariationDefined
   ? variations.map((variations, index) => {
     return (

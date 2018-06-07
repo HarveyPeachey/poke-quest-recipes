@@ -29,13 +29,14 @@ class App extends Component {
         <TypeList dish={ Dishes } handleOnClick={this.handleOnClick} />
         <DishView dish={this.state.dish} />
         <div className="app-info">
-          <p className="version"><strong>Version 1.2</strong></p>
+          <p className="version"><strong>Version 1.21</strong></p>
           <p><strong>Changes since last version:</strong>
             <br/>Added expedition time based on cooking pots used (basic/bronze,gold,silver)
             <br/>Added potential pokemon to each dish
             <br/>Fixed iPad font size issue
             <br/>Restructured internal components
             <br/>Merged internal json
+            <br/>Improved pokemon image efficiency
           </p>
         </div>
       </div>
