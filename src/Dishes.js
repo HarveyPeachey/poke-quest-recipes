@@ -110,7 +110,7 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[""]
+     "pokemon":[]
   },
   {
      "type_id":2,
@@ -131,7 +131,7 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[""]
+     "pokemon":[]
   },
   {
      "type_id":3,
@@ -160,7 +160,7 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[""]
+     "pokemon":[]
   },
   {
      "type_id":4,
@@ -193,7 +193,7 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[""]
+     "pokemon":[]
   },
   {
      "type_id":5,
@@ -222,7 +222,7 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[""]
+     "pokemon":[]
   },
   {
      "type_id":6,
@@ -693,7 +693,6 @@ export const Dishes = [
          "quality": "Special"
        }
      ],
-     "pokemon":[""
-     ]
+     "pokemon":[]
   }
 ]

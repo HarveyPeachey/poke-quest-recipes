@@ -25,7 +25,7 @@ class App extends Component {
   render() {
     return (
         <div className="App">
-        <div className="title" ><strong>Pokemon Quest Recipes</strong></div>
+        <div className="title" ><h1>Pokemon Quest Recipes</h1></div>
         <TypeList dish={ Dishes } handleOnClick={this.handleOnClick} />
         <DishView dish={this.state.dish} />
         <div className="app-info">
