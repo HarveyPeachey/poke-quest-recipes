@@ -695,6 +695,18 @@ export const Dishes = [
        {
          "ingredients":["ms","ms","ms","ms","ms"],
          "quality": "Special"
+       },
+       {
+         "ingredients":["ms","rm","rm","rm","rm"],
+         "quality": "Special"
+       },
+       {
+         "ingredients":["ms","rm","a","bb","tm"],
+         "quality": "Very Good"
+       },
+       {
+         "ingredients":["ms","ms","ms","bb","bb"],
+         "quality": "Very Good"
        }
      ],
      "pokemon":["Articuno","Zapdos","Moltres","Mewtwo","Mew"]
