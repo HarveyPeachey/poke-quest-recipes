@@ -487,19 +487,23 @@ export const Dishes = [
      "dish_name":"Brain Food a la Cube",
      "variations":[
        {
+         "ingredients":["bb","a","ir","h","h"],
+         "quality": "Very Good"
+       },
+       {
+         "ingredients":["bb","bb","h","a","a"],
+         "quality": "Good"
+       },
+       {
+         "ingredients":["bb","bb","h","a","f"],
+         "quality": "Good"
+       },
+       {
          "ingredients":["bb","bb","bb","a","a"],
          "quality": "Normal"
        },
        {
          "ingredients":["bb","bb","bb","a","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","h","a","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","h","a","a"],
          "quality": "Normal"
        }
      ],
@@ -573,11 +577,11 @@ export const Dishes = [
          "quality": "Special"
        },
        {
-         "ingredients":["f","f","br","br","ir"],
-         "quality": "Normal"
+         "ingredients":["f","f","f","br","br"],
+         "quality": "Good"
        },
        {
-         "ingredients":["f","f","f","br","br"],
+         "ingredients":["f","f","br","br","ir"],
          "quality": "Normal"
        }
      ],
@@ -693,6 +697,6 @@ export const Dishes = [
          "quality": "Special"
        }
      ],
-     "pokemon":[]
+     "pokemon":["Articuno","Zapdos","Moltres","Mewtwo","Mew"]
   }
 ]

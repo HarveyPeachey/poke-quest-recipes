@@ -80,16 +80,17 @@ const VariationView = ({variations}) => {
   }
   const imagesView =
     <section className="variation-view">
-      <div className="info">Quality: {quality}</div>
-      <div className="info exped">
-        <span className="exped-text">Expeditions:</span>
-        <span className="bronze"> {basicBronze}</span>
-        <span> | </span>
-        <span className="silver">{silver}</span>
-        <span> | </span>
-        <span className="gold">{gold}</span>
-
-      </div>
+      {/*<div>*/}
+        <div className="info">Quality: {quality}</div>
+        <div className="info exped">
+          <span className="exped-text">Expeditions:</span>
+          <span className="bronze"> {basicBronze}</span>
+          <span> | </span>
+          <span className="silver">{silver}</span>
+          <span> | </span>
+          <span className="gold">{gold}</span>
+        </div>
+      {/*</div>*/}
       <img style={imgSizes[0]} className="ingred-image" alt="comp" src={imgUrls[0]} />
       <img style={imgSizes[1]} className="ingred-image" alt="comp" src={imgUrls[1]} />
       <img style={imgSizes[2]} className="ingred-image" alt="comp" src={imgUrls[2]} />
