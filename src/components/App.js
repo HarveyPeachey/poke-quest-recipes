@@ -13,6 +13,7 @@ class App extends Component {
     super();
     this.state = { dish: {}};
     this.handleOnClick = this.handleOnClick.bind(this);
+    this.handlePokeClick = this.handlePokeClick.bind(this);
   }
   handleOnClick(id) {
     for (var i = 0; i < Dishes.length; i++) {
@@ -22,12 +23,15 @@ class App extends Component {
       }
     }
   }
+  handlePokeClick(id) {
+    console.log(id);
+  }
   render() {
     return (
         <div className="App">
         <div className="title" ><h1>Pokemon Quest Recipes</h1></div>
         <TypeList dish={ Dishes } handleOnClick={this.handleOnClick} />
-        <DishView dish={this.state.dish} />
+        <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} />
         <div className="app-info">
           <p className="version"><strong>Version 1.21</strong></p>
           <iframe src="http://www.strawpoll.me/embed_1/15862021">Loading poll...</iframe>
