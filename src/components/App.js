@@ -30,14 +30,15 @@ class App extends Component {
         <DishView dish={this.state.dish} />
         <div className="app-info">
           <p className="version"><strong>Version 1.21</strong></p>
-          <p><strong>Changes since last version:</strong>
+          <iframe src="http://www.strawpoll.me/embed_1/15862021">Loading poll...</iframe>
+          {/*<p><strong>Changes since last version:</strong>
             <br/>Added expedition time based on cooking pots used (basic/bronze,gold,silver)
             <br/>Added potential pokemon to each dish
             <br/>Fixed iPad font size issue
             <br/>Restructured internal components
             <br/>Merged internal json
             <br/>Improved pokemon image efficiency
-          </p>
+          </p>*/}
         </div>
       </div>
 

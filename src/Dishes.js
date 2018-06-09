@@ -123,6 +123,10 @@ export const Dishes = [
          "quality": "Special"
        },
        {
+         "ingredients":["tm","tm","br","br","br"],
+         "quality": "Very Good"
+       },
+       {
          "ingredients":["tm","tm","tm","br","br"],
          "quality": "Good"
        },
@@ -142,6 +146,14 @@ export const Dishes = [
        {
          "ingredients":["ir","ir","ir","ir","ir"],
          "quality": "Special"
+       },
+       {
+         "ingredients":["bb","bb","ir","ir","ir"],
+         "quality": "Very Good"
+       },
+       {
+         "ingredients":["bb","bb","bb","bb","ir"],
+         "quality": "Good"
        },
        {
          "ingredients":["bb","bb","bb","bb","tm"],
