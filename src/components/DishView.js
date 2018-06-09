@@ -4,7 +4,7 @@ import PokemonItem from './PokemonItem'
 import { pokeSprites } from '../pokeSprites';
 import './styles/DishView.css';
 
-const DishView = ( {dish} ) => {
+const DishView = ( {dish, handlePokeClick} ) => {
   const { dish_name, variations, pokemon } = dish
   const isVariationDefined = (variations !== undefined)
   const isPokemonDefined = (pokemon !== undefined)
@@ -21,6 +21,7 @@ const DishView = ( {dish} ) => {
       }
     }
   }
+
   const variation = isVariationDefined
   ? variations.map((variations, index) => {
     return (
@@ -31,16 +32,19 @@ const DishView = ( {dish} ) => {
     );
   })
   : null
+
   const pokemonImage = isVariationDefined
   ? pokemon.map((pokemon, index) => {
     return (
       <PokemonItem
         key={index}
         pokemon={dishPokemon[index]}
+        handlePokeClick={handlePokeClick}
       />
     );
   })
   : null
+
   return (
     <section className="dish-view">
       <h2 className="dish-name">{dish_name}</h2>
