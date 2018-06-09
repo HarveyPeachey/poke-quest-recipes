@@ -110,7 +110,50 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[]
+     "pokemon":["Bulbasaur",
+                "Squirtle",
+                "Weedle",
+                "Ekans",
+                "Sandshrew",
+                "Nidoran♀",
+                "Nidoran♂",
+                "Clefairy",
+                "Jigglypuff",
+                "Paras",
+                "Diglett",
+                "Meowth",
+                "Abra",
+                "Geodude",
+                "Ponyta",
+                "Magnemite",
+                "Farfetch'd",
+                "Seel",
+                "Grimer",
+                "Gastly",
+                "Onix",
+                "Drowzee",
+                "Exeggcute",
+                "Hitmonlee",
+                "Hitmonchan",
+                "Lickitung",
+                "Koffing",
+                "Chansey",
+                "Tangela",
+                "Horsea",
+                "Mr. Mime",
+                "Scyther",
+                "Jynx",
+                "Magmar",
+                "Magikarp",
+                "Lapras",
+                "Ditto",
+                "Porygon",
+                "Omanyte",
+                "Kabuto",
+                "Aerodactyl",
+                "Snorlax",
+                "Dratini"
+      ]
   },
   {
      "type_id":2,
@@ -135,7 +178,27 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[]
+     "pokemon":["Charmander",
+                "Spearow",
+                "Vulpix",
+                "Paras",
+                "Diglett",
+                "Mankey",
+                "Growlithe",
+                "Slowpoke",
+                "Farfetch'd",
+                "Doduo",
+                "Krabby",
+                "Voltorb",
+                "Hitmonchan",
+                "Lickitung",
+                "Goldeen",
+                "Magmar",
+                "Pinsir",
+                "Eevee",
+                "Porygon",
+                "Kabuto"
+     ]
   },
   {
      "type_id":3,
@@ -172,7 +235,25 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[]
+     "pokemon":["Caterpie",
+                "Rattata",
+                "Ekans",
+                "Nidoran♂",
+                "Poliwag",
+                "Machop",
+                "Tentacool",
+                "Seel",
+                "Grimer",
+                "Shellder",
+                "Koffing",
+                "Tangela",
+                "Horsea",
+                "Magikarp",
+                "Lapras",
+                "Omanyte",
+                "Kabuto",
+                "Dratini"
+     ]
   },
   {
      "type_id":4,
@@ -205,7 +286,21 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[]
+     "pokemon":["Bulbasaur",
+                "Weedle",
+                "Pidgey",
+                "Pikachu",
+                "Sandshrew",
+                "Meowth",
+                "Psyduck",
+                "Abra",
+                "Bellsprout",
+                "Ponyta",
+                "Drowzee",
+                "Hitmonlee",
+                "Kangaskhan",
+                "Staryu"
+     ]
   },
   {
      "type_id":5,
@@ -234,7 +329,23 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":[]
+     "pokemon":["Nidoran♀",
+                "Clefairy",
+                "Jigglypuff",
+                "Zubat",
+                "Oddish",
+                "Venonat",
+                "Geodude",
+                "Magnemite",
+                "Shellder",
+                "Onix",
+                "Exeggcute",
+                "Cubone",
+                "Rhyhorn",
+                "Chansey",
+                "Mr. Mime",
+                "Pinsir"
+     ]
   },
   {
      "type_id":6,
@@ -315,10 +426,14 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Rattata",
+     "pokemon":["Pidgey",
+                "Rattata",
+                "Spearow",
                 "Clefairy",
                 "Jigglypuff",
                 "Meowth",
+                "Farfetch'd",
+                "Doduo",
                 "Lickitung",
                 "Chansey",
                 "Kangaskhan",
@@ -365,6 +480,9 @@ export const Dishes = [
                 "Nidoran♀",
                 "Nidoran♂",
                 "Zubat",
+                "Oddish",
+                "Venonat",
+                "Bellsprout",
                 "Tentacool",
                 "Grimer",
                 "Gastly",
