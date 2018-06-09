@@ -34,7 +34,7 @@ class App extends Component {
         <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} />
         <div className="app-info">
           <p className="version"><strong>Version 1.21</strong></p>
-          <iframe src="http://www.strawpoll.me/embed_1/15862021">Loading poll...</iframe>
+          <iframe src="https://www.strawpoll.me/embed_1/15862021">Loading poll...</iframe>
           {/*<p><strong>Changes since last version:</strong>
             <br/>Added expedition time based on cooking pots used (basic/bronze,gold,silver)
             <br/>Added potential pokemon to each dish
