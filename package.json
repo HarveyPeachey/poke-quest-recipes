@@ -2,7 +2,7 @@
   "name": "pokequestrecipes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://theruler333.github.io/poke-quest-recipes/",
+  "homepage": ".",
   "dependencies": {
     "ajv": "^6.5.0",
     "gh-pages": "^1.2.0",
