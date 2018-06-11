@@ -11,7 +11,7 @@ ReactGA.pageview(window.location.pathname);
 class App extends Component {
   constructor() {
     super();
-    this.state = { dish: {}};
+    this.state = { dish: {}, id: null};
     this.handleOnClick = this.handleOnClick.bind(this);
     this.handlePokeClick = this.handlePokeClick.bind(this);
   }
@@ -22,16 +22,17 @@ class App extends Component {
         this.setState({dish: dish})
       }
     }
+    this.setState({id: null});
   }
   handlePokeClick(id) {
-    console.log(id);
+    this.setState({id});
   }
   render() {
     return (
         <div className="App">
         <div className="title" ><h1>Pokemon Quest Recipes</h1></div>
         <TypeList dish={ Dishes } handleOnClick={this.handleOnClick} />
-        <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} />
+        <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.id}/>
         <div className="app-info">
           <p className="version"><strong>Version 1.21</strong></p>
           <iframe src="https://www.strawpoll.me/embed_1/15862021">Loading poll...</iframe>
