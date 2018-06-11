@@ -2,7 +2,6 @@
 
 .App {
   background-color: @main-color;
-  border-radius: 10px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -30,11 +29,10 @@
   margin: 10px;
 }
 
-iframe {
-  width: 80vw;
-  height: 120vw;
-  border:0;
-  border-radius: 10px;
+.cool-item {
+  a {
+    padding-right: 10px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -46,12 +44,9 @@ iframe {
             box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.22);
     -ms-flex-pack: distribute;
         justify-content: space-around;
+    border-radius: 10px;
   }
   .title {
     margin: 0px 0 10px 0px;
-  }
-  iframe {
-    width: 700px;
-    height: 275px;
   }
 }
