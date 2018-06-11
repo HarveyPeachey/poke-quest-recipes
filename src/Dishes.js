@@ -110,50 +110,180 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Bulbasaur",
-                "Squirtle",
-                "Weedle",
-                "Ekans",
-                "Sandshrew",
-                "Nidoran♀",
-                "Nidoran♂",
-                "Clefairy",
-                "Jigglypuff",
-                "Paras",
-                "Diglett",
-                "Meowth",
-                "Abra",
-                "Geodude",
-                "Ponyta",
-                "Magnemite",
-                "Farfetch'd",
-                "Seel",
-                "Grimer",
-                "Gastly",
-                "Onix",
-                "Drowzee",
-                "Exeggcute",
-                "Hitmonlee",
-                "Hitmonchan",
-                "Lickitung",
-                "Koffing",
-                "Chansey",
-                "Tangela",
-                "Horsea",
-                "Mr. Mime",
-                "Scyther",
-                "Jynx",
-                "Magmar",
-                "Magikarp",
-                "Lapras",
-                "Ditto",
-                "Porygon",
-                "Omanyte",
-                "Kabuto",
-                "Aerodactyl",
-                "Snorlax",
-                "Dratini"
-      ]
+     "pokemon":[
+       {
+         "name": "Bulbasaur",
+         "quality": ""
+       },
+       {
+         "name": "Squirtle",
+         "quality": ""
+       },
+       {
+         "name": "Weedle",
+         "quality": "Normal"
+       },
+       {
+         "name": "Ekans",
+         "quality": ""
+       },
+       {
+         "name": "Sandshrew",
+         "quality": "Normal"
+       },
+       {
+         "name": "Nidoran♀",
+         "quality": "Normal"
+       },
+       {
+         "name": "Nidoran♂",
+         "quality": ""
+       },
+       {
+         "name": "Clefairy",
+         "quality": ""
+       },
+       {
+         "name": "Jigglypuff",
+         "quality": ""
+       },
+       {
+         "name": "Paras",
+         "quality": "Normal"
+       },
+       {
+         "name": "Diglett",
+         "quality": "Normal"
+       },
+       {
+         "name": "Meowth",
+         "quality": ""
+       },
+       {
+         "name": "Abra",
+         "quality": "Normal"
+       },
+       {
+         "name": "Geodude",
+         "quality": "Normal"
+       },
+       {
+         "name": "Ponyta",
+         "quality": ""
+       },
+       {
+         "name": "Magnemite",
+         "quality": ""
+       },
+       {
+         "name": "Farfetch'd",
+         "quality": "Very Good"
+       },
+       {
+         "name": "Seel",
+         "quality": ""
+       },
+       {
+         "name": "Grimer",
+         "quality": ""
+       },
+       {
+         "name": "Gastly",
+         "quality": "Special"
+       },
+       {
+         "name": "Onix",
+         "quality": "Very Good"
+       },
+       {
+         "name": "Drowzee",
+         "quality": "Special"
+       },
+       {
+         "name": "Exeggcute",
+         "quality": ""
+       },
+       {
+         "name": "Hitmonlee",
+         "quality": ""
+       },
+       {
+         "name": "Hitmonchan",
+         "quality": ""
+       },
+       {
+         "name": "Lickitung",
+         "quality": ""
+       },
+       {
+         "name": "Koffing",
+         "quality": ""
+       },
+       {
+         "name": "Chansey",
+         "quality": "Very Good"
+       },
+       {
+         "name": "Tangela",
+         "quality": "Special"
+       },
+       {
+         "name": "Horsea",
+         "quality": "Good"
+       },
+       {
+         "name": "Mr. Mime",
+         "quality": "Special"
+       },
+       {
+         "name": "Scyther",
+         "quality": "Special"
+       },
+       {
+         "name": "Jynx",
+         "quality": "Special"
+       },
+       {
+         "name": "Magmar",
+         "quality": ""
+       },
+       {
+         "name": "Magikarp",
+         "quality": "Special"
+       },
+       {
+         "name": "Lapras",
+         "quality": ""
+       },
+       {
+         "name": "Ditto",
+         "quality": "Special"
+       },
+       {
+         "name": "Porygon",
+         "quality": "Special"
+       },
+       {
+         "name": "Omanyte",
+         "quality": "Special"
+       },
+       {
+         "name": "Kabuto",
+         "quality": "Special"
+       },
+       {
+         "name": "Aerodactyl",
+         "quality": "Special"
+       },
+       {
+         "name": "Snorlax",
+         "quality": "Special"
+       },
+       {
+         "name": "Dratini",
+         "quality": ""
+       }
+     ]
   },
   {
      "type_id":2,
@@ -178,26 +308,87 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Charmander",
-                "Spearow",
-                "Vulpix",
-                "Paras",
-                "Diglett",
-                "Mankey",
-                "Growlithe",
-                "Slowpoke",
-                "Farfetch'd",
-                "Doduo",
-                "Krabby",
-                "Voltorb",
-                "Hitmonchan",
-                "Lickitung",
-                "Goldeen",
-                "Magmar",
-                "Pinsir",
-                "Eevee",
-                "Porygon",
-                "Kabuto"
+     "pokemon":[
+       {
+         "name": "Charmander",
+         "quality": ""
+       },
+       {
+         "name": "Spearow",
+         "quality": ""
+       },
+       {
+         "name": "Vulpix",
+         "quality": ""
+       },
+       {
+         "name": "Paras",
+         "quality": ""
+       },
+       {
+         "name": "Diglett",
+         "quality": ""
+       },
+       {
+         "name": "Mankey",
+         "quality": ""
+       },
+       {
+         "name": "Growlithe",
+         "quality": ""
+       },
+       {
+         "name": "Slowpoke",
+         "quality": ""
+       },
+       {
+         "name": "Farfetch'd",
+         "quality": ""
+       },
+       {
+         "name": "Doduo",
+         "quality": ""
+       },
+       {
+         "name": "Krabby",
+         "quality": ""
+       },
+       {
+         "name": "Voltorb",
+         "quality": ""
+       },
+       {
+         "name": "Hitmonchan",
+         "quality": ""
+       },
+       {
+         "name": "Lickitung",
+         "quality": ""
+       },
+       {
+         "name": "Goldeen",
+         "quality": ""
+       },
+       {
+         "name": "Magmar",
+         "quality": ""
+       },
+       {
+         "name": "Pinsir",
+         "quality": ""
+       },
+       {
+         "name": "Eevee",
+         "quality": ""
+       },
+       {
+         "name": "Porygon",
+         "quality": ""
+       },
+       {
+         "name": "Kabuto",
+         "quality": ""
+       }
      ]
   },
   {
@@ -235,24 +426,79 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Caterpie",
-                "Rattata",
-                "Ekans",
-                "Nidoran♂",
-                "Poliwag",
-                "Machop",
-                "Tentacool",
-                "Seel",
-                "Grimer",
-                "Shellder",
-                "Koffing",
-                "Tangela",
-                "Horsea",
-                "Magikarp",
-                "Lapras",
-                "Omanyte",
-                "Kabuto",
-                "Dratini"
+     "pokemon":[
+       {
+         "name": "Caterpie",
+         "quality": ""
+       },
+       {
+         "name": "Rattata",
+         "quality": ""
+       },
+       {
+         "name": "Ekans",
+         "quality": ""
+       },
+       {
+         "name": "Nidoran♂",
+         "quality": ""
+       },
+       {
+         "name": "Poliwag",
+         "quality": ""
+       },
+       {
+         "name": "Machop",
+         "quality": ""
+       },
+       {
+         "name": "Tentacool",
+         "quality": ""
+       },
+       {
+         "name": "Seel",
+         "quality": ""
+       },
+       {
+         "name": "Grimer",
+         "quality": ""
+       },
+       {
+         "name": "Shellder",
+         "quality": ""
+       },
+       {
+         "name": "Koffing",
+         "quality": ""
+       },
+       {
+         "name": "Tangela",
+         "quality": ""
+       },
+       {
+         "name": "Horsea",
+         "quality": ""
+       },
+       {
+         "name": "Magikarp",
+         "quality": ""
+       },
+       {
+         "name": "Lapras",
+         "quality": ""
+       },
+       {
+         "name": "Omanyte",
+         "quality": ""
+       },
+       {
+         "name": "Kabuto",
+         "quality": ""
+       },
+       {
+         "name": "Dratini",
+         "quality": ""
+       }
      ]
   },
   {
@@ -286,20 +532,63 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Bulbasaur",
-                "Weedle",
-                "Pidgey",
-                "Pikachu",
-                "Sandshrew",
-                "Meowth",
-                "Psyduck",
-                "Abra",
-                "Bellsprout",
-                "Ponyta",
-                "Drowzee",
-                "Hitmonlee",
-                "Kangaskhan",
-                "Staryu"
+     "pokemon":[
+       {
+         "name": "Bulbasaur",
+         "quality": ""
+       },
+       {
+         "name": "Weedle",
+         "quality": ""
+       },
+       {
+         "name": "Pidgey",
+         "quality": ""
+       },
+       {
+         "name": "Pikachu",
+         "quality": ""
+       },
+       {
+         "name": "Sandshrew",
+         "quality": ""
+       },
+       {
+         "name": "Meowth",
+         "quality": ""
+       },
+       {
+         "name": "Psyduck",
+         "quality": ""
+       },
+       {
+         "name": "Abra",
+         "quality": ""
+       },
+       {
+         "name": "Bellsprout",
+         "quality": ""
+       },
+       {
+         "name": "Ponyta",
+         "quality": ""
+       },
+       {
+         "name": "Drowzee",
+         "quality": ""
+       },
+       {
+         "name": "Hitmonlee",
+         "quality": ""
+       },
+       {
+         "name": "Kangaskhan",
+         "quality": ""
+       },
+       {
+         "name": "Staryu",
+         "quality": ""
+       }
      ]
   },
   {
@@ -329,22 +618,71 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Nidoran♀",
-                "Clefairy",
-                "Jigglypuff",
-                "Zubat",
-                "Oddish",
-                "Venonat",
-                "Geodude",
-                "Magnemite",
-                "Shellder",
-                "Onix",
-                "Exeggcute",
-                "Cubone",
-                "Rhyhorn",
-                "Chansey",
-                "Mr. Mime",
-                "Pinsir"
+     "pokemon":[
+       {
+         "name": "Nidoran♀",
+         "quality": ""
+       },
+       {
+         "name": "Clefairy",
+         "quality": ""
+       },
+       {
+         "name": "Jigglypuff",
+         "quality": ""
+       },
+       {
+         "name": "Zubat",
+         "quality": ""
+       },
+       {
+         "name": "Oddish",
+         "quality": ""
+       },
+       {
+         "name": "Venonat",
+         "quality": ""
+       },
+       {
+         "name": "Geodude",
+         "quality": ""
+       },
+       {
+         "name": "Magnemite",
+         "quality": ""
+       },
+       {
+         "name": "Shellder",
+         "quality": ""
+       },
+       {
+         "name": "Onix",
+         "quality": ""
+       },
+       {
+         "name": "Exeggcute",
+         "quality": ""
+       },
+       {
+         "name": "Cubone",
+         "quality": ""
+       },
+       {
+         "name": "Rhyhorn",
+         "quality": ""
+       },
+       {
+         "name": "Chansey",
+         "quality": ""
+       },
+       {
+         "name": "Mr. Mime",
+         "quality": ""
+       },
+       {
+         "name": "Pinsir",
+         "quality": ""
+       }
      ]
   },
   {
@@ -386,21 +724,67 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Squirtle",
-                "Psyduck",
-                "Poliwag",
-                "Slowpoke",
-                "Shellder",
-                "Tentacool",
-                "Seel",
-                "Krabby",
-                "Horsea",
-                "Goldeen",
-                "Staryu",
-                "Magikarp",
-                "Lapras",
-                "Omanyte",
-                "Kabuto"
+     "pokemon":[
+       {
+         "name": "Squirtle",
+         "quality": ""
+       },
+       {
+         "name": "Psyduck",
+         "quality": ""
+       },
+       {
+         "name": "Poliwag",
+         "quality": ""
+       },
+       {
+         "name": "Slowpoke",
+         "quality": ""
+       },
+       {
+         "name": "Shellder",
+         "quality": ""
+       },
+       {
+         "name": "Tentacool",
+         "quality": ""
+       },
+       {
+         "name": "Seel",
+         "quality": ""
+       },
+       {
+         "name": "Krabby",
+         "quality": ""
+       },
+       {
+         "name": "Horsea",
+         "quality": ""
+       },
+       {
+         "name": "Goldeen",
+         "quality": ""
+       },
+       {
+         "name": "Staryu",
+         "quality": ""
+       },
+       {
+         "name": "Magikarp",
+         "quality": ""
+       },
+       {
+         "name": "Lapras",
+         "quality": ""
+       },
+       {
+         "name": "Omanyte",
+         "quality": ""
+       },
+       {
+         "name": "Kabuto",
+         "quality": ""
+       }
      ]
   },
   {
@@ -426,22 +810,71 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Pidgey",
-                "Rattata",
-                "Spearow",
-                "Clefairy",
-                "Jigglypuff",
-                "Meowth",
-                "Farfetch'd",
-                "Doduo",
-                "Lickitung",
-                "Chansey",
-                "Kangaskhan",
-                "Tauros",
-                "Ditto",
-                "Eevee",
-                "Porygon",
-                "Snorlax"
+     "pokemon":[
+       {
+         "name": "Pidgey",
+         "quality": ""
+       },
+       {
+         "name": "Rattata",
+         "quality": ""
+       },
+       {
+         "name": "Spearow",
+         "quality": ""
+       },
+       {
+         "name": "Clefairy",
+         "quality": ""
+       },
+       {
+         "name": "Jigglypuff",
+         "quality": ""
+       },
+       {
+         "name": "Meowth",
+         "quality": ""
+       },
+       {
+         "name": "Farfetch'd",
+         "quality": ""
+       },
+       {
+         "name": "Doduo",
+         "quality": ""
+       },
+       {
+         "name": "Lickitung",
+         "quality": ""
+       },
+       {
+         "name": "Chansey",
+         "quality": ""
+       },
+       {
+         "name": "Kangaskhan",
+         "quality": ""
+       },
+       {
+         "name": "Tauros",
+         "quality": ""
+       },
+       {
+         "name": "Ditto",
+         "quality": ""
+       },
+       {
+         "name": "Eevee",
+         "quality": ""
+       },
+       {
+         "name": "Porygon",
+         "quality": ""
+       },
+       {
+         "name": "Snorlax",
+         "quality": ""
+       }
      ]
   },
   {
@@ -475,18 +908,55 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Bulbasaur",
-                "Ekans",
-                "Nidoran♀",
-                "Nidoran♂",
-                "Zubat",
-                "Oddish",
-                "Venonat",
-                "Bellsprout",
-                "Tentacool",
-                "Grimer",
-                "Gastly",
-                "Koffing"
+     "pokemon":[
+       {
+         "name": "Bulbasaur",
+         "quality": ""
+       },
+       {
+         "name": "Ekans",
+         "quality": ""
+       },
+       {
+         "name": "Nidoran♀",
+         "quality": ""
+       },
+       {
+         "name": "Nidoran♂",
+         "quality": ""
+       },
+       {
+         "name": "Zubat",
+         "quality": ""
+       },
+       {
+         "name": "Oddish",
+         "quality": ""
+       },
+       {
+         "name": "Venonat",
+         "quality": ""
+       },
+       {
+         "name": "Bellsprout",
+         "quality": ""
+       },
+       {
+         "name": "Tentacool",
+         "quality": ""
+       },
+       {
+         "name": "Grimer",
+         "quality": ""
+       },
+       {
+         "name": "Gastly",
+         "quality": ""
+       },
+       {
+         "name": "Koffing",
+         "quality": ""
+       }
      ]
   },
   {
@@ -540,12 +1010,31 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Sandshrew",
-                "Diglett",
-                "Geodude",
-                "Onix",
-                "Cubone",
-                "Rhyhorn"
+     "pokemon":[
+       {
+         "name": "Sandshrew",
+         "quality": ""
+       },
+       {
+         "name": "Diglett",
+         "quality": ""
+       },
+       {
+         "name": "Geodude",
+         "quality": ""
+       },
+       {
+         "name": "Onix",
+         "quality": ""
+       },
+       {
+         "name": "Cubone",
+         "quality": ""
+       },
+       {
+         "name": "Rhyhorn",
+         "quality": ""
+       }
      ]
   },
   {
@@ -571,12 +1060,31 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Bulbasaur",
-                "Oddish",
-                "Paras",
-                "Bellsprout",
-                "Exeggcute",
-                "Tangela"
+     "pokemon":[
+       {
+         "name": "Bulbasaur",
+         "quality": ""
+       },
+       {
+         "name": "Oddish",
+         "quality": ""
+       },
+       {
+         "name": "Paras",
+         "quality": ""
+       },
+       {
+         "name": "Bellsprout",
+         "quality": ""
+       },
+       {
+         "name": "Exeggcute",
+         "quality": ""
+       },
+       {
+         "name": "Tangela",
+         "quality": ""
+       }
      ]
   },
   {
@@ -602,12 +1110,31 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Caterpie",
-                "Weedle",
-                "Paras",
-                "Venonat",
-                "Scyther",
-                "Pinsir"
+     "pokemon":[
+       {
+         "name": "Caterpie",
+         "quality": ""
+       },
+       {
+         "name": "Weedle",
+         "quality": ""
+       },
+       {
+         "name": "Paras",
+         "quality": ""
+       },
+       {
+         "name": "Venonat",
+         "quality": ""
+       },
+       {
+         "name": "Scyther",
+         "quality": ""
+       },
+       {
+         "name": "Pinsir",
+         "quality": ""
+       }
      ]
   },
   {
@@ -637,12 +1164,31 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Abra",
-                "Slowpoke",
-                "Drowzee",
-                "Exeggcute",
-                "Mr. Mime",
-                "Jynx"
+     "pokemon":[
+       {
+         "name": "Abra",
+         "quality": ""
+       },
+       {
+         "name": "Slowpoke",
+         "quality": ""
+       },
+       {
+         "name": "Drowzee",
+         "quality": ""
+       },
+       {
+         "name": "Exeggcute",
+         "quality": ""
+       },
+       {
+         "name": "Mr. Mime",
+         "quality": ""
+       },
+       {
+         "name": "Jynx",
+         "quality": ""
+       }
      ]
   },
   {
@@ -688,12 +1234,31 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Geodude",
-                "Onix",
-                "Rhyhorn",
-                "Omanyte",
-                "Kabuto",
-                "Aerodactyl"
+     "pokemon":[
+       {
+         "name": "Geodude",
+         "quality": ""
+       },
+       {
+         "name": "Onix",
+         "quality": ""
+       },
+       {
+         "name": "Rhyhorn",
+         "quality": ""
+       },
+       {
+         "name": "Omanyte",
+         "quality": ""
+       },
+       {
+         "name": "Kabuto",
+         "quality": ""
+       },
+       {
+         "name": "Aerodactyl",
+         "quality": ""
+       }
      ]
   },
   {
@@ -715,13 +1280,35 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Pidgey",
-                "Spearow",
-                "Zubat",
-                "Farfetch'd",
-                "Doduo",
-                "Scyther",
-                "Aerodactyl"
+     "pokemon":[
+       {
+         "name": "Pidgey",
+         "quality": ""
+       },
+       {
+         "name": "Spearow",
+         "quality": ""
+       },
+       {
+         "name": "Zubat",
+         "quality": ""
+       },
+       {
+         "name": "Farfetch'd",
+         "quality": ""
+       },
+       {
+         "name": "Doduo",
+         "quality": ""
+       },
+       {
+         "name": "Scyther",
+         "quality": ""
+       },
+       {
+         "name": "Aerodactyl",
+         "quality": ""
+       }
      ]
   },
   {
@@ -759,11 +1346,27 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Charmander",
-                "Vulpix",
-                "Growlithe",
-                "Ponyta",
-                "Magmar"
+     "pokemon":[
+       {
+         "name": "Charmander",
+         "quality": ""
+       },
+       {
+         "name": "Vulpix",
+         "quality": ""
+       },
+       {
+         "name": "Growlithe",
+         "quality": ""
+       },
+       {
+         "name": "Ponyta",
+         "quality": ""
+       },
+       {
+         "name": "Magmar",
+         "quality": ""
+       }
      ]
   },
   {
@@ -789,10 +1392,23 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Pikachu",
-                "Magnemite",
-                "Voltorb",
-                "Electabuzz"
+     "pokemon":[
+       {
+         "name": "Pikachu",
+         "quality": ""
+       },
+       {
+         "name": "Magnemite",
+         "quality": ""
+       },
+       {
+         "name": "Voltorb",
+         "quality": ""
+       },
+       {
+         "name": "Electabuzz",
+         "quality": ""
+       }
      ]
   },
   {
@@ -810,10 +1426,23 @@ export const Dishes = [
          "quality": "Normal"
        }
      ],
-     "pokemon":["Mankey",
-                "Machop",
-                "Hitmonlee",
-                "Hitmonchan"
+     "pokemon":[
+       {
+         "name": "Mankey",
+         "quality": ""
+       },
+       {
+         "name": "Machop",
+         "quality": ""
+       },
+       {
+         "name": "Hitmonlee",
+         "quality": ""
+       },
+       {
+         "name": "Hitmonchan",
+         "quality": ""
+       }
      ]
   },
   {
@@ -839,6 +1468,27 @@ export const Dishes = [
          "quality": "Very Good"
        }
      ],
-     "pokemon":["Articuno","Zapdos","Moltres","Mewtwo","Mew"]
+     "pokemon":[
+       {
+         "name": "Articuno",
+         "quality": ""
+       },
+       {
+         "name": "Zapdos",
+         "quality": ""
+       },
+       {
+         "name": "Moltres",
+         "quality": ""
+       },
+       {
+         "name": "Mewtwo",
+         "quality": ""
+       },
+       {
+         "name": "Mew",
+         "quality": ""
+       }
+     ]
   }
 ]

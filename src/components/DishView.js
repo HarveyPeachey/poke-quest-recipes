@@ -5,20 +5,21 @@ import { pokeSprites } from '../pokeSprites';
 import './styles/DishView.css';
 
 class DishView extends React.Component {
-  constructor() {
-    super();
-  }
   render() {
     const { dish_name, variations, pokemon } = this.props.dish;
     var id = this.props.id;
+    var variation = null;
+    var pokeVariations = [];
+    var invVariation = null;
     const isVariationDefined = (dish_name !== undefined);
+    const isVariationsDefined = (variations !== undefined);
     const isPokemonDefined = (pokemon !== undefined);
     var dishPokemon = [];
     if (isPokemonDefined) {
       if (pokemon.length !== 0) {
         for (var i = 0; i < pokemon.length; i++) {
           for (var j = 0; j < pokeSprites.length; j++) {
-            if (pokemon[i] === pokeSprites[j].name) {
+            if (pokemon[i].name === pokeSprites[j].name) {
               dishPokemon.push(pokeSprites[j]);
               break;
             }
@@ -27,7 +28,7 @@ class DishView extends React.Component {
       }
     }
 
-    const variation = isVariationDefined
+    variation = isVariationDefined
     ? variations.map((variations, index) => {
       return (
         <VariationView
@@ -37,6 +38,32 @@ class DishView extends React.Component {
       );
     })
     : null
+
+    if (id !== null) {
+      console.log(id)
+      for (var p = 0; p < pokemon.length; p++) {
+        if (id === pokemon[p].name) {
+          for (var o = 0; o < variations.length; o++) {
+            if (pokemon[p].quality === variations[o].quality) {
+              pokeVariations.push(variations[o]);
+            }
+          }
+        }
+      }
+      if (pokeVariations.length > 0) {
+        variation = pokeVariations.map((pokeVariations, index) => {
+          return (
+            <VariationView
+              key={index}
+              variations={pokeVariations}
+            />
+          );
+        })
+      }
+      else {
+        invVariation = "(Not enough data for this Pokemon)"
+      }
+    }
 
     const pokemonImage = isPokemonDefined
     ? pokemon.map((pokemon, index) => {
@@ -55,8 +82,10 @@ class DishView extends React.Component {
         <section className="pokemon-view">
           {pokemonImage !== undefined ? pokemonImage : null }
         </section>
-        <div>{id}</div>
-        {variation !== undefined ? variation : null }
+        <h3>{id}
+        <div>{invVariation}</div>
+        </h3>
+        {variation !== null ? variation : null }
       </section>
     );
   }
