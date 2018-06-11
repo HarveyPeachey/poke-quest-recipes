@@ -315,7 +315,7 @@ export const Dishes = [
        },
        {
          "name": "Spearow",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Vulpix",
@@ -331,7 +331,7 @@ export const Dishes = [
        },
        {
          "name": "Mankey",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Growlithe",
@@ -343,19 +343,19 @@ export const Dishes = [
        },
        {
          "name": "Farfetch'd",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Doduo",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Krabby",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Voltorb",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Hitmonchan",
@@ -363,19 +363,19 @@ export const Dishes = [
        },
        {
          "name": "Lickitung",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Goldeen",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Magmar",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Pinsir",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Eevee",
@@ -383,7 +383,7 @@ export const Dishes = [
        },
        {
          "name": "Porygon",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Kabuto",
@@ -433,7 +433,7 @@ export const Dishes = [
        },
        {
          "name": "Rattata",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Ekans",
@@ -441,11 +441,11 @@ export const Dishes = [
        },
        {
          "name": "Nidoran♂",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Poliwag",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Machop",
@@ -457,7 +457,7 @@ export const Dishes = [
        },
        {
          "name": "Seel",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Grimer",
@@ -465,7 +465,7 @@ export const Dishes = [
        },
        {
          "name": "Shellder",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Koffing",
@@ -473,7 +473,7 @@ export const Dishes = [
        },
        {
          "name": "Tangela",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Horsea",
@@ -481,23 +481,23 @@ export const Dishes = [
        },
        {
          "name": "Magikarp",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Lapras",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Omanyte",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Kabuto",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Dratini",
-         "quality": ""
+         "quality": "Special"
        }
      ]
   },
@@ -543,7 +543,7 @@ export const Dishes = [
        },
        {
          "name": "Pidgey",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Pikachu",
@@ -551,11 +551,11 @@ export const Dishes = [
        },
        {
          "name": "Sandshrew",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Meowth",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Psyduck",
@@ -563,11 +563,11 @@ export const Dishes = [
        },
        {
          "name": "Abra",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Bellsprout",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Ponyta",
@@ -575,11 +575,11 @@ export const Dishes = [
        },
        {
          "name": "Drowzee",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Hitmonlee",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Kangaskhan",
@@ -587,7 +587,7 @@ export const Dishes = [
        },
        {
          "name": "Staryu",
-         "quality": ""
+         "quality": "Normal"
        }
      ]
   },
@@ -621,15 +621,15 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Nidoran♀",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Clefairy",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Jigglypuff",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Zubat",
@@ -637,7 +637,7 @@ export const Dishes = [
        },
        {
          "name": "Oddish",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Venonat",
@@ -645,7 +645,7 @@ export const Dishes = [
        },
        {
          "name": "Geodude",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Magnemite",
@@ -661,23 +661,23 @@ export const Dishes = [
        },
        {
          "name": "Exeggcute",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Cubone",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Rhyhorn",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Chansey",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Mr. Mime",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Pinsir",
@@ -731,7 +731,7 @@ export const Dishes = [
        },
        {
          "name": "Psyduck",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Poliwag",
@@ -739,11 +739,11 @@ export const Dishes = [
        },
        {
          "name": "Slowpoke",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Shellder",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Tentacool",
@@ -759,7 +759,7 @@ export const Dishes = [
        },
        {
          "name": "Horsea",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Goldeen",
@@ -771,11 +771,11 @@ export const Dishes = [
        },
        {
          "name": "Magikarp",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Lapras",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Omanyte",
@@ -813,11 +813,11 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Pidgey",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Rattata",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Spearow",
@@ -845,7 +845,7 @@ export const Dishes = [
        },
        {
          "name": "Lickitung",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Chansey",
@@ -861,7 +861,7 @@ export const Dishes = [
        },
        {
          "name": "Ditto",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Eevee",
@@ -869,7 +869,7 @@ export const Dishes = [
        },
        {
          "name": "Porygon",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Snorlax",
@@ -911,7 +911,7 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Bulbasaur",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Ekans",
@@ -951,7 +951,7 @@ export const Dishes = [
        },
        {
          "name": "Gastly",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Koffing",
@@ -1021,19 +1021,19 @@ export const Dishes = [
        },
        {
          "name": "Geodude",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Onix",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Cubone",
-         "quality": ""
+         "quality": "Special"
        },
        {
          "name": "Rhyhorn",
-         "quality": ""
+         "quality": "Normal"
        }
      ]
   },
@@ -1063,7 +1063,7 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Bulbasaur",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Oddish",
@@ -1071,7 +1071,7 @@ export const Dishes = [
        },
        {
          "name": "Paras",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Bellsprout",
@@ -1079,7 +1079,7 @@ export const Dishes = [
        },
        {
          "name": "Exeggcute",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Tangela",
@@ -1113,27 +1113,27 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Caterpie",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Weedle",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Paras",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Venonat",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Scyther",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Pinsir",
-         "quality": ""
+         "quality": "Special"
        }
      ]
   },
@@ -1167,7 +1167,7 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Abra",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Slowpoke",
@@ -1175,11 +1175,11 @@ export const Dishes = [
        },
        {
          "name": "Drowzee",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Exeggcute",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Mr. Mime",
@@ -1237,23 +1237,23 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Geodude",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Onix",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Rhyhorn",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Omanyte",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Kabuto",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Aerodactyl",
@@ -1283,19 +1283,19 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Pidgey",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Spearow",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Zubat",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Farfetch'd",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Doduo",
@@ -1349,23 +1349,23 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Charmander",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Vulpix",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Growlithe",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Ponyta",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Magmar",
-         "quality": ""
+         "quality": "Special"
        }
      ]
   },
@@ -1395,11 +1395,11 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Pikachu",
-         "quality": ""
+         "quality": "Very Good"
        },
        {
          "name": "Magnemite",
-         "quality": ""
+         "quality": "Normal"
        },
        {
          "name": "Voltorb",
@@ -1407,7 +1407,7 @@ export const Dishes = [
        },
        {
          "name": "Electabuzz",
-         "quality": ""
+         "quality": "Special"
        }
      ]
   },
@@ -1433,7 +1433,7 @@ export const Dishes = [
        },
        {
          "name": "Machop",
-         "quality": ""
+         "quality": "Good"
        },
        {
          "name": "Hitmonlee",
@@ -1441,7 +1441,7 @@ export const Dishes = [
        },
        {
          "name": "Hitmonchan",
-         "quality": ""
+         "quality": "Good"
        }
      ]
   },

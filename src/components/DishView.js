@@ -11,8 +11,7 @@ class DishView extends React.Component {
     var variation = null;
     var pokeVariations = [];
     var invVariation = null;
-    const isVariationDefined = (dish_name !== undefined);
-    const isVariationsDefined = (variations !== undefined);
+    const isVariationDefined = (dish_name !== undefined);;
     const isPokemonDefined = (pokemon !== undefined);
     var dishPokemon = [];
     if (isPokemonDefined) {
@@ -40,7 +39,6 @@ class DishView extends React.Component {
     : null
 
     if (id !== null) {
-      console.log(id)
       for (var p = 0; p < pokemon.length; p++) {
         if (id === pokemon[p].name) {
           for (var o = 0; o < variations.length; o++) {
@@ -90,58 +88,5 @@ class DishView extends React.Component {
     );
   }
 }
-
-
-// const DishView = ( {dish, handlePokeClick} ) => {
-//   const { dish_name, variations, pokemon } = dish
-//   const isVariationDefined = (variations !== undefined)
-//   const isPokemonDefined = (pokemon !== undefined)
-//   var dishPokemon = []
-//   if (isPokemonDefined) {
-//     if (pokemon.length !== 0) {
-//       for (var i = 0; i < pokemon.length; i++) {
-//         for (var j = 0; j < pokeSprites.length; j++) {
-//           if (pokemon[i] === pokeSprites[j].name) {
-//             dishPokemon.push(pokeSprites[j]);
-//             break;
-//           }
-//         }
-//       }
-//     }
-//   }
-//
-//   const variation = isVariationDefined
-//   ? variations.map((variations, index) => {
-//     return (
-//       <VariationView
-//         key={index}
-//         variations={variations}
-//       />
-//     );
-//   })
-//   : null
-//
-//   const pokemonImage = isVariationDefined
-//   ? pokemon.map((pokemon, index) => {
-//     return (
-//       <PokemonItem
-//         key={index}
-//         pokemon={dishPokemon[index]}
-//         handlePokeClick={handlePokeClick}
-//       />
-//     );
-//   })
-//   : null
-//
-//   return (
-//     <section className="dish-view">
-//       <h2 className="dish-name">{dish_name}</h2>
-//       <section className="pokemon-view">
-//         {pokemonImage !== undefined ? pokemonImage : null }
-//       </section>
-//       {variation !== undefined ? variation : null }
-//     </section>
-//   )
-// }
 
 export default DishView;
