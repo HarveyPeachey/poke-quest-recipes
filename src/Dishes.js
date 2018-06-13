@@ -749,7 +749,7 @@ export const Dishes = [
        },
        {
          "name": "Chansey",
-         "quality": [""]
+         "quality": ["Special"]
        },
        {
          "name": "Mr. Mime",
