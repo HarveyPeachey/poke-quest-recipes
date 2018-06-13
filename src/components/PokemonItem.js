@@ -1,5 +1,5 @@
 import React from 'react';
-import sprites from '../assets/pokeSprites.png';
+import sprites from '../assets/pokeSpritesnq8.png';
 import './styles/PokemonItem.css'
 
 const PokemonItem = ({ pokemon, handlePokeClick }) => {
