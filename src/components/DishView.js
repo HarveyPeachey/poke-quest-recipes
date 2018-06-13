@@ -42,8 +42,10 @@ class DishView extends React.Component {
       for (var p = 0; p < pokemon.length; p++) {
         if (id === pokemon[p].name) {
           for (var o = 0; o < variations.length; o++) {
-            if (pokemon[p].quality === variations[o].quality) {
-              pokeVariations.push(variations[o]);
+            for (var l = 0; l < pokemon[p].quality.length; l++) {
+              if (pokemon[p].quality[l] === variations[o].quality) {
+                pokeVariations.push(variations[o]);
+              }
             }
           }
         }
