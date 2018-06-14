@@ -237,11 +237,11 @@ export const Dishes = [
        },
        {
          "name": "Kabuto",
-         "quality": ["Special"]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Aerodactyl",
-         "quality": ["Special"]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Snorlax",

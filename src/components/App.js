@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import TypeList from './TypeList';
+import TypeView from './TypeView';
 import DishView from './DishView';
 import { Dishes } from '../Dishes';
 import ReactGA from 'react-ga';
@@ -34,7 +34,7 @@ class App extends Component {
         <div className="hide cool-item">
         <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJRPZQ9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJRPZQ9&linkCode=as2&tag=harveypeachey-20&linkId=698ad31822e45ff92e8108c254be106c"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJRPZQ9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeachey-20&l=am2&o=1&a=B07DJRPZQ9" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
         </div>
-        <TypeList dish={ Dishes } handleOnClick={this.handleOnClick} />
+        <TypeView dish={ Dishes } handleOnClick={this.handleOnClick} />
         <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.id}/>
         <div className="app-info">
           <p className="version"><strong>Version 1.3</strong></p>

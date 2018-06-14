@@ -1,7 +1,7 @@
 import React from 'react';
 import VariationView from './VariationView'
 import PokemonItem from './PokemonItem'
-import { pokeSprites } from '../pokeSprites';
+import { pokeSprites } from '../pokeSpritesObtain';
 import './styles/DishView.css';
 
 class DishView extends React.Component {
