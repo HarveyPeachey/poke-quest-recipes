@@ -11,7 +11,6 @@ class TypeView extends React.Component {
     super(props);
   }
   render() {
-    console.log(pokeSprites[0])
     const dish = this.props.dish;
     const filterId = this.props.filterId;
     const items = (filterId === 0)
