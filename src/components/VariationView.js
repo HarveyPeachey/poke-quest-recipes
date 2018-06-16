@@ -83,6 +83,9 @@ const VariationView = ({variations}) => {
       case "ms":
         imgUrls[i] = `${ms}`
         imgSizes[i] = {width: "50px", height:"50px"}
+        basicBronze = 7
+        silver = 8
+        gold = 9
         break;
       default:
         console.log("Invalid Shortcode")
@@ -93,6 +96,7 @@ const VariationView = ({variations}) => {
       {/*<div>*/}
         <div className="info">Quality: {quality}</div>
         <div className="info exped">
+          <span className="exped-text">Expeditions:</span><br/>
           <span className="fa-stack fa-1x bronze">
             <i className="fa fa-coffee fa-stack-1x fa-flip-horizontal" aria-hidden="true"></i>
             <i className="fa fa-coffee fa-stack-1x" aria-hidden="true"></i>

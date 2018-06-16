@@ -7,9 +7,6 @@ import './styles/TypeView.css';
 
 
 class TypeView extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     const dish = this.props.dish;
     const filterId = this.props.filterId;
@@ -34,6 +31,8 @@ class TypeView extends React.Component {
     })
     return (
       <section className="type-view">
+        <h2 className="title">{ filterId === 0 ? "Types" : "Pokemon"}</h2>
+        <p className="scroll-text">{ filterId === 0 ? "Select a type and scroll to see recipes" : "Select a Pokemon and scroll to see recipes"}</p>
         {items}
       </section>
     );
