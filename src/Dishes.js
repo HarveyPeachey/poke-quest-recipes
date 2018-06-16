@@ -941,7 +941,7 @@ export const Dishes = [
        },
        {
          "name": "Tauros",
-         "quality": [""]
+         "quality": ["Special"]
        },
        {
          "name": "Ditto",
@@ -1583,23 +1583,23 @@ export const Dishes = [
      "pokemon":[
        {
          "name": "Articuno",
-         "quality": [""]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Zapdos",
-         "quality": [""]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Moltres",
-         "quality": [""]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Mewtwo",
-         "quality": [""]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Mew",
-         "quality": [""]
+         "quality": ["Special","Very Good"]
        }
      ]
   }

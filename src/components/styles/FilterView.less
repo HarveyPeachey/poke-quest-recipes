@@ -1,14 +1,35 @@
+@import '_colors.less';
+
 .filter-view {
   width: 100%;
   margin: auto;
   display: flex;
-  justify-content: space-between;
-  padding: 0 20% 0 20%;
+  justify-content: center;
+  button {
+    width: 110px;
+    height: 40px;
+    margin: 8px;
+    background-color: @sec-color;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+    font-size: 18px;
+    font-family: helvetica;
+  }
 }
 
 @media (min-width: 992px) {
   .filter-view {
     width: 50%;
     margin: 0 50% 0 0;
+    padding: 0;
+    .type-filter {
+      margin-left: 40px;
+    }
+    .poke-filter {
+      margin-right: 40px;
+    }
   }
 }

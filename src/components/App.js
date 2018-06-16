@@ -12,7 +12,7 @@ ReactGA.pageview(window.location.pathname);
 class App extends Component {
   constructor() {
     super();
-    this.state = { dish: {}, pokeRecId: null, filterId: 0};
+    this.state = { dish: [{}], pokeRecId: null, filterId: 0};
     this.handleOnClick = this.handleOnClick.bind(this);
     this.handlePokeClick = this.handlePokeClick.bind(this);
     this.handleFilterClick = this.handleFilterClick.bind(this);
@@ -20,28 +20,47 @@ class App extends Component {
   handleOnClick(dishId) {
     for (var i = 0; i < Dishes.length; i++) {
       if (Dishes[i].type_id === dishId) {
-        const dish = Dishes[i];
-        this.setState({dish: dish})
+        var dish = Dishes[i];
+        this.setState({dish: [dish]})
       }
     }
     this.setState({pokeRecId: null});
   }
   handlePokeClick(pokeRecId) {
     if (this.state.filterId === 1) {
+      var dish = [];
+      var obj = {};
       for (var i = 0; i < Dishes.length; i++) {
         for (var j = 0; j < Dishes[i].pokemon.length; j++) {
-          console.log(pokeRecId, Dishes[i].pokemon[j].name);
           if (pokeRecId === Dishes[i].pokemon[j].name) {
             for (var h = 0; h < Dishes[i].pokemon[j].quality.length; h++) {
               for (var k = 0; k < Dishes[i].variations.length; k++) {
                 if (Dishes[i].pokemon[j].quality[h] === Dishes[i].variations[k].quality) {
-                  console.log(Dishes[i].pokemon[j].quality[h], Dishes[i].variations[k].quality);
+                  if (dish.length === 0) {
+                    obj.dish_name = Dishes[i].dish_name;
+                    dish.push(obj);
+                    dish[dish.length - 1].variations = [];
+                    dish[dish.length - 1].variations.push(Dishes[i].variations[k]);
+                    obj = {};
+                  }
+                  else if (dish[dish.length-1].dish_name === Dishes[i].dish_name) {
+                      dish[dish.length-1].variations.push(Dishes[i].variations[k]);
+                  }
+                  else {
+                    obj.dish_name = Dishes[i].dish_name;
+                    dish.push(obj);
+                    dish[dish.length-1].variations = [];
+                    dish[dish.length-1].variations.push(Dishes[i].variations[k]);
+                    obj = {};
+                  }
                 }
               }
             }
           }
         }
       }
+      this.setState({dish: dish});
+      this.setState({pokeRecId});
     }
     else {
       this.setState({pokeRecId});
@@ -49,7 +68,7 @@ class App extends Component {
   }
   handleFilterClick(filterId) {
     this.setState({filterId});
-    this.setState({dish: {}})
+    this.setState({dish: [{}]})
     this.setState({pokeRecId: null});
   }
   render() {
@@ -61,7 +80,7 @@ class App extends Component {
         </div>*/}
         <FilterView handleFilterClick={this.handleFilterClick} />
         <TypeView dish={ Dishes } handleOnClick={this.handleOnClick} handlePokeClick={this.handlePokeClick} filterId={this.state.filterId} />
-        <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.pokeRecId}/>
+        <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.pokeRecId} filterId={this.state.filterId}/>
         <div className="app-info">
           <p className="version"><strong>Version 1.3</strong></p>
           {/*<iframe src="https://www.strawpoll.me/embed_1/15862021">Loading poll...</iframe>*/}

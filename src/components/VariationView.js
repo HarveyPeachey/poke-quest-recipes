@@ -1,4 +1,14 @@
 import React from 'react';
+import a  from '../assets/apricorn.png';
+import bm from '../assets/balmmushroom.png';
+import br from '../assets/bigroot.png';
+import bb from '../assets/blukberry.png';
+import f  from '../assets/fossil.png';
+import h  from '../assets/honey.png';
+import ir from '../assets/icyrock.png';
+import ms from '../assets/mysticalshell.png';
+import rm from '../assets/rainbowmatter.png';
+import tm from '../assets/tinymushroom.png';
 import './styles/VariationView.css'
 
 const VariationView = ({variations}) => {
@@ -35,43 +45,43 @@ const VariationView = ({variations}) => {
   for (var i = 0; i < ingredients.length; i++) {
     switch(ingredients[i]) {
       case "a":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/apricorn.png"
+        imgUrls[i] = `${a}`
         imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "bm":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/balmmushroom.png"
+        imgUrls[i] = `${bm}`
         imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "br":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/bigroot.png"
+        imgUrls[i] = `${br}`
         imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "bb":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/blukberry.png"
+        imgUrls[i] = `${bb}`
         imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "f":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/fossil.png"
+        imgUrls[i] = `${f}`
         imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "h":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/honey.png"
+        imgUrls[i] = `${h}`
         imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "ir":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/icyrock.png"
+        imgUrls[i] = `${ir}`
         imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "tm":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/tinymushroom.png"
+        imgUrls[i] = `${tm}`
         imgSizes[i] = {width: "30px", height:"30px"}
         break;
       case "rm":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/rainbowmatter.png"
+        imgUrls[i] = `${rm}`
         imgSizes[i] = {width: "50px", height:"50px"}
         break;
       case "ms":
-        imgUrls[i] = "https://www.serebii.net/quest/ingredients/mysticalshell.png"
+        imgUrls[i] = `${ms}`
         imgSizes[i] = {width: "50px", height:"50px"}
         break;
       default:
@@ -83,12 +93,18 @@ const VariationView = ({variations}) => {
       {/*<div>*/}
         <div className="info">Quality: {quality}</div>
         <div className="info exped">
-          <span className="exped-text">Expeditions:</span>
-          <span className="bronze"> {basicBronze}</span>
-          <span> | </span>
-          <span className="silver">{silver}</span>
-          <span> | </span>
-          <span className="gold">{gold}</span>
+          <span className="fa-stack fa-1x bronze">
+            <i className="fa fa-coffee fa-stack-1x fa-flip-horizontal" aria-hidden="true"></i>
+            <i className="fa fa-coffee fa-stack-1x" aria-hidden="true"></i>
+          </span>{basicBronze}
+          <span className="fa-stack fa-1x silver">
+            <i className="fa fa-coffee fa-stack-1x fa-flip-horizontal" aria-hidden="true"></i>
+            <i className="fa fa-coffee fa-stack-1x" aria-hidden="true"></i>
+          </span>{silver}
+          <span className="fa-stack fa-1x gold">
+            <i className="fa fa-coffee fa-stack-1x fa-flip-horizontal" aria-hidden="true"></i>
+            <i className="fa fa-coffee fa-stack-1x" aria-hidden="true"></i>
+          </span>{gold}
         </div>
       {/*</div>*/}
       <img style={imgSizes[0]} className="ingred-image" alt="comp" src={imgUrls[0]} />
