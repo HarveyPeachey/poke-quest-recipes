@@ -94,8 +94,9 @@ class DishView extends React.Component {
     else if (filterId === 1) {
       const dish = this.props.dish;
       const isDishEmpty = (Object.keys(dish[0]).length !== 0);
+      // Reverses mapping so that mulligan is shown at the bottom
       variation = isDishEmpty
-      ? dish.map(dishes => {
+      ? dish.slice(0).reverse().map(dishes => {
         return (
           [<h3>{dishes.dish_name}</h3>,
           dishes.variations.map(variations => {

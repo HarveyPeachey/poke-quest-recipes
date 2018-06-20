@@ -3682,6 +3682,10 @@ export const Dishes = [
          "quality": ["Special"]
        },
        {
+         "name": "Charmander",
+         "quality": ["Special"]
+       },
+       {
          "name": "Squirtle",
          "quality": ["Special"]
        },
@@ -5218,6 +5222,10 @@ export const Dishes = [
          "quality": ["Good"]
        },
        {
+         "name": "Gastly",
+         "quality": ["Special"]
+       },
+       {
          "name": "Onix",
          "quality": ["Good"]
        },
@@ -5645,7 +5653,7 @@ export const Dishes = [
        },
        {
          "name": "Lickitung",
-         "quality": ["Very Good"]
+         "quality": ["Very Good","Good"]
        },
        {
          "name": "Chansey",
@@ -7081,7 +7089,7 @@ export const Dishes = [
        },
        {
          "name": "Kabuto",
-         "quality": ["Very Good"]
+         "quality": ["Special","Very Good"]
        },
        {
          "name": "Aerodactyl",
