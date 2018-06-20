@@ -6,7 +6,7 @@ const PokemonItem = ({ pokemon, handlePokeClick }) => {
   const backgroundPosition = pokemon.x + " -" + pokemon.y + "px"
   const style = { backgroundImage: `url(${sprites})`, backgroundPosition };
   const image =
-    <button onClick={() => handlePokeClick(pokemon.name)} style={style} className="poke-image"></button>
+    <button onClick={() => handlePokeClick(pokemon.name)} style={style} id={pokemon.name.toLowerCase()}className="poke-image"></button>
   return image
 }
 

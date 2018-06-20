@@ -5,79 +5,3677 @@ export const Dishes = [
      "color": "#DB9D3C",
      "dish_name":"Mulligan Stew a la Cube",
      "variations":[
-       {
-         "ingredients":["h","h","br","br","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["h","h","ir","ir","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","bm","br","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","br","br","ir","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","br","br","h","h"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","bm","bb","bb"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","a","a","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["ir","ir","tm","tm","f"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["ir","bb","h","a","f"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","f","tm","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["f","f","f","bb","bb"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["a","a","a","bb","bb"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["a","a","a","tm","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","a","a","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","a","a","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","f","f","a"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","f","f","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["a","a","a","tm","bb"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "bm",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bm",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "h",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "h",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "h",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "h",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "br",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "br",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "br",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "br",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "h",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "h",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "h",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "h",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "h",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "ir",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "br",
+          "br",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "br",
+          "br",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "br",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "br",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "br",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "br",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "h",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "ir",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "br",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "br",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "br",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "br",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Bulbasaur",
@@ -259,55 +3857,277 @@ export const Dishes = [
      "color": "#FC6547",
      "dish_name":"Red Stew a la Cube",
      "variations":[
-       {
-         "ingredients":["br","br","br","br","br"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","br","br","br","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","br","br","br","h"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["tm","tm","br","br","br"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","br","br","ir"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","br","br","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","tm","h"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","br","br"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","tm","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","tm","a"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["tm","tm","tm","tm","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["tm","tm","tm","tm","bb"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "br",
+          "br",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "bb"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "tm",
+          "tm"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Charmander",
@@ -397,55 +4217,277 @@ export const Dishes = [
      "color": "#32F0FD",
      "dish_name":"Blue Soda a la Cube",
      "variations":[
-       {
-         "ingredients":["ir","ir","ir","ir","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["ir","ir","ir","ir","bm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["ir","ir","ir","ir","h"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bb","bb","ir","ir","ir"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bb","f","ir","ir","ir"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","bb","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","f","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","tm","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","bb","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","bb","bb","a"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","bb","bb","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","bb","bb","bb"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "bb"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "bb"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bb",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+      ],
      "pokemon":[
        {
          "name": "Squirtle",
@@ -527,55 +4569,277 @@ export const Dishes = [
      "color": "#FEE93A",
      "dish_name":"Yellow Curry a la Cube",
      "variations":[
-       {
-         "ingredients":["h","h","h","h","h"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["h","h","h","h","br"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["h","h","h","h","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["a","a","ir","h","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["a","a","h","h","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["a","f","h","h","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["h","h","bb","a","a"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["h","h","a","a","a"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["h","h","a","a","bb"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["a","a","a","a","bb"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["a","a","a","a","a"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["a","a","a","a","f"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "h",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Bulbasaur",
@@ -645,55 +4909,277 @@ export const Dishes = [
      "color": "#808080",
      "dish_name":"Gray Porridge a la Cube",
      "variations":[
-       {
-         "ingredients":["bm","bm","bm","bm","h"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","bm","bm","br"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","bm","bm","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","bm","bm","tm"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bm","bm","bm","bm","a"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bm","bm","bm","bm","f"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["f","f","f","f","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","f","f","h"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","f","f","br"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","f","f","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["f","f","f","f","a"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["f","f","f","f","bb"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "bm",
+          "bm",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "bm",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "bm",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "bm",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bm",
+          "bm",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "bm",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Nidoran♀",
@@ -763,43 +5249,237 @@ export const Dishes = [
      "color": "#6A92ED",
      "dish_name":"Mouth-Watering Dip a la Cube",
      "variations":[
-       {
-         "ingredients":["ir","bb","bb","h","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bb","bb","h","br","ir"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","br","br"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","ir","tm","tm"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","h","bm"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","tm","br","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","tm","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","bb","a","tm"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","bb","f","tm"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "br",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "bb"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "bb",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Squirtle",
@@ -869,31 +5549,67 @@ export const Dishes = [
      "color": "#A8A77A",
      "dish_name":"Plain Crepe a la Cube",
      "variations":[
-       {
-         "ingredients":["h","h","h","bm","bm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["f","f","h","h","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["h","h","bb","bm","bm"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bb","bb","h","f","f"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","f","f","h","h"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bb","bb","bb","f","f"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Pidgey",
@@ -967,31 +5683,127 @@ export const Dishes = [
      "color": "#9F449E",
      "dish_name":"Sludge Soup a la Cube",
      "variations":[
-       {
-         "ingredients":["bm","bm","bm","tm","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","tm","tm","br"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bm","bm","tm","tm","rm"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["bm","bm","bm","tm","br"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","bm","bm"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["bm","bm","bm","tm","tm"],
-         "quality": "Good"
-       }
-     ],
+      {
+        "ingredients": [
+          "tm",
+          "bm",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      }
+    ],
      "pokemon":[
        {
          "name": "Bulbasaur",
@@ -1049,43 +5861,487 @@ export const Dishes = [
      "color": "#DFBF6E",
      "dish_name":"Mud Pie a la Cube",
      "variations":[
-       {
-         "ingredients":["h","h","h","ir","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","br","br","ir","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","bb","bm","f","ir"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["ir","ir","h","h","bb"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["ir","ir","h","tm","bb"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","ir","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","bb","tm","br"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","f","f"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["bb","bb","f","f","tm"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "h",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Sandshrew",
@@ -1119,27 +6375,107 @@ export const Dishes = [
      "color": "#7BC657",
      "dish_name":"Veggie Smoothie a la Cube",
      "variations":[
-       {
-         "ingredients":["br","br","br","a","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["br","br","br","a","a"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["br","br","br","bm","a"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["br","bm","a","a","a"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["br","br","a","a","f"],
-         "quality": "Good"
-       }
-     ],
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "br",
+          "br",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "br",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "br",
+          "br"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "br",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "br",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "br"
+        ],
+        "quality": "Good"
+      }
+    ],
      "pokemon":[
        {
          "name": "Bulbasaur",
@@ -1236,6 +6572,14 @@ export const Dishes = [
          "quality": "Good"
        },
        {
+         "ingredients":["bb","a","f","h","h"],
+         "quality": "Good"
+       },
+       {
+         "ingredients":["bb","bb","a","ir","h"],
+         "quality": "Good"
+       },
+       {
          "ingredients":["bb","bb","bb","a","a"],
          "quality": "Normal"
        },
@@ -1277,47 +6621,447 @@ export const Dishes = [
      "color": "#B79F41",
      "dish_name":"Stone Soup a la Cube",
      "variations":[
-       {
-         "ingredients":["ir","ir","ir","f","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["ir","ir","ir","a","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["ir","ir","br","a","f"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["ir","ir","ir","f","a"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["f","f","ir","ir","br"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["ir","ir","f","a","a"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","f","a","ir"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["f","f","f","a","a"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["f","f","a","a","bb"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["f","f","f","bb","a"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "ir",
+          "ir",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "ir",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "ir",
+          "ir"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "f",
+          "br"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "f",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "f",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Geodude",
@@ -1405,43 +7149,387 @@ export const Dishes = [
      "color": "#EE803B",
      "dish_name":"Hot Pot a la Cube",
      "variations":[
-       {
-         "ingredients":["bm","bm","bm","br","br"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["bm","bm","bm","br","h"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["tm","tm","br","bm","h"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","br","bm","ir"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","tm","bm","bb","bb"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","h","h"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","bm","bm"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","tm","bb","bb"],
-         "quality": "Normal"
-       },
-       {
-         "ingredients":["tm","tm","tm","a","a"],
-         "quality": "Normal"
-       }
-     ],
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "bm",
+          "bm",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "bm",
+          "bm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bm",
+          "rm",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "bm",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "ir",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "bm",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "h",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "ir",
+          "rm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "f",
+          "bm"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "f",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "ir"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "a"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "bb"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "a",
+          "f"
+        ],
+        "quality": "Normal"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "tm",
+          "bb",
+          "f"
+        ],
+        "quality": "Normal"
+      }
+    ],
      "pokemon":[
        {
          "name": "Charmander",
@@ -1471,31 +7559,157 @@ export const Dishes = [
      "color": "#F7CF43",
      "dish_name":"Watt a Risotta a la Cube",
      "variations":[
-       {
-         "ingredients":["h","h","h","br","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["h","h","h","bm","ir"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["h","h","a","br","br"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["h","h","br","bm","a"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["tm","bb","h","h","a"],
-         "quality": "Good"
-       },
-       {
-         "ingredients":["tm","tm","h","h","a"],
-         "quality": "Good"
-       }
-     ],
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "h",
+          "h",
+          "h",
+          "rm"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "h",
+          "bm"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "h",
+          "h"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "h",
+          "h"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "h",
+          "h"
+        ],
+        "quality": "Good"
+      }
+    ],
      "pokemon":[
        {
          "name": "Pikachu",
@@ -1563,44 +7777,3178 @@ export const Dishes = [
      "color": "#F7CF43",
      "dish_name":"Ambrosia of Legends a la Cube",
      "variations":[
-       {
-         "ingredients":["ms","ms","ms","ms","ms"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["ms","rm","rm","rm","rm"],
-         "quality": "Special"
-       },
-       {
-         "ingredients":["ms","rm","a","bb","tm"],
-         "quality": "Very Good"
-       },
-       {
-         "ingredients":["ms","ms","ms","bb","bb"],
-         "quality": "Very Good"
-       }
-     ],
-     "pokemon":[
-       {
-         "name": "Articuno",
-         "quality": ["Special","Very Good"]
-       },
-       {
-         "name": "Zapdos",
-         "quality": ["Special","Very Good"]
-       },
-       {
-         "name": "Moltres",
-         "quality": ["Special","Very Good"]
-       },
-       {
-         "name": "Mewtwo",
-         "quality": ["Special","Very Good"]
-       },
-       {
-         "name": "Mew",
-         "quality": ["Special","Very Good"]
-       }
-     ]
+      {
+        "ingredients": [
+          "br",
+          "bm",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "bm",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "bm",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bm",
+          "bm",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "bm",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "bm",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "bm",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bm",
+          "bm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "bm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "bm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "bm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "br",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "h",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "h",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "h",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ir",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ir",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bm",
+          "ms",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "br",
+          "ms",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "h",
+          "ms",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ir",
+          "ms",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "ms",
+          "ms",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "rm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "rm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "rm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "rm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "bm",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bm",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "bm",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bm",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "h",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "h",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "h",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "h",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "rm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "bm",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bm",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "bm",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bm",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "h",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "h",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "h",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "h",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "bm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "br",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "br",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "br",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "br",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "h",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "h",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "h",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "h",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "h",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "br",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "br",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "br",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "br",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "ir",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "ir",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "ir",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "ir",
+          "ir",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "rm",
+          "rm",
+          "ms"
+        ],
+        "quality": "Special"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "bm",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "bm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "br",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "h",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "ir",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "bm",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "br",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "h",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ir",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "ms",
+          "ms",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "f",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "f",
+          "f",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "rm",
+          "ms"
+        ],
+        "quality": "Very Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "a",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "bb",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "a",
+          "a",
+          "a",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "a",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "a",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "a",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "a",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "a",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "bb",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "bb",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "bb",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "a",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "a",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "bb",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "bb",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "bb",
+          "f",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "f",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      },
+      {
+        "ingredients": [
+          "tm",
+          "tm",
+          "f",
+          "f",
+          "ms"
+        ],
+        "quality": "Good"
+      }
+    ],
+    "pokemon":[
+      {
+        "name": "Articuno",
+        "quality": ["Special","Very Good"]
+      },
+      {
+        "name": "Zapdos",
+        "quality": ["Special","Very Good"]
+      },
+      {
+        "name": "Moltres",
+        "quality": ["Special","Very Good"]
+      },
+      {
+        "name": "Mewtwo",
+        "quality": ["Special","Very Good"]
+      },
+      {
+        "name": "Mew",
+        "quality": ["Special","Very Good"]
+      }
+    ]
   }
 ]

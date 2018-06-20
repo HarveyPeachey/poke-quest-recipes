@@ -83,9 +83,23 @@ const VariationView = ({variations}) => {
       case "ms":
         imgUrls[i] = `${ms}`
         imgSizes[i] = {width: "50px", height:"50px"}
-        basicBronze = 7
-        silver = 8
-        gold = 9
+        switch(quality) {
+          case "Special":
+            basicBronze = 8
+            silver = 9
+            gold = 10
+            break;
+          case "Very Good":
+            basicBronze = 7
+            silver = 8
+            gold = 9
+            break;
+          case "Good":
+            basicBronze = 6
+            silver =  7
+            gold = 8
+            break;
+        }
         break;
       default:
         console.log("Invalid Shortcode")
