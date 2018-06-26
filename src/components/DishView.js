@@ -22,19 +22,22 @@ class DishView extends React.Component {
             for (var j = 0; j < pokeSprites.length; j++) {
               if (pokemon[i].name === pokeSprites[j].name) {
                 dishPokemon.push(pokeSprites[j]);
+                // for (var k = 0; k < pokemon[i].quality.length; k++)
+                // dishPokemon[dishPokemon.length-1].quality = pokemon[i].quality;
                 break;
               }
             }
           }
         }
       }
-
       variation = isVariationDefined
       ? variations.map((variations, index) => {
         return (
           <VariationView
             key={index}
             variations={variations}
+            pokeSprites={pokeSprites}
+            handlePokeClick={this.props.handlePokeClick}
           />
         );
       })
@@ -58,6 +61,8 @@ class DishView extends React.Component {
               <VariationView
                 key={index}
                 variations={pokeVariations}
+                pokeSprites={pokeSprites}
+                handlePokeClick={this.props.handlePokeClick}
               />
             );
           })
@@ -103,6 +108,8 @@ class DishView extends React.Component {
             return (
               <VariationView
                 variations={variations}
+                pokeSprites={pokeSprites}
+                handlePokeClick={this.props.handlePokeClick}
               />
             );
           })]
