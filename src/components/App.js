@@ -87,7 +87,7 @@ class App extends Component {
         <TypeView dish={ Dishes } handleOnClick={this.handleOnClick} handlePokeClick={this.handlePokeClick} filterId={this.state.filterId} />
         <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.pokeRecId} filterId={this.state.filterId}/>
         <div className="app-info">
-          <p className="version"><strong>Version 1.4</strong></p>
+          <p className="version"><strong>Version 1.5</strong></p>
           {/*<div className="cool-item">
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJXXFH6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJXXFH6&linkCode=as2&tag=harveypeachey-20&linkId=84b022bddc497e46d6215c3d5ba9e733"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJXXFH6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeachey-20&l=am2&o=1&a=B07DJXXFH6" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJRPZQ9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJRPZQ9&linkCode=as2&tag=harveypeachey-20&linkId=698ad31822e45ff92e8108c254be106c"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJRPZQ9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeachey-20&l=am2&o=1&a=B07DJRPZQ9" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
@@ -105,12 +105,12 @@ class App extends Component {
             <img alt="paypal" border={0} src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width={1} height={1} />
           </form>
           <p><strong>Changes since last version:</strong>
-            <br/>• Filter by all dish obtainable pokemon. Click on pokemon and click a pokemon to see all availible recipes.
-            <br/>• More potential pokemon added.
-            <br/>• Added more recipes.
-            <br/>• Ingredient images now served locally.
-            <br/>• Corrected ambrosia wait times.
-            <br/>• Added cooking pot icons
+            <br/>• Added Pokemon availible for each recipe variation
+            <br/>• Added all efficient Recipes
+            <br/>• Fixed Rattata sprite image
+            <br/>• Semi-offline capability
+            <br/>• Added new pokemon for some recipes
+            <br/>• Most relevant recipes show first
             {/*<iframe className="strawpoll" title="strawpoll" src="https://www.strawpoll.me/embed_1/15908467">Loading poll...</iframe>*/}
             <br/>Shoutouts!:
             <br/><a href="https://docs.google.com/spreadsheets/d/1sEdebcAiOmnJaNB_2JnZg7WQDtez1dwcjcLKrqWKd4Y/edit#gid=974437028">Recipe Book</a>
