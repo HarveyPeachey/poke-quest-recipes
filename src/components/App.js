@@ -102,7 +102,7 @@ class App extends Component {
             <input type="hidden" name="cmd" defaultValue="_s-xclick" />
             <input type="hidden" name="hosted_button_id" defaultValue="CYQL3ACYFER4S" />
             <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border={0} name="submit" alt="PayPal – The safer, easier way to pay online!" />
-            <img alt border={0} src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width={1} height={1} />
+            <img alt="paypal" border={0} src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width={1} height={1} />
           </form>
           <p><strong>Changes since last version:</strong>
             <br/>• Filter by all dish obtainable pokemon. Click on pokemon and click a pokemon to see all availible recipes.
