@@ -26,7 +26,6 @@ const VariationView = ({variations, pokeSprites, handlePokeClick}) => {
       }
     }
   }
-  console.log(variationPokemon);
   const variationPokemonImage = variationPokemon.map((variationPokemonMap, index) => {
     return (
       <PokemonItem
@@ -36,7 +35,6 @@ const VariationView = ({variations, pokeSprites, handlePokeClick}) => {
       />
     );
   })
-  console.log(variationPokemonImage);
   switch(quality) {
     case "Special":
       basicBronze = 6
