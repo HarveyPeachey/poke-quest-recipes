@@ -77,25 +77,38 @@ class App extends Component {
     this.setState({pokeRecId: null});
   }
   render() {
+    const region = Intl.DateTimeFormat().resolvedOptions().timeZone
+    var regionChina = false
+    if (region === "Asia/Shanghai") {
+      regionChina = true;
+    }
     return (
         <div className="App">
         <div className="title" ><h1>Pokemon Quest Recipes</h1></div>
-        <div className="hide cool-item">
+        {regionChina ? null :
+        (<div className="hide cool-item">
         <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJXXFH6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJXXFH6&linkCode=as2&tag=harveypeach01-20&linkId=2b3697ee68e3e3d2749343ac3991fd70"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJXXFH6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B07DJXXFH6" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
-        </div>
+        </div>)}
         <FilterView handleFilterClick={this.handleFilterClick} />
         <TypeView dish={ Dishes } handleOnClick={this.handleOnClick} handlePokeClick={this.handlePokeClick} filterId={this.state.filterId} />
         <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.pokeRecId} filterId={this.state.filterId}/>
         <div className="app-info">
           <p className="version"><strong>Version 1.5</strong></p>
-          <div className="cool-item">
+          {regionChina
+        ?(<div className="cool-item">
+            <a target="_blank" rel="noopener noreferrer" href="https://amazon.cn/gp/product/B072FHHZFJ/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B072FHHZFJ&linkCode=as2&tag=harveypeachey-23&linkId=100d77363e82da02606f5ce7624cf4e5"><img border={0} alt="img" src="//ws-cn.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=CN&ASIN=B072FHHZFJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-23" /></a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=harveypeachey-23&l=am2&o=28&a=B072FHHZFJ" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
+            <a target="_blank" rel="noopener noreferrer" href="https://amazon.cn/gp/product/B078Y4BV3P/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B078Y4BV3P&linkCode=as2&tag=harveypeachey-23&linkId=358ddde594f28dc7e9d76890d954bf95"><img border={0} alt="img" src="//ws-cn.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=CN&ASIN=B078Y4BV3P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-23" /></a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=harveypeachey-23&l=am2&o=28&a=B078Y4BV3P" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
+            <a target="_blank" rel="noopener noreferrer" href="https://amazon.cn/gp/product/B01NH7L005/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B01NH7L005&linkCode=as2&tag=harveypeachey-23&linkId=17cd8145a3dd109c60df277c95ac409c"><img border={0} alt="img" src="//ws-cn.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=CN&ASIN=B01NH7L005&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-23" /></a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=harveypeachey-23&l=am2&o=28&a=B01NH7L005" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
+            <a target="_blank" rel="noopener noreferrer" href="https://amazon.cn/gp/product/B077SGP67M/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B077SGP67M&linkCode=as2&tag=harveypeachey-23&linkId=304639ef675784ac0dc629c8a2be8c9b"><img border={0} alt="img" src="//ws-cn.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=CN&ASIN=B077SGP67M&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-23" /></a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=harveypeachey-23&l=am2&o=28&a=B077SGP67M" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
+          </div>)
+        :(<div className="cool-item">
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJXXFH6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJXXFH6&linkCode=as2&tag=harveypeach01-20&linkId=2b3697ee68e3e3d2749343ac3991fd70"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJXXFH6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B07DJXXFH6" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJRPZQ9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJRPZQ9&linkCode=as2&tag=harveypeach01-20&linkId=0b6ce6455a79c4035d6894b935498803"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJRPZQ9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B07DJRPZQ9" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B01N5OKM3I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N5OKM3I&linkCode=as2&tag=harveypeach01-20&linkId=723bab478522d46e3988e8a3fd89b187"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N5OKM3I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B01N5OKM3I" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B01N5OKGLH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N5OKGLH&linkCode=as2&tag=harveypeach01-20&linkId=2f9193fb630f834da138e5fe311d610b"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N5OKGLH&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B01N5OKGLH" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important', display: 'none'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B01MT8AIBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MT8AIBE&linkCode=as2&tag=harveypeach01-20&linkId=081ba8af67c262bfc9b8ada9b98655f9"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MT8AIBE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B01MT8AIBE" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B01N7RE3HB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7RE3HB&linkCode=as2&tag=harveypeach01-20&linkId=853d2a7ad34ffad7b153be1d6f97c9b5"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7RE3HB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B01N7RE3HB" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
-          </div>
+          </div>)}
           {/*<div>Buy Me A Coffee (It'll be tea cos British and all that)</div>
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" defaultValue="_s-xclick" />
