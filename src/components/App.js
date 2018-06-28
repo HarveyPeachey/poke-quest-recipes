@@ -79,7 +79,7 @@ class App extends Component {
   render() {
     const region = Intl.DateTimeFormat().resolvedOptions().timeZone
     var regionChina = false
-    if (region === "Asia/Shanghai") {
+    if (region === "Asia/Hong_Kong") {
       regionChina = true;
     }
     return (
