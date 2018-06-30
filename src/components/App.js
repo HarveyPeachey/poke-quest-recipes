@@ -109,13 +109,13 @@ class App extends Component {
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B01MT8AIBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MT8AIBE&linkCode=as2&tag=harveypeach01-20&linkId=081ba8af67c262bfc9b8ada9b98655f9"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MT8AIBE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B01MT8AIBE" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
             <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B01N7RE3HB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7RE3HB&linkCode=as2&tag=harveypeach01-20&linkId=853d2a7ad34ffad7b153be1d6f97c9b5"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7RE3HB&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B01N7RE3HB" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
           </div>)}
-          {/*<div>Buy Me A Coffee (It'll be tea cos British and all that)</div>
+          <div>Buy Me A Coffee (It'll be tea cos British and all that)</div>
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" defaultValue="_s-xclick" />
             <input type="hidden" name="hosted_button_id" defaultValue="CYQL3ACYFER4S" />
             <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border={0} name="submit" alt="PayPal – The safer, easier way to pay online!" />
             <img alt="paypal" border={0} src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width={1} height={1} />
-          </form>*/}
+          </form>
           <p><strong>Changes since last version:</strong>
             <br/>• Added Pokemon availible for each recipe variation
             <br/>• Added all efficient Recipes
