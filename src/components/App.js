@@ -93,7 +93,7 @@ class App extends Component {
         <TypeView dish={ Dishes } handleOnClick={this.handleOnClick} handlePokeClick={this.handlePokeClick} filterId={this.state.filterId} />
         <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.pokeRecId} filterId={this.state.filterId}/>
         <div className="app-info">
-          <p className="version"><strong>Version 1.5</strong></p>
+          <p className="version"><strong>Version 1.6</strong></p>
           {regionChina
         ?(<div className="cool-item">
             <a target="_blank" rel="noopener noreferrer" href="https://amazon.cn/gp/product/B072FHHZFJ/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B072FHHZFJ&linkCode=as2&tag=harveypeachey-23&linkId=100d77363e82da02606f5ce7624cf4e5"><img border={0} alt="img" src="//ws-cn.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=CN&ASIN=B072FHHZFJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-23" /></a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=harveypeachey-23&l=am2&o=28&a=B072FHHZFJ" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
@@ -117,20 +117,18 @@ class App extends Component {
             <img alt="paypal" border={0} src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width={1} height={1} />
           </form>
           <p><strong>Changes since last version:</strong>
-            <br/>• Added Pokemon availible for each recipe variation
-            <br/>• Added all efficient Recipes
-            <br/>• Fixed Rattata sprite image
-            <br/>• Semi-offline capability
-            <br/>• Added new pokemon for some recipes
-            <br/>• Most relevant recipes show first
+            <br/>• Added Pokemon attract rates
+            <br/>• Fixed Pokemon listing errors
+            <br/>• Fixed Discord Link
             {/*<iframe className="strawpoll" title="strawpoll" src="https://www.strawpoll.me/embed_1/15908467">Loading poll...</iframe>*/}
             <br/>Shoutouts!:
-            <br/><a href="https://docs.google.com/spreadsheets/d/1sEdebcAiOmnJaNB_2JnZg7WQDtez1dwcjcLKrqWKd4Y/edit#gid=974437028">Recipe Book</a>
-             | <a href="http://uk.ign.com/wikis/pokemon-quest">IGN Wiki</a>
-             | <a href="https://docs.google.com/spreadsheets/d/11qzKQ_pi98Zlq5MP4IRgNveRw_IB_TJswnIPgxDKnM0/edit#gid=1531442843">Recipes DB</a>
-             | <a href="https://www.serebii.net/quest/cooking.shtml">Serebii</a>
-             | <a href="https://www.reddit.com/r/PokemonQuest/">Pokemon Quest Subreddit</a>
-             | <a href="https://www.reddit.com/r/PokemonQuest/">Pokemon Quest Discord</a>
+            <br/><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1UTudD9CA-ysSiYNX6iYIBEWmBbvvJiFgUCuZCm3ppWU/edit#gid=1519206697">Pokemon Attract Rates</a>
+             | <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1sEdebcAiOmnJaNB_2JnZg7WQDtez1dwcjcLKrqWKd4Y/edit#gid=974437028">Recipe Book</a>
+             | <a target="_blank" rel="noopener noreferrer" href="http://uk.ign.com/wikis/pokemon-quest">IGN Wiki</a>
+             | <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/11qzKQ_pi98Zlq5MP4IRgNveRw_IB_TJswnIPgxDKnM0/edit#gid=1531442843">Recipes DB</a>
+             | <a target="_blank" rel="noopener noreferrer" href="https://www.serebii.net/quest/cooking.shtml">Serebii</a>
+             | <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/PokemonQuest/">Pokemon Quest Subreddit</a>
+             | <a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/invite/JpctMkv">Pokemon Quest Discord</a>
           </p>
         </div>
       </div>

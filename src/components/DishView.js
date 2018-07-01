@@ -68,7 +68,7 @@ class DishView extends React.Component {
           })
         }
         else {
-          invVariation = "(Not enough data for this Pokemon)"
+          invVariation = "(A recipe cannot be made for this Pokemon)"
         }
       }
       const pokemonImage = isPokemonDefined

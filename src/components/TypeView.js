@@ -32,7 +32,7 @@ class TypeView extends React.Component {
     return (
       <section className="type-view">
         <h2 className="title">{ filterId === 0 ? "Types" : "Pokemon"}</h2>
-        <p className="scroll-text">{ filterId === 0 ? "Select a type and scroll to see recipes" : "Select a Pokemon and scroll to see recipes"}</p>
+        <p className="scroll-text">{ filterId === 0 ? "Select a type and scroll to see recipes (It may take a couple of seconds to load)" : "Select a Pokemon and scroll to see recipes (It may take a couple of seconds to load)"}</p>
         {items}
       </section>
     );

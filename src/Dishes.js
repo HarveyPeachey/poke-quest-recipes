@@ -4,7 +4,7 @@ export const Dishes = [
       "type_name":"Misc",
       "color":"#DB9D3C",
       "dish_name":"Mulligan Stew a la Cube",
-      "variations":[  
+      "variations":[
          {
             "ingredients":[
                "br",
@@ -18,23 +18,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -50,23 +92,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -82,23 +166,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -114,23 +240,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -146,23 +314,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -178,23 +388,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -210,23 +462,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -242,23 +536,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -274,23 +610,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -306,23 +684,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -338,23 +758,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -370,23 +832,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -402,23 +906,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -434,23 +980,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -466,23 +1054,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -498,23 +1128,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -530,23 +1202,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -562,23 +1276,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -594,23 +1350,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -626,23 +1424,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -658,23 +1498,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -690,23 +1572,65 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
-               "Porygon",
+               "Eevee",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -722,41 +1646,175 @@ export const Dishes = [
                "Bulbasaur",
                "Charmander",
                "Squirtle",
+               "Pikachu",
+               "Venonat",
+               "Farfetch'd",
                "Gastly",
                "Drowzee",
+               "Cubone",
                "Hitmonlee",
                "Hitmonchan",
+               "Chansey",
                "Tangela",
+               "Kangaskhan",
                "Mr. Mime",
                "Scyther",
                "Jynx",
+               "Electabuzz",
                "Magmar",
+               "Pinsir",
+               "Tauros",
                "Magikarp",
                "Lapras",
                "Ditto",
+               "Eevee",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33,
+               3.33
+            ]
+         },
+         {
+            "ingredients":[
+               "a",
+               "a",
+               "bm",
+               "bm",
+               "bm"
+            ],
+            "quality":"Very Good",
+            "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
                "Porygon",
                "Omanyte",
                "Kabuto",
                "Aerodactyl",
-               "Snorlax"
-            ]
-         },
-         {
-            "ingredients":[
-               "a",
-               "a",
-               "bm",
-               "bm",
-               "bm"
+               "Snorlax",
+               "Dratini"
             ],
-            "quality":"Very Good",
-            "pokemon":[
-               "Farfetch'd",
-               "Gastly",
-               "Onix",
-               "Chansey",
-               "Kabuto",
-               "Aerodactyl"
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -769,12 +1827,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -787,12 +1937,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -805,12 +2047,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -823,12 +2157,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -841,12 +2267,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -859,12 +2377,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -877,12 +2487,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -895,12 +2597,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -913,12 +2707,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -931,12 +2817,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -949,12 +2927,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -967,12 +3037,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -985,12 +3147,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1003,12 +3257,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1021,12 +3367,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1039,12 +3477,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1057,12 +3587,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1075,12 +3697,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1093,12 +3807,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1111,12 +3917,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1129,12 +4027,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1147,12 +4137,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1165,12 +4247,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1183,12 +4357,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1201,12 +4467,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1219,12 +4577,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1237,12 +4687,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1255,12 +4797,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1273,12 +4907,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1291,12 +5017,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1309,12 +5127,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1327,12 +5237,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1345,12 +5347,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1363,12 +5457,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1381,12 +5567,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1399,12 +5677,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1417,12 +5787,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1435,12 +5897,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1453,12 +6007,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1471,12 +6117,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1489,12 +6227,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1507,12 +6337,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1525,12 +6447,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1543,12 +6557,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1561,12 +6667,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1579,12 +6777,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1597,12 +6887,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1615,12 +6997,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1633,12 +7107,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1651,12 +7217,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1669,12 +7327,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1687,12 +7437,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1705,12 +7547,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1723,12 +7657,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1741,12 +7767,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1759,12 +7877,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1777,12 +7987,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1795,12 +8097,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1813,12 +8207,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1831,12 +8317,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1849,12 +8427,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1867,12 +8537,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1885,12 +8647,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1903,12 +8757,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1921,12 +8867,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1939,12 +8977,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1957,12 +9087,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1975,12 +9197,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -1993,12 +9307,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2011,12 +9417,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2029,12 +9527,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2047,12 +9637,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2065,12 +9747,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2083,12 +9857,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2101,12 +9967,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2119,12 +10077,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2137,12 +10187,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2155,12 +10297,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2173,12 +10407,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2191,12 +10517,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2209,12 +10627,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2227,12 +10737,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2245,12 +10847,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2263,12 +10957,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2281,12 +11067,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2299,12 +11177,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2317,12 +11287,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2335,12 +11397,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2353,12 +11507,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2371,12 +11617,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2389,12 +11727,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2407,12 +11837,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2425,12 +11947,104 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Ekans",
+               "Pikachu",
+               "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
+               "Ponyta",
+               "Slowpoke",
+               "Magnemite",
                "Farfetch'd",
+               "Doduo",
+               "Seel",
+               "Grimer",
+               "Shellder",
                "Gastly",
                "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
                "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
                "Kabuto",
-               "Aerodactyl"
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2,
+               2
             ]
          },
          {
@@ -2443,11 +12057,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2460,11 +12167,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2477,11 +12277,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2494,11 +12387,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2511,11 +12497,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2528,11 +12607,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2545,11 +12717,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2562,11 +12827,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2579,11 +12937,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2596,11 +13047,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2613,11 +13157,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2630,11 +13267,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2647,11 +13377,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2664,11 +13487,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2681,11 +13597,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2698,11 +13707,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2715,11 +13817,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2732,11 +13927,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2749,11 +14037,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2766,11 +14147,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2783,11 +14257,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2800,11 +14367,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2817,11 +14477,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2834,11 +14587,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2851,11 +14697,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2868,11 +14807,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2885,11 +14917,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2902,11 +15027,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2919,11 +15137,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2936,11 +15247,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2953,11 +15357,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2970,11 +15467,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -2987,11 +15577,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3004,11 +15687,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3021,11 +15797,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3038,11 +15907,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3055,11 +16017,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3072,11 +16127,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3089,11 +16237,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3106,11 +16347,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3123,11 +16457,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3140,11 +16567,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3157,11 +16677,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3174,11 +16787,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3191,11 +16897,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3208,11 +17007,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3225,11 +17117,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3242,11 +17227,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3259,11 +17337,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3276,11 +17447,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3293,11 +17557,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3310,11 +17667,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3327,11 +17777,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3344,11 +17887,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3361,11 +17997,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3378,11 +18107,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3395,11 +18217,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3412,11 +18327,104 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Ekans",
+               "Pikachu",
                "Clefairy",
+               "Jigglypuff",
+               "Zubat",
+               "Paras",
+               "Venonat",
+               "Diglett",
+               "Machop",
                "Ponyta",
+               "Slowpoke",
+               "Magnemite",
+               "Farfetch'd",
+               "Doduo",
+               "Seel",
                "Grimer",
-               "Horsea"
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Drowzee",
+               "Exeggcute",
+               "Cubone",
+               "Hitmonlee",
+               "Hitmonchan",
+               "Lickitung",
+               "Koffing",
+               "Chansey",
+               "Tangela",
+               "Kangaskhan",
+               "Horsea",
+               "Mr. Mime",
+               "Scyther",
+               "Jynx",
+               "Electabuzz",
+               "Magmar",
+               "Pinsir",
+               "Tauros",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl",
+               "Snorlax",
+               "Dratini"
+            ],
+            "rate":[
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               4.65,
+               4.65,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               4.65,
+               0.23,
+               0.23,
+               0.23,
+               0.23,
+               0.23
             ]
          },
          {
@@ -3429,13 +18437,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3448,13 +18499,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3467,13 +18561,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3486,13 +18623,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3505,13 +18685,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3524,13 +18747,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3543,13 +18809,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3562,13 +18871,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3581,13 +18933,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3600,13 +18995,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3619,13 +19057,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3638,13 +19119,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3657,13 +19181,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3676,13 +19243,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3695,13 +19305,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3714,13 +19367,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3733,13 +19429,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3752,13 +19491,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3771,13 +19553,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          },
          {
@@ -3790,13 +19615,56 @@ export const Dishes = [
             ],
             "quality":"Normal",
             "pokemon":[
+               "Caterpie",
                "Weedle",
+               "Pidgey",
+               "Rattata",
+               "Spearow",
                "Sandshrew",
+               "Nidoran♀",
                "Nidoran♂",
-               "Paras",
-               "Diglett",
+               "Vulpix",
+               "Oddish",
+               "Meowth",
+               "Psyduck",
+               "Mankey",
+               "Growlithe",
+               "Poliwag",
                "Abra",
-               "Geodude"
+               "Bellsprout",
+               "Tentacool",
+               "Geodude",
+               "Krabby",
+               "Voltorb",
+               "Rhyhorn",
+               "Goldeen",
+               "Staryu"
+            ],
+            "rate":[
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17,
+               4.17
             ]
          }
       ],
@@ -3804,268 +19672,823 @@ export const Dishes = [
          {
             "name":"Bulbasaur",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Charmander",
             "quality":[
                "Special"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Squirtle",
             "quality":[
                "Special"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Caterpie",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Weedle",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Pidgey",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Rattata",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Spearow",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Ekans",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Pikachu",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Sandshrew",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Nidoran♀",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Nidoran♂",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Clefairy",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Vulpix",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Jigglypuff",
             "quality":[
-               ""
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Zubat",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Oddish",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Paras",
             "quality":[
-               "Normal"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Venonat",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Diglett",
             "quality":[
-               "Normal"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Meowth",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Psyduck",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Mankey",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Growlithe",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Poliwag",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Abra",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Machop",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Bellsprout",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Tentacool",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Geodude",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Ponyta",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Slowpoke",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Magnemite",
             "quality":[
-               ""
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Farfetch'd",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Doduo",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Seel",
             "quality":[
-               ""
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Grimer",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Shellder",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Gastly",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Onix",
             "quality":[
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Drowzee",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Krabby",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Voltorb",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Exeggcute",
             "quality":[
-               ""
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Cubone",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Hitmonlee",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Hitmonchan",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Lickitung",
             "quality":[
-               ""
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Koffing",
             "quality":[
-               ""
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Rhyhorn",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Chansey",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Tangela",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Kangaskhan",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Horsea",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               2,
+               4.65
+            ]
+         },
+         {
+            "name":"Goldeen",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
+            ]
+         },
+         {
+            "name":"Staryu",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               4.17
             ]
          },
          {
             "name":"Mr. Mime",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Scyther",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Jynx",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Electabuzz",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Magmar",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Pinsir",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Tauros",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Magikarp",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Lapras",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Ditto",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
+            ]
+         },
+         {
+            "name":"Eevee",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Porygon",
             "quality":[
-               "Special"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2,
+               4.65
             ]
          },
          {
             "name":"Omanyte",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Kabuto",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Aerodactyl",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Snorlax",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          },
          {
             "name":"Dratini",
             "quality":[
-               ""
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.33,
+               2,
+               0.23
             ]
          }
       ]
@@ -4087,12 +20510,23 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Charmander",
-               "Growlithe",
+               "Farfetch'd",
                "Hitmonchan",
+               "Jynx",
                "Magmar",
                "Pinsir",
                "Eevee",
                "Kabuto"
+            ],
+            "rate":[
+               19.76,
+               19.76,
+               14.97,
+               3.59,
+               3.59,
+               3.59,
+               19.76,
+               14.97
             ]
          },
          {
@@ -4106,12 +20540,23 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Charmander",
-               "Growlithe",
+               "Farfetch'd",
                "Hitmonchan",
+               "Jynx",
                "Magmar",
                "Pinsir",
                "Eevee",
                "Kabuto"
+            ],
+            "rate":[
+               19.76,
+               19.76,
+               14.97,
+               3.59,
+               3.59,
+               3.59,
+               19.76,
+               14.97
             ]
          },
          {
@@ -4125,12 +20570,23 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Charmander",
-               "Growlithe",
+               "Farfetch'd",
                "Hitmonchan",
+               "Jynx",
                "Magmar",
                "Pinsir",
                "Eevee",
                "Kabuto"
+            ],
+            "rate":[
+               19.76,
+               19.76,
+               14.97,
+               3.59,
+               3.59,
+               3.59,
+               19.76,
+               14.97
             ]
          },
          {
@@ -4144,12 +20600,23 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Charmander",
-               "Growlithe",
+               "Farfetch'd",
                "Hitmonchan",
+               "Jynx",
                "Magmar",
                "Pinsir",
                "Eevee",
                "Kabuto"
+            ],
+            "rate":[
+               19.76,
+               19.76,
+               14.97,
+               3.59,
+               3.59,
+               3.59,
+               19.76,
+               14.97
             ]
          },
          {
@@ -4163,12 +20630,23 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Charmander",
-               "Growlithe",
+               "Farfetch'd",
                "Hitmonchan",
+               "Jynx",
                "Magmar",
                "Pinsir",
                "Eevee",
                "Kabuto"
+            ],
+            "rate":[
+               19.76,
+               19.76,
+               14.97,
+               3.59,
+               3.59,
+               3.59,
+               19.76,
+               14.97
             ]
          },
          {
@@ -4182,12 +20660,23 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Charmander",
-               "Growlithe",
+               "Farfetch'd",
                "Hitmonchan",
+               "Jynx",
                "Magmar",
                "Pinsir",
                "Eevee",
                "Kabuto"
+            ],
+            "rate":[
+               19.76,
+               19.76,
+               14.97,
+               3.59,
+               3.59,
+               3.59,
+               19.76,
+               14.97
             ]
          },
          {
@@ -4200,9 +20689,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4215,9 +20731,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4230,9 +20773,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4245,9 +20815,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4260,9 +20857,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4275,9 +20899,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4290,9 +20941,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4305,9 +20983,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4320,9 +21025,36 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Charmander",
+               "Paras",
+               "Diglett",
+               "Slowpoke",
                "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Hitmonchan",
+               "Lickitung",
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               4.3,
+               13.04,
+               13.04,
+               13.04,
+               4.3,
+               13.04,
+               3.26,
+               13.04,
+               0.78,
+               0.78,
+               0.78,
+               4.3,
+               13.04,
+               3.26
             ]
          },
          {
@@ -4335,12 +21067,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4353,12 +21109,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4371,12 +21151,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4389,12 +21193,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4407,12 +21235,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4425,12 +21277,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4443,12 +21319,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4461,12 +21361,36 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Charmander",
                "Paras",
                "Diglett",
                "Slowpoke",
+               "Farfetch'd",
                "Doduo",
+               "Hitmonchan",
                "Lickitung",
-               "Porygon"
+               "Jynx",
+               "Magmar",
+               "Pinsir",
+               "Eevee",
+               "Porygon",
+               "Kabuto"
+            ],
+            "rate":[
+               0.27,
+               16.44,
+               16.44,
+               16.44,
+               0.27,
+               16.44,
+               0.21,
+               16.44,
+               0.05,
+               0.05,
+               0.05,
+               0.27,
+               16.44,
+               0.21
             ]
          },
          {
@@ -4486,6 +21410,15 @@ export const Dishes = [
                "Krabby",
                "Voltorb",
                "Goldeen"
+            ],
+            "rate":[
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29
             ]
          },
          {
@@ -4505,6 +21438,15 @@ export const Dishes = [
                "Krabby",
                "Voltorb",
                "Goldeen"
+            ],
+            "rate":[
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29
             ]
          },
          {
@@ -4524,6 +21466,15 @@ export const Dishes = [
                "Krabby",
                "Voltorb",
                "Goldeen"
+            ],
+            "rate":[
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29
             ]
          },
          {
@@ -4543,6 +21494,15 @@ export const Dishes = [
                "Krabby",
                "Voltorb",
                "Goldeen"
+            ],
+            "rate":[
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29,
+               14.29
             ]
          }
       ],
@@ -4550,56 +21510,96 @@ export const Dishes = [
          {
             "name":"Charmander",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               19.76,
+               4.3,
+               0.27
             ]
          },
          {
             "name":"Spearow",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               14.29
             ]
          },
          {
             "name":"Vulpix",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               14.29
             ]
          },
          {
             "name":"Paras",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               13.04,
+               16.44
             ]
          },
          {
             "name":"Diglett",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               13.04,
+               16.44
             ]
          },
          {
             "name":"Mankey",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               14.29
             ]
          },
          {
             "name":"Growlithe",
             "quality":[
-               "Special",
                "Normal"
+            ],
+            "rate":[
+               14.29
             ]
          },
          {
             "name":"Slowpoke",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               13.04,
+               16.44
             ]
          },
          {
             "name":"Farfetch'd",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               19.76,
+               4.3,
+               0.27
             ]
          },
          {
@@ -4607,24 +21607,41 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               13.04,
+               16.44
             ]
          },
          {
             "name":"Krabby",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               14.29
             ]
          },
          {
             "name":"Voltorb",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               14.29
             ]
          },
          {
             "name":"Hitmonchan",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               14.97,
+               3.26,
+               0.21
             ]
          },
          {
@@ -4632,42 +21649,95 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               13.04,
+               16.44
             ]
          },
          {
             "name":"Goldeen",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               14.29
+            ]
+         },
+         {
+            "name":"Jynx",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.59,
+               0.78,
+               0.05
             ]
          },
          {
             "name":"Magmar",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.59,
+               0.78,
+               0.05
             ]
          },
          {
             "name":"Pinsir",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.59,
+               0.78,
+               0.05
             ]
          },
          {
             "name":"Eevee",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               19.76,
+               4.3,
+               0.27
             ]
          },
          {
             "name":"Porygon",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               13.04,
+               16.44
             ]
          },
          {
             "name":"Kabuto",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               14.97,
+               3.26,
+               0.21
             ]
          }
       ]
@@ -4692,9 +21762,18 @@ export const Dishes = [
                "Tangela",
                "Magikarp",
                "Lapras",
-               "Omanyte",
                "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               33.56,
+               4.03,
+               33.56,
+               4.03,
+               4.03,
+               16.78,
+               4.03
             ]
          },
          {
@@ -4711,9 +21790,18 @@ export const Dishes = [
                "Tangela",
                "Magikarp",
                "Lapras",
-               "Omanyte",
                "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               33.56,
+               4.03,
+               33.56,
+               4.03,
+               4.03,
+               16.78,
+               4.03
             ]
          },
          {
@@ -4730,9 +21818,18 @@ export const Dishes = [
                "Tangela",
                "Magikarp",
                "Lapras",
-               "Omanyte",
                "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               33.56,
+               4.03,
+               33.56,
+               4.03,
+               4.03,
+               16.78,
+               4.03
             ]
          },
          {
@@ -4749,9 +21846,18 @@ export const Dishes = [
                "Tangela",
                "Magikarp",
                "Lapras",
-               "Omanyte",
                "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               33.56,
+               4.03,
+               33.56,
+               4.03,
+               4.03,
+               16.78,
+               4.03
             ]
          },
          {
@@ -4768,9 +21874,18 @@ export const Dishes = [
                "Tangela",
                "Magikarp",
                "Lapras",
-               "Omanyte",
                "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               33.56,
+               4.03,
+               33.56,
+               4.03,
+               4.03,
+               16.78,
+               4.03
             ]
          },
          {
@@ -4787,9 +21902,18 @@ export const Dishes = [
                "Tangela",
                "Magikarp",
                "Lapras",
-               "Omanyte",
                "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               33.56,
+               4.03,
+               33.56,
+               4.03,
+               4.03,
+               16.78,
+               4.03
             ]
          },
          {
@@ -4807,10 +21931,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4828,10 +21969,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4849,10 +22007,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4870,10 +22045,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4891,10 +22083,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4912,10 +22121,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4933,10 +22159,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4954,10 +22197,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4975,10 +22235,27 @@ export const Dishes = [
                "Machop",
                "Grimer",
                "Koffing",
+               "Tangela",
                "Horsea",
                "Magikarp",
                "Lapras",
+               "Ditto",
+               "Omanyte",
                "Dratini"
+            ],
+            "rate":[
+               7.7,
+               15.41,
+               15.41,
+               15.41,
+               15.41,
+               0.92,
+               15.41,
+               7.7,
+               0.92,
+               0.92,
+               3.85,
+               0.92
             ]
          },
          {
@@ -4991,12 +22268,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5009,12 +22306,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5027,12 +22344,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5045,12 +22382,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5063,12 +22420,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5081,12 +22458,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5099,12 +22496,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5117,12 +22534,32 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Ekans",
                "Machop",
                "Grimer",
-               "Shellder",
                "Koffing",
-               "Horsea"
+               "Tangela",
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Ditto",
+               "Omanyte",
+               "Dratini"
+            ],
+            "rate":[
+               0.49,
+               19.71,
+               19.71,
+               19.71,
+               19.71,
+               0.06,
+               19.71,
+               0.49,
+               0.06,
+               0.06,
+               0.25,
+               0.06
             ]
          },
          {
@@ -5140,6 +22577,13 @@ export const Dishes = [
                "Nidoran♂",
                "Poliwag",
                "Tentacool"
+            ],
+            "rate":[
+               20,
+               20,
+               20,
+               20,
+               20
             ]
          },
          {
@@ -5157,6 +22601,13 @@ export const Dishes = [
                "Nidoran♂",
                "Poliwag",
                "Tentacool"
+            ],
+            "rate":[
+               20,
+               20,
+               20,
+               20,
+               20
             ]
          },
          {
@@ -5174,6 +22625,13 @@ export const Dishes = [
                "Nidoran♂",
                "Poliwag",
                "Tentacool"
+            ],
+            "rate":[
+               20,
+               20,
+               20,
+               20,
+               20
             ]
          },
          {
@@ -5191,6 +22649,13 @@ export const Dishes = [
                "Nidoran♂",
                "Poliwag",
                "Tentacool"
+            ],
+            "rate":[
+               20,
+               20,
+               20,
+               20,
+               20
             ]
          }
       ],
@@ -5199,19 +22664,31 @@ export const Dishes = [
             "name":"Squirtle",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               33.56,
+               7.7,
+               0.49
             ]
          },
          {
             "name":"Caterpie",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               20
             ]
          },
          {
             "name":"Rattata",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               20
             ]
          },
          {
@@ -5219,18 +22696,28 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.41,
+               19.71
             ]
          },
          {
             "name":"Nidoran♂",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               20
             ]
          },
          {
             "name":"Poliwag",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               20
             ]
          },
          {
@@ -5238,12 +22725,19 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.41,
+               19.71
             ]
          },
          {
             "name":"Tentacool",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               20
             ]
          },
          {
@@ -5251,12 +22745,10 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
-            ]
-         },
-         {
-            "name":"Shellder",
-            "quality":[
-               "Good"
+            ],
+            "rate":[
+               15.41,
+               19.71
             ]
          },
          {
@@ -5264,12 +22756,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.41,
+               19.71
             ]
          },
          {
             "name":"Tangela",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               4.03,
+               0.92,
+               0.06
             ]
          },
          {
@@ -5277,39 +22780,75 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.41,
+               19.71
             ]
          },
          {
             "name":"Magikarp",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               33.56,
+               7.7,
+               0.49
             ]
          },
          {
             "name":"Lapras",
             "quality":[
                "Special",
-               "Very Good"
-            ]
-         },
-         {
-            "name":"Omanyte",
-            "quality":[
-               "Special"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               4.03,
+               0.92,
+               0.06
             ]
          },
          {
             "name":"Ditto",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               4.03,
+               0.92,
+               0.06
+            ]
+         },
+         {
+            "name":"Omanyte",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.78,
+               3.85,
+               0.25
             ]
          },
          {
             "name":"Dratini",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               4.03,
+               0.92,
+               0.06
             ]
          }
       ]
@@ -5335,7 +22874,19 @@ export const Dishes = [
                "Drowzee",
                "Hitmonlee",
                "Kangaskhan",
-               "Scyther"
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               18.75,
+               18.75,
+               18.75,
+               14.2,
+               14.2,
+               5.11,
+               5.11,
+               5.11
             ]
          },
          {
@@ -5353,7 +22904,19 @@ export const Dishes = [
                "Drowzee",
                "Hitmonlee",
                "Kangaskhan",
-               "Scyther"
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               18.75,
+               18.75,
+               18.75,
+               14.2,
+               14.2,
+               5.11,
+               5.11,
+               5.11
             ]
          },
          {
@@ -5371,7 +22934,19 @@ export const Dishes = [
                "Drowzee",
                "Hitmonlee",
                "Kangaskhan",
-               "Scyther"
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               18.75,
+               18.75,
+               18.75,
+               14.2,
+               14.2,
+               5.11,
+               5.11,
+               5.11
             ]
          },
          {
@@ -5389,7 +22964,19 @@ export const Dishes = [
                "Drowzee",
                "Hitmonlee",
                "Kangaskhan",
-               "Scyther"
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               18.75,
+               18.75,
+               18.75,
+               14.2,
+               14.2,
+               5.11,
+               5.11,
+               5.11
             ]
          },
          {
@@ -5407,7 +22994,19 @@ export const Dishes = [
                "Drowzee",
                "Hitmonlee",
                "Kangaskhan",
-               "Scyther"
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               18.75,
+               18.75,
+               18.75,
+               14.2,
+               14.2,
+               5.11,
+               5.11,
+               5.11
             ]
          },
          {
@@ -5425,7 +23024,19 @@ export const Dishes = [
                "Drowzee",
                "Hitmonlee",
                "Kangaskhan",
-               "Scyther"
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               18.75,
+               18.75,
+               18.75,
+               14.2,
+               14.2,
+               5.11,
+               5.11,
+               5.11
             ]
          },
          {
@@ -5438,9 +23049,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5453,9 +23081,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5468,9 +23113,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5483,9 +23145,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5498,9 +23177,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5513,9 +23209,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5528,9 +23241,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5543,9 +23273,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5558,9 +23305,26 @@ export const Dishes = [
             ],
             "quality":"Very Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
                "Drowzee",
-               "Hitmonlee"
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               11.96,
+               11.96,
+               36.23,
+               11.96,
+               9.06,
+               9.06,
+               3.26,
+               3.26,
+               3.26
             ]
          },
          {
@@ -5573,8 +23337,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5587,8 +23369,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5601,8 +23401,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5615,8 +23433,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5629,8 +23465,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5643,8 +23497,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5657,8 +23529,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5671,8 +23561,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
+               "Pikachu",
                "Ponyta",
-               "Hitmonlee"
+               "Drowzee",
+               "Hitmonlee",
+               "Kangaskhan",
+               "Scyther",
+               "Electabuzz",
+               "Snorlax"
+            ],
+            "rate":[
+               1.52,
+               1.52,
+               91.91,
+               1.52,
+               1.15,
+               1.15,
+               0.41,
+               0.41,
+               0.41
             ]
          },
          {
@@ -5693,6 +23601,16 @@ export const Dishes = [
                "Abra",
                "Bellsprout",
                "Staryu"
+            ],
+            "rate":[
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5
             ]
          },
          {
@@ -5713,6 +23631,16 @@ export const Dishes = [
                "Abra",
                "Bellsprout",
                "Staryu"
+            ],
+            "rate":[
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5
             ]
          },
          {
@@ -5733,6 +23661,16 @@ export const Dishes = [
                "Abra",
                "Bellsprout",
                "Staryu"
+            ],
+            "rate":[
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5
             ]
          },
          {
@@ -5753,6 +23691,16 @@ export const Dishes = [
                "Abra",
                "Bellsprout",
                "Staryu"
+            ],
+            "rate":[
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5,
+               12.5
             ]
          }
       ],
@@ -5760,55 +23708,90 @@ export const Dishes = [
          {
             "name":"Bulbasaur",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.75,
+               11.96,
+               1.52
             ]
          },
          {
             "name":"Weedle",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
             "name":"Pidgey",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
             "name":"Pikachu",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.75,
+               11.96,
+               1.52
             ]
          },
          {
             "name":"Sandshrew",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
             "name":"Meowth",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
             "name":"Psyduck",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
             "name":"Abra",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
             "name":"Bellsprout",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
             ]
          },
          {
@@ -5816,13 +23799,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               36.23,
+               91.91
             ]
          },
          {
             "name":"Drowzee",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.75,
+               11.96,
+               1.52
             ]
          },
          {
@@ -5831,24 +23824,72 @@ export const Dishes = [
                "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               14.2,
+               9.06,
+               1.15
             ]
          },
          {
             "name":"Kangaskhan",
             "quality":[
-               "Special"
-            ]
-         },
-         {
-            "name":"Scyther",
-            "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               14.2,
+               9.06,
+               1.15
             ]
          },
          {
             "name":"Staryu",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               12.5
+            ]
+         },
+         {
+            "name":"Scyther",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               5.11,
+               3.26,
+               0.41
+            ]
+         },
+         {
+            "name":"Electabuzz",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               5.11,
+               3.26,
+               0.41
+            ]
+         },
+         {
+            "name":"Snorlax",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               5.11,
+               3.26,
+               0.41
             ]
          }
       ]
@@ -5872,7 +23913,19 @@ export const Dishes = [
                "Venonat",
                "Gastly",
                "Cubone",
-               "Chansey"
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               28.57,
+               2.86,
+               57.14,
+               2.86,
+               2.86,
+               2.86,
+               2.86
             ]
          },
          {
@@ -5888,7 +23941,19 @@ export const Dishes = [
                "Venonat",
                "Gastly",
                "Cubone",
-               "Chansey"
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               28.57,
+               2.86,
+               57.14,
+               2.86,
+               2.86,
+               2.86,
+               2.86
             ]
          },
          {
@@ -5904,7 +23969,19 @@ export const Dishes = [
                "Venonat",
                "Gastly",
                "Cubone",
-               "Chansey"
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               28.57,
+               2.86,
+               57.14,
+               2.86,
+               2.86,
+               2.86,
+               2.86
             ]
          },
          {
@@ -5920,7 +23997,19 @@ export const Dishes = [
                "Venonat",
                "Gastly",
                "Cubone",
-               "Chansey"
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               28.57,
+               2.86,
+               57.14,
+               2.86,
+               2.86,
+               2.86,
+               2.86
             ]
          },
          {
@@ -5936,7 +24025,19 @@ export const Dishes = [
                "Venonat",
                "Gastly",
                "Cubone",
-               "Chansey"
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               28.57,
+               2.86,
+               57.14,
+               2.86,
+               2.86,
+               2.86,
+               2.86
             ]
          },
          {
@@ -5952,7 +24053,19 @@ export const Dishes = [
                "Venonat",
                "Gastly",
                "Cubone",
-               "Chansey"
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               28.57,
+               2.86,
+               57.14,
+               2.86,
+               2.86,
+               2.86,
+               2.86
             ]
          },
          {
@@ -5966,7 +24079,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -5980,7 +24123,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -5994,7 +24167,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6008,7 +24211,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6022,7 +24255,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6036,7 +24299,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6050,7 +24343,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6064,7 +24387,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6078,7 +24431,37 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Clefairy",
-               "Venonat"
+               "Jigglypuff",
+               "Zubat",
+               "Venonat",
+               "Magnemite",
+               "Seel",
+               "Shellder",
+               "Gastly",
+               "Onix",
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               10.26,
+               10.26,
+               10.26,
+               5.13,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               10.26,
+               10.26,
+               10.26,
+               0.51,
+               0.51,
+               0.51,
+               0.51
             ]
          },
          {
@@ -6094,10 +24477,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6113,10 +24521,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6132,10 +24565,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6151,10 +24609,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6170,10 +24653,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6189,10 +24697,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6208,10 +24741,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6227,10 +24785,35 @@ export const Dishes = [
                "Clefairy",
                "Jigglypuff",
                "Zubat",
+               "Venonat",
                "Magnemite",
+               "Seel",
                "Shellder",
+               "Gastly",
                "Onix",
-               "Exeggcute"
+               "Exeggcute",
+               "Cubone",
+               "Chansey",
+               "Mr. Mime",
+               "Tauros",
+               "Aerodactyl"
+            ],
+            "rate":[
+               12.36,
+               12.36,
+               12.36,
+               0.31,
+               12.36,
+               12.36,
+               12.36,
+               0.03,
+               12.36,
+               12.36,
+               0.62,
+               0.03,
+               0.03,
+               0.03,
+               0.03
             ]
          },
          {
@@ -6246,8 +24829,13 @@ export const Dishes = [
                "Nidoran♀",
                "Oddish",
                "Geodude",
-               "Cubone",
                "Rhyhorn"
+            ],
+            "rate":[
+               25,
+               25,
+               25,
+               25
             ]
          },
          {
@@ -6263,8 +24851,13 @@ export const Dishes = [
                "Nidoran♀",
                "Oddish",
                "Geodude",
-               "Cubone",
                "Rhyhorn"
+            ],
+            "rate":[
+               25,
+               25,
+               25,
+               25
             ]
          },
          {
@@ -6280,8 +24873,13 @@ export const Dishes = [
                "Nidoran♀",
                "Oddish",
                "Geodude",
-               "Cubone",
                "Rhyhorn"
+            ],
+            "rate":[
+               25,
+               25,
+               25,
+               25
             ]
          },
          {
@@ -6297,8 +24895,13 @@ export const Dishes = [
                "Nidoran♀",
                "Oddish",
                "Geodude",
-               "Cubone",
                "Rhyhorn"
+            ],
+            "rate":[
+               25,
+               25,
+               25,
+               25
             ]
          }
       ],
@@ -6307,6 +24910,9 @@ export const Dishes = [
             "name":"Nidoran♀",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
@@ -6314,92 +24920,205 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Jigglypuff",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Zubat",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Oddish",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Venonat",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               28.57,
+               5.13,
+               0.31
             ]
          },
          {
             "name":"Geodude",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Magnemite",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
+            ]
+         },
+         {
+            "name":"Seel",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Shellder",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Gastly",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2.86,
+               0.51,
+               0.03
             ]
          },
          {
             "name":"Onix",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Exeggcute",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               10.26,
+               12.36
             ]
          },
          {
             "name":"Cubone",
             "quality":[
                "Special",
-               "Normal"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               57.14,
+               10.26,
+               0.62
             ]
          },
          {
             "name":"Rhyhorn",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Chansey",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2.86,
+               0.51,
+               0.03
             ]
          },
          {
             "name":"Mr. Mime",
             "quality":[
-               ""
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2.86,
+               0.51,
+               0.03
+            ]
+         },
+         {
+            "name":"Tauros",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2.86,
+               0.51,
+               0.03
+            ]
+         },
+         {
+            "name":"Aerodactyl",
+            "quality":[
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               2.86,
+               0.51,
+               0.03
             ]
          }
       ]
@@ -6423,10 +25142,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6442,10 +25174,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6461,10 +25206,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6480,10 +25238,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6499,10 +25270,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6518,10 +25302,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6537,10 +25334,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6556,10 +25366,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6575,10 +25398,23 @@ export const Dishes = [
                "Squirtle",
                "Slowpoke",
                "Seel",
+               "Shellder",
+               "Horsea",
                "Magikarp",
                "Lapras",
                "Omanyte",
                "Kabuto"
+            ],
+            "rate":[
+               7.21,
+               18.02,
+               18.02,
+               18.02,
+               18.02,
+               7.21,
+               4.5,
+               4.5,
+               4.5
             ]
          },
          {
@@ -6591,9 +25427,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6606,9 +25459,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6621,9 +25491,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6636,9 +25523,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6651,9 +25555,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6666,9 +25587,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6681,9 +25619,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6696,9 +25651,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6711,9 +25683,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6726,9 +25715,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6741,9 +25747,26 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Squirtle",
                "Slowpoke",
+               "Seel",
                "Shellder",
-               "Horsea"
+               "Horsea",
+               "Magikarp",
+               "Lapras",
+               "Omanyte",
+               "Kabuto"
+            ],
+            "rate":[
+               0.49,
+               24.52,
+               24.52,
+               24.52,
+               24.52,
+               0.49,
+               0.31,
+               0.31,
+               0.31
             ]
          },
          {
@@ -6762,6 +25785,14 @@ export const Dishes = [
                "Krabby",
                "Goldeen",
                "Staryu"
+            ],
+            "rate":[
+               16.67,
+               16.67,
+               16.67,
+               16.67,
+               16.67,
+               16.67
             ]
          },
          {
@@ -6780,6 +25811,14 @@ export const Dishes = [
                "Krabby",
                "Goldeen",
                "Staryu"
+            ],
+            "rate":[
+               16.67,
+               16.67,
+               16.67,
+               16.67,
+               16.67,
+               16.67
             ]
          },
          {
@@ -6798,6 +25837,14 @@ export const Dishes = [
                "Krabby",
                "Goldeen",
                "Staryu"
+            ],
+            "rate":[
+               16.67,
+               16.67,
+               16.67,
+               16.67,
+               16.67,
+               16.67
             ]
          }
       ],
@@ -6805,19 +25852,41 @@ export const Dishes = [
          {
             "name":"Squirtle",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               25.81,
+               7.21,
+               0.49
             ]
          },
          {
             "name":"Psyduck",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Poliwag",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               16.67
+            ]
+         },
+         {
+            "name":"Tentacool",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
@@ -6825,72 +25894,122 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
-            ]
-         },
-         {
-            "name":"Shellder",
-            "quality":[
-               "Good"
-            ]
-         },
-         {
-            "name":"Tentacool",
-            "quality":[
-               "Normal"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          },
          {
             "name":"Seel",
             "quality":[
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
+            ]
+         },
+         {
+            "name":"Shellder",
+            "quality":[
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          },
          {
             "name":"Krabby",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Horsea",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          },
          {
             "name":"Goldeen",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Staryu",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Magikarp",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               25.81,
+               7.21,
+               0.49
             ]
          },
          {
             "name":"Lapras",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.13,
+               4.5,
+               0.31
             ]
          },
          {
             "name":"Omanyte",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.13,
+               4.5,
+               0.31
             ]
          },
          {
             "name":"Kabuto",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.13,
+               4.5,
+               0.31
             ]
          }
       ]
@@ -6915,8 +26034,18 @@ export const Dishes = [
                "Chansey",
                "Kangaskhan",
                "Tauros",
+               "Ditto",
                "Eevee",
                "Snorlax"
+            ],
+            "rate":[
+               29.22,
+               3.9,
+               32.47,
+               3.9,
+               3.9,
+               22.73,
+               3.9
             ]
          },
          {
@@ -6930,9 +26059,29 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Jigglypuff",
+               "Farfetch'd",
+               "Doduo",
                "Lickitung",
+               "Chansey",
+               "Kangaskhan",
+               "Tauros",
                "Ditto",
-               "Porygon"
+               "Eevee",
+               "Porygon",
+               "Snorlax"
+            ],
+            "rate":[
+               18.05,
+               8.12,
+               18.05,
+               18.05,
+               1.08,
+               9.03,
+               1.08,
+               1.08,
+               6.32,
+               18.05,
+               1.08
             ]
          },
          {
@@ -6946,9 +26095,29 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Jigglypuff",
+               "Farfetch'd",
+               "Doduo",
                "Lickitung",
+               "Chansey",
+               "Kangaskhan",
+               "Tauros",
                "Ditto",
-               "Porygon"
+               "Eevee",
+               "Porygon",
+               "Snorlax"
+            ],
+            "rate":[
+               18.05,
+               8.12,
+               18.05,
+               18.05,
+               1.08,
+               9.03,
+               1.08,
+               1.08,
+               6.32,
+               18.05,
+               1.08
             ]
          },
          {
@@ -6962,9 +26131,29 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Jigglypuff",
+               "Farfetch'd",
+               "Doduo",
                "Lickitung",
+               "Chansey",
+               "Kangaskhan",
+               "Tauros",
                "Ditto",
-               "Porygon"
+               "Eevee",
+               "Porygon",
+               "Snorlax"
+            ],
+            "rate":[
+               18.05,
+               8.12,
+               18.05,
+               18.05,
+               1.08,
+               9.03,
+               1.08,
+               1.08,
+               6.32,
+               18.05,
+               1.08
             ]
          },
          {
@@ -6977,8 +26166,30 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Jigglypuff",
+               "Farfetch'd",
                "Doduo",
-               "Lickitung"
+               "Lickitung",
+               "Chansey",
+               "Kangaskhan",
+               "Tauros",
+               "Ditto",
+               "Eevee",
+               "Porygon",
+               "Snorlax"
+            ],
+            "rate":[
+               24.53,
+               0.55,
+               24.53,
+               24.53,
+               0.07,
+               0.61,
+               0.07,
+               0.07,
+               0.43,
+               24.53,
+               0.07
             ]
          },
          {
@@ -6993,7 +26204,14 @@ export const Dishes = [
             "pokemon":[
                "Pidgey",
                "Rattata",
-               "Spearow"
+               "Spearow",
+               "Meowth"
+            ],
+            "rate":[
+               25,
+               25,
+               25,
+               25
             ]
          }
       ],
@@ -7002,48 +26220,71 @@ export const Dishes = [
             "name":"Pidgey",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Rattata",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Spearow",
             "quality":[
                "Normal"
-            ]
-         },
-         {
-            "name":"Clefairy",
-            "quality":[
-               ""
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Jigglypuff",
             "quality":[
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.05,
+               24.53
             ]
          },
          {
             "name":"Meowth",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               25
             ]
          },
          {
             "name":"Farfetch'd",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               29.22,
+               8.12,
+               0.55
             ]
          },
          {
             "name":"Doduo",
             "quality":[
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.05,
+               24.53
             ]
          },
          {
@@ -7051,48 +26292,99 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.05,
+               24.53
             ]
          },
          {
             "name":"Chansey",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.9,
+               1.08,
+               0.07
             ]
          },
          {
             "name":"Kangaskhan",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               32.47,
+               9.03,
+               0.61
             ]
          },
          {
             "name":"Tauros",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.9,
+               1.08,
+               0.07
             ]
          },
          {
             "name":"Ditto",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.9,
+               1.08,
+               0.07
             ]
          },
          {
             "name":"Eevee",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               22.73,
+               6.32,
+               0.43
             ]
          },
          {
             "name":"Porygon",
             "quality":[
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               18.05,
+               24.53
             ]
          },
          {
             "name":"Snorlax",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               3.9,
+               1.08,
+               0.07
             ]
          }
       ]
@@ -7116,6 +26408,11 @@ export const Dishes = [
                "Bulbasaur",
                "Venonat",
                "Gastly"
+            ],
+            "rate":[
+               51.61,
+               32.26,
+               16.13
             ]
          },
          {
@@ -7131,8 +26428,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7148,8 +26456,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7165,8 +26484,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7182,8 +26512,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7199,8 +26540,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7216,8 +26568,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7233,8 +26596,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7250,8 +26624,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               14.41,
+               18.02,
+               18.02,
+               9.01,
+               18.02,
+               4.5,
+               18.02
             ]
          },
          {
@@ -7267,8 +26652,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               0.98,
+               24.52,
+               24.52,
+               0.61,
+               24.52,
+               0.31,
+               24.52
             ]
          },
          {
@@ -7284,8 +26680,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               0.98,
+               24.52,
+               24.52,
+               0.61,
+               24.52,
+               0.31,
+               24.52
             ]
          },
          {
@@ -7301,8 +26708,19 @@ export const Dishes = [
                "Bulbasaur",
                "Ekans",
                "Zubat",
+               "Venonat",
                "Grimer",
+               "Gastly",
                "Koffing"
+            ],
+            "rate":[
+               0.98,
+               24.52,
+               24.52,
+               0.61,
+               24.52,
+               0.31,
+               24.52
             ]
          }
       ],
@@ -7313,6 +26731,20 @@ export const Dishes = [
                "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               51.61,
+               14.41,
+               0.98
+            ]
+         },
+         {
+            "name":"Weedle",
+            "quality":[
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
@@ -7320,18 +26752,28 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          },
          {
             "name":"Nidoran♀",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Nidoran♂",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
@@ -7339,30 +26781,50 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          },
          {
             "name":"Oddish",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Venonat",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               32.26,
+               9.01,
+               0.61
             ]
          },
          {
             "name":"Bellsprout",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
             "name":"Tentacool",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               16.67
             ]
          },
          {
@@ -7370,12 +26832,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          },
          {
             "name":"Gastly",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.13,
+               4.5,
+               0.31
             ]
          },
          {
@@ -7383,6 +26856,10 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               18.02,
+               24.52
             ]
          }
       ]
@@ -7404,6 +26881,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7417,6 +26897,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7430,6 +26913,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7443,6 +26929,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7456,6 +26945,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7469,6 +26961,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7482,6 +26977,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7495,6 +26993,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7508,6 +27009,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7521,6 +27025,9 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Cubone"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -7534,7 +27041,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7548,7 +27061,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7562,7 +27081,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7576,7 +27101,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7590,7 +27121,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7604,7 +27141,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7618,7 +27161,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7632,7 +27181,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7646,7 +27201,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7660,7 +27221,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7674,7 +27241,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7688,7 +27261,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7702,7 +27281,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7716,7 +27301,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7730,7 +27321,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7744,7 +27341,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7758,7 +27361,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7772,7 +27381,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7786,7 +27401,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7800,7 +27421,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7814,7 +27441,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7828,7 +27461,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7842,7 +27481,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7856,7 +27501,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Diglett",
-               "Onix"
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -7869,7 +27520,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7882,7 +27540,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7895,7 +27560,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7908,7 +27580,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7921,7 +27600,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7934,7 +27620,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7947,7 +27640,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7960,7 +27660,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7973,7 +27680,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7986,7 +27700,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -7999,7 +27720,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Diglett",
+               "Onix",
+               "Cubone"
+            ],
+            "rate":[
+               48.78,
+               48.78,
+               2.44
             ]
          },
          {
@@ -8015,6 +27743,11 @@ export const Dishes = [
                "Sandshrew",
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -8030,6 +27763,11 @@ export const Dishes = [
                "Sandshrew",
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -8045,6 +27783,11 @@ export const Dishes = [
                "Sandshrew",
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          }
       ],
@@ -8053,18 +27796,29 @@ export const Dishes = [
             "name":"Sandshrew",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               33.33
             ]
          },
          {
             "name":"Diglett",
             "quality":[
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               33.33,
+               48.78
             ]
          },
          {
             "name":"Geodude",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               33.33
             ]
          },
          {
@@ -8072,18 +27826,32 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               33.33,
+               48.78
             ]
          },
          {
             "name":"Cubone",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               100,
+               33.33,
+               2.44
             ]
          },
          {
             "name":"Rhyhorn",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               33.33
             ]
          }
       ]
@@ -8104,7 +27872,12 @@ export const Dishes = [
             ],
             "quality":"Special",
             "pokemon":[
-
+               "Bulbasaur",
+               "Tangela"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -8121,6 +27894,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8137,6 +27916,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8153,6 +27938,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8169,6 +27960,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8185,6 +27982,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8201,6 +28004,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8217,6 +28026,12 @@ export const Dishes = [
                "Paras",
                "Exeggcute",
                "Tangela"
+            ],
+            "rate":[
+               26.67,
+               33.33,
+               33.33,
+               6.67
             ]
          },
          {
@@ -8229,8 +28044,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Paras",
-               "Exeggcute"
+               "Exeggcute",
+               "Tangela"
+            ],
+            "rate":[
+               1.95,
+               48.78,
+               48.78,
+               0.49
             ]
          },
          {
@@ -8243,8 +28066,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Bulbasaur",
                "Paras",
-               "Exeggcute"
+               "Exeggcute",
+               "Tangela"
+            ],
+            "rate":[
+               1.95,
+               48.78,
+               48.78,
+               0.49
             ]
          }
       ],
@@ -8252,13 +28083,23 @@ export const Dishes = [
          {
             "name":"Bulbasaur",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               80,
+               26.67,
+               1.95
             ]
          },
          {
             "name":"Oddish",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
@@ -8266,12 +28107,19 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               33.33,
+               48.78
             ]
          },
          {
             "name":"Bellsprout",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
@@ -8279,12 +28127,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               33.33,
+               48.78
             ]
          },
          {
             "name":"Tangela",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               20,
+               6.67,
+               0.49
             ]
          }
       ]
@@ -8306,7 +28165,13 @@ export const Dishes = [
             "quality":"Special",
             "pokemon":[
                "Venonat",
+               "Scyther",
                "Pinsir"
+            ],
+            "rate":[
+               67.57,
+               16.22,
+               16.22
             ]
          },
          {
@@ -8321,7 +28186,14 @@ export const Dishes = [
             "pokemon":[
                "Paras",
                "Venonat",
-               "Scyther"
+               "Scyther",
+               "Pinsir"
+            ],
+            "rate":[
+               57.47,
+               28.74,
+               6.9,
+               6.9
             ]
          },
          {
@@ -8336,7 +28208,14 @@ export const Dishes = [
             "pokemon":[
                "Paras",
                "Venonat",
-               "Scyther"
+               "Scyther",
+               "Pinsir"
+            ],
+            "rate":[
+               57.47,
+               28.74,
+               6.9,
+               6.9
             ]
          },
          {
@@ -8349,9 +28228,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Caterpie",
-               "Weedle",
-               "Paras"
+               "Paras",
+               "Venonat",
+               "Scyther",
+               "Pinsir"
+            ],
+            "rate":[
+               96.43,
+               2.41,
+               0.58,
+               0.58
             ]
          }
       ],
@@ -8359,13 +28245,19 @@ export const Dishes = [
          {
             "name":"Caterpie",
             "quality":[
-               "Good"
+               "Normal"
+            ],
+            "rate":[
+               ""
             ]
          },
          {
             "name":"Weedle",
             "quality":[
-               "Good"
+               "Normal"
+            ],
+            "rate":[
+               ""
             ]
          },
          {
@@ -8373,25 +28265,49 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               57.47,
+               96.43
             ]
          },
          {
             "name":"Venonat",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               67.57,
+               28.74,
+               2.41
             ]
          },
          {
             "name":"Scyther",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.22,
+               6.9,
+               0.58
             ]
          },
          {
             "name":"Pinsir",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               16.22,
+               6.9,
+               0.58
             ]
          }
       ]
@@ -8417,6 +28333,13 @@ export const Dishes = [
                "Exeggcute",
                "Mr. Mime",
                "Jynx"
+            ],
+            "rate":[
+               33.33,
+               26.67,
+               33.33,
+               3.33,
+               3.33
             ]
          },
          {
@@ -8430,7 +28353,17 @@ export const Dishes = [
             "quality":"Good",
             "pokemon":[
                "Slowpoke",
-               "Exeggcute"
+               "Drowzee",
+               "Exeggcute",
+               "Mr. Mime",
+               "Jynx"
+            ],
+            "rate":[
+               48.78,
+               1.95,
+               48.78,
+               0.24,
+               0.24
             ]
          },
          {
@@ -8444,7 +28377,17 @@ export const Dishes = [
             "quality":"Good",
             "pokemon":[
                "Slowpoke",
-               "Exeggcute"
+               "Drowzee",
+               "Exeggcute",
+               "Mr. Mime",
+               "Jynx"
+            ],
+            "rate":[
+               48.78,
+               1.95,
+               48.78,
+               0.24,
+               0.24
             ]
          },
          {
@@ -8458,7 +28401,17 @@ export const Dishes = [
             "quality":"Good",
             "pokemon":[
                "Slowpoke",
-               "Exeggcute"
+               "Drowzee",
+               "Exeggcute",
+               "Mr. Mime",
+               "Jynx"
+            ],
+            "rate":[
+               48.78,
+               1.95,
+               48.78,
+               0.24,
+               0.24
             ]
          },
          {
@@ -8472,7 +28425,17 @@ export const Dishes = [
             "quality":"Good",
             "pokemon":[
                "Slowpoke",
-               "Exeggcute"
+               "Drowzee",
+               "Exeggcute",
+               "Mr. Mime",
+               "Jynx"
+            ],
+            "rate":[
+               48.78,
+               1.95,
+               48.78,
+               0.24,
+               0.24
             ]
          },
          {
@@ -8486,6 +28449,9 @@ export const Dishes = [
             "quality":"Normal",
             "pokemon":[
                "Abra"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -8499,6 +28465,9 @@ export const Dishes = [
             "quality":"Normal",
             "pokemon":[
                "Abra"
+            ],
+            "rate":[
+               100
             ]
          }
       ],
@@ -8507,6 +28476,9 @@ export const Dishes = [
             "name":"Abra",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -8514,12 +28486,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               33.33,
+               48.78
             ]
          },
          {
             "name":"Drowzee",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               80,
+               26.67,
+               1.95
             ]
          },
          {
@@ -8527,18 +28510,36 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               33.33,
+               48.78
             ]
          },
          {
             "name":"Mr. Mime",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               10,
+               3.33,
+               0.24
             ]
          },
          {
             "name":"Jynx",
             "quality":[
-               "Very Good"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               10,
+               3.33,
+               0.24
             ]
          }
       ]
@@ -8562,6 +28563,11 @@ export const Dishes = [
                "Omanyte",
                "Kabuto",
                "Aerodactyl"
+            ],
+            "rate":[
+               45.45,
+               45.45,
+               9.09
             ]
          },
          {
@@ -8577,6 +28583,11 @@ export const Dishes = [
                "Omanyte",
                "Kabuto",
                "Aerodactyl"
+            ],
+            "rate":[
+               45.45,
+               45.45,
+               9.09
             ]
          },
          {
@@ -8591,7 +28602,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8606,7 +28624,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8621,7 +28646,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8636,7 +28668,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8651,7 +28690,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8666,7 +28712,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8681,7 +28734,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8696,7 +28756,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8711,7 +28778,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8726,7 +28800,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8741,7 +28822,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8756,7 +28844,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8771,7 +28866,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8786,7 +28888,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8801,7 +28910,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8816,7 +28932,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8831,7 +28954,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8846,7 +28976,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8861,7 +28998,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8876,7 +29020,14 @@ export const Dishes = [
             "pokemon":[
                "Onix",
                "Omanyte",
-               "Kabuto"
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               64.52,
+               16.13,
+               16.13,
+               3.23
             ]
          },
          {
@@ -8889,7 +29040,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8902,7 +29062,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8915,7 +29084,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8928,7 +29106,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8941,7 +29128,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8954,7 +29150,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8967,7 +29172,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8980,7 +29194,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -8993,7 +29216,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9006,7 +29238,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9019,7 +29260,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9032,7 +29282,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9045,7 +29304,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9058,7 +29326,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9071,7 +29348,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9084,7 +29370,16 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Onix"
+               "Onix",
+               "Omanyte",
+               "Kabuto",
+               "Aerodactyl"
+            ],
+            "rate":[
+               97.32,
+               1.22,
+               1.22,
+               0.24
             ]
          },
          {
@@ -9099,6 +29394,10 @@ export const Dishes = [
             "pokemon":[
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9113,6 +29412,10 @@ export const Dishes = [
             "pokemon":[
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9127,6 +29430,10 @@ export const Dishes = [
             "pokemon":[
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9141,6 +29448,10 @@ export const Dishes = [
             "pokemon":[
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9155,6 +29466,10 @@ export const Dishes = [
             "pokemon":[
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9169,6 +29484,10 @@ export const Dishes = [
             "pokemon":[
                "Geodude",
                "Rhyhorn"
+            ],
+            "rate":[
+               50,
+               50
             ]
          }
       ],
@@ -9177,6 +29496,9 @@ export const Dishes = [
             "name":"Geodude",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
@@ -9184,32 +29506,58 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               64.52,
+               97.32
             ]
          },
          {
             "name":"Rhyhorn",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
             "name":"Omanyte",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               45.45,
+               16.13,
+               1.22
             ]
          },
          {
             "name":"Kabuto",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               45.45,
+               16.13,
+               1.22
             ]
          },
          {
             "name":"Aerodactyl",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               9.09,
+               3.23,
+               0.24
             ]
          }
       ]
@@ -9230,7 +29578,14 @@ export const Dishes = [
             ],
             "quality":"Special",
             "pokemon":[
-               "Farfetch'd"
+               "Farfetch'd",
+               "Scyther",
+               "Aerodactyl"
+            ],
+            "rate":[
+               72.58,
+               19.35,
+               8.06
             ]
          },
          {
@@ -9245,7 +29600,16 @@ export const Dishes = [
             "pokemon":[
                "Zubat",
                "Farfetch'd",
-               "Doduo"
+               "Doduo",
+               "Scyther",
+               "Aerodactyl"
+            ],
+            "rate":[
+               38.17,
+               17.18,
+               38.17,
+               4.58,
+               1.91
             ]
          },
          {
@@ -9260,7 +29624,16 @@ export const Dishes = [
             "pokemon":[
                "Zubat",
                "Farfetch'd",
-               "Doduo"
+               "Doduo",
+               "Scyther",
+               "Aerodactyl"
+            ],
+            "rate":[
+               38.17,
+               17.18,
+               38.17,
+               4.58,
+               1.91
             ]
          },
          {
@@ -9273,11 +29646,18 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Pidgey",
-               "Spearow",
                "Zubat",
+               "Farfetch'd",
                "Doduo",
-               "Scyther"
+               "Scyther",
+               "Aerodactyl"
+            ],
+            "rate":[
+               49.24,
+               1.11,
+               49.24,
+               0.3,
+               0.12
             ]
          }
       ],
@@ -9285,13 +29665,19 @@ export const Dishes = [
          {
             "name":"Pidgey",
             "quality":[
-               "Good"
+               "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
             "name":"Spearow",
             "quality":[
-               "Good"
+               "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
@@ -9299,13 +29685,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               38.17,
+               49.24
             ]
          },
          {
             "name":"Farfetch'd",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               72.58,
+               17.18,
+               1.11
             ]
          },
          {
@@ -9313,18 +29709,36 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               38.17,
+               49.24
             ]
          },
          {
             "name":"Scyther",
             "quality":[
+               "Special",
+               "Very Good",
                "Good"
+            ],
+            "rate":[
+               19.35,
+               4.58,
+               0.3
             ]
          },
          {
             "name":"Aerodactyl",
             "quality":[
-               ""
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               8.06,
+               1.91,
+               0.12
             ]
          }
       ]
@@ -9347,6 +29761,10 @@ export const Dishes = [
             "pokemon":[
                "Charmander",
                "Magmar"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9361,6 +29779,10 @@ export const Dishes = [
             "pokemon":[
                "Charmander",
                "Magmar"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9375,6 +29797,10 @@ export const Dishes = [
             "pokemon":[
                "Charmander",
                "Magmar"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9388,7 +29814,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9402,7 +29834,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9416,7 +29854,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9430,7 +29874,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9444,7 +29894,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9458,7 +29914,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9472,7 +29934,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9486,7 +29954,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9500,7 +29974,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9514,7 +29994,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9528,7 +30014,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9542,7 +30034,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9556,7 +30054,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9570,7 +30074,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9584,7 +30094,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9598,7 +30114,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9612,7 +30134,13 @@ export const Dishes = [
             "quality":"Very Good",
             "pokemon":[
                "Charmander",
-               "Ponyta"
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -9625,7 +30153,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9638,7 +30173,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9651,7 +30193,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9664,7 +30213,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9677,7 +30233,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9690,7 +30253,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9703,7 +30273,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9716,7 +30293,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9729,7 +30313,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9742,7 +30333,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9755,7 +30353,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9768,7 +30373,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9781,7 +30393,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
-               "Ponyta"
+               "Charmander",
+               "Ponyta",
+               "Magmar"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -9796,6 +30415,10 @@ export const Dishes = [
             "pokemon":[
                "Vulpix",
                "Growlithe"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9810,6 +30433,10 @@ export const Dishes = [
             "pokemon":[
                "Vulpix",
                "Growlithe"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9824,6 +30451,10 @@ export const Dishes = [
             "pokemon":[
                "Vulpix",
                "Growlithe"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9838,6 +30469,10 @@ export const Dishes = [
             "pokemon":[
                "Vulpix",
                "Growlithe"
+            ],
+            "rate":[
+               50,
+               50
             ]
          },
          {
@@ -9852,6 +30487,10 @@ export const Dishes = [
             "pokemon":[
                "Vulpix",
                "Growlithe"
+            ],
+            "rate":[
+               50,
+               50
             ]
          }
       ],
@@ -9860,19 +30499,31 @@ export const Dishes = [
             "name":"Charmander",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               80,
+               40,
+               3.81
             ]
          },
          {
             "name":"Vulpix",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
             "name":"Growlithe",
             "quality":[
                "Normal"
+            ],
+            "rate":[
+               50
             ]
          },
          {
@@ -9880,12 +30531,23 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               50,
+               95.24
             ]
          },
          {
             "name":"Magmar",
             "quality":[
-               "Special"
+               "Special",
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               20,
+               10,
+               0.95
             ]
          }
       ]
@@ -9908,6 +30570,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9922,6 +30588,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9936,6 +30606,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9950,6 +30624,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9964,6 +30642,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9978,6 +30660,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -9992,6 +30678,10 @@ export const Dishes = [
             "pokemon":[
                "Pikachu",
                "Electabuzz"
+            ],
+            "rate":[
+               80,
+               20
             ]
          },
          {
@@ -10007,6 +30697,11 @@ export const Dishes = [
                "Pikachu",
                "Magnemite",
                "Electabuzz"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -10022,6 +30717,11 @@ export const Dishes = [
                "Pikachu",
                "Magnemite",
                "Electabuzz"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -10037,6 +30737,11 @@ export const Dishes = [
                "Pikachu",
                "Magnemite",
                "Electabuzz"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -10052,6 +30757,11 @@ export const Dishes = [
                "Pikachu",
                "Magnemite",
                "Electabuzz"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -10067,6 +30777,11 @@ export const Dishes = [
                "Pikachu",
                "Magnemite",
                "Electabuzz"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -10082,6 +30797,11 @@ export const Dishes = [
                "Pikachu",
                "Magnemite",
                "Electabuzz"
+            ],
+            "rate":[
+               40,
+               50,
+               10
             ]
          },
          {
@@ -10094,8 +30814,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Pikachu",
                "Magnemite",
-               "Voltorb"
+               "Electabuzz"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          },
          {
@@ -10108,8 +30834,14 @@ export const Dishes = [
             ],
             "quality":"Good",
             "pokemon":[
+               "Pikachu",
                "Magnemite",
-               "Voltorb"
+               "Electabuzz"
+            ],
+            "rate":[
+               3.81,
+               95.24,
+               0.95
             ]
          }
       ],
@@ -10118,7 +30850,13 @@ export const Dishes = [
             "name":"Pikachu",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               80,
+               40,
+               3.81
             ]
          },
          {
@@ -10126,19 +30864,32 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               50,
+               95.24
             ]
          },
          {
             "name":"Voltorb",
             "quality":[
-               "Good"
+               "Normal"
+            ],
+            "rate":[
+               100
             ]
          },
          {
             "name":"Electabuzz",
             "quality":[
                "Special",
-               "Very Good"
+               "Very Good",
+               "Good"
+            ],
+            "rate":[
+               20,
+               10,
+               0.95
             ]
          }
       ]
@@ -10162,6 +30913,11 @@ export const Dishes = [
                "Machop",
                "Hitmonlee",
                "Hitmonchan"
+            ],
+            "rate":[
+               55.56,
+               22.22,
+               22.22
             ]
          },
          {
@@ -10177,6 +30933,11 @@ export const Dishes = [
                "Machop",
                "Hitmonlee",
                "Hitmonchan"
+            ],
+            "rate":[
+               96.15,
+               1.92,
+               1.92
             ]
          },
          {
@@ -10192,6 +30953,11 @@ export const Dishes = [
                "Machop",
                "Hitmonlee",
                "Hitmonchan"
+            ],
+            "rate":[
+               96.15,
+               1.92,
+               1.92
             ]
          },
          {
@@ -10207,6 +30973,11 @@ export const Dishes = [
                "Machop",
                "Hitmonlee",
                "Hitmonchan"
+            ],
+            "rate":[
+               96.15,
+               1.92,
+               1.92
             ]
          }
       ],
@@ -10214,7 +30985,10 @@ export const Dishes = [
          {
             "name":"Mankey",
             "quality":[
-               ""
+               "Normal"
+            ],
+            "rate":[
+               100
             ]
          },
          {
@@ -10222,20 +30996,36 @@ export const Dishes = [
             "quality":[
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               55.56,
+               96.15
             ]
          },
          {
             "name":"Hitmonlee",
             "quality":[
+               "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               50,
+               22.22,
+               1.92
             ]
          },
          {
             "name":"Hitmonchan",
             "quality":[
+               "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               50,
+               22.22,
+               1.92
             ]
          }
       ]
@@ -10261,6 +31051,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10278,6 +31075,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10295,6 +31099,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10312,6 +31123,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10329,6 +31147,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10346,6 +31171,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10363,6 +31195,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10380,6 +31219,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10397,6 +31243,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10414,6 +31267,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10431,6 +31291,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10448,6 +31315,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10465,6 +31339,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10482,6 +31363,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10499,6 +31387,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10516,6 +31411,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10533,6 +31435,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10550,6 +31459,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10567,6 +31483,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10584,6 +31507,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10601,6 +31531,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10618,6 +31555,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10635,6 +31579,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10652,6 +31603,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10669,6 +31627,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10686,6 +31651,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10703,6 +31675,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10720,6 +31699,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10737,6 +31723,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10754,6 +31747,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10771,6 +31771,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10788,6 +31795,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10805,6 +31819,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10822,6 +31843,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10839,6 +31867,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10856,6 +31891,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10873,6 +31915,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10890,6 +31939,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10907,6 +31963,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10924,6 +31987,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10941,6 +32011,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10958,6 +32035,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10975,6 +32059,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -10992,6 +32083,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11009,6 +32107,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11026,6 +32131,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11043,6 +32155,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11060,6 +32179,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11077,6 +32203,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11094,6 +32227,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11111,6 +32251,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11128,6 +32275,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11145,6 +32299,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11162,6 +32323,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11179,6 +32347,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11196,6 +32371,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11213,6 +32395,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11230,6 +32419,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11247,6 +32443,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11264,6 +32467,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11281,6 +32491,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11298,6 +32515,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11315,6 +32539,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11332,6 +32563,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11349,6 +32587,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11366,6 +32611,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11383,6 +32635,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11400,6 +32659,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11417,6 +32683,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11434,6 +32707,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11451,6 +32731,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11468,6 +32755,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11485,6 +32779,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11502,6 +32803,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11519,6 +32827,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11536,6 +32851,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11553,6 +32875,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11570,6 +32899,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11587,6 +32923,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11604,6 +32947,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11621,6 +32971,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11638,6 +32995,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11655,6 +33019,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11672,6 +33043,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11689,6 +33067,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11706,6 +33091,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11723,6 +33115,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11740,6 +33139,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11757,6 +33163,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11774,6 +33187,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11791,6 +33211,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11808,6 +33235,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11825,6 +33259,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11842,6 +33283,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11859,6 +33307,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11876,6 +33331,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11893,6 +33355,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11910,6 +33379,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11927,6 +33403,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11944,6 +33427,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11961,6 +33451,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11978,6 +33475,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -11995,6 +33499,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12012,6 +33523,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12029,6 +33547,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12046,6 +33571,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12063,6 +33595,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12080,6 +33619,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12097,6 +33643,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12114,6 +33667,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12131,6 +33691,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12148,6 +33715,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12165,6 +33739,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12182,6 +33763,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12199,6 +33787,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12216,6 +33811,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12233,6 +33835,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12250,6 +33859,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12267,6 +33883,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12284,6 +33907,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12301,6 +33931,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12318,6 +33955,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12335,6 +33979,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12352,6 +34003,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12369,6 +34027,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12386,6 +34051,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12403,6 +34075,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12420,6 +34099,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12437,6 +34123,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12454,6 +34147,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12471,6 +34171,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12488,6 +34195,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12505,6 +34219,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12522,6 +34243,13 @@ export const Dishes = [
                "Moltres",
                "Mewtwo",
                "Mew"
+            ],
+            "rate":[
+               15.87,
+               15.87,
+               15.87,
+               47.62,
+               4.76
             ]
          },
          {
@@ -12536,9 +34264,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12553,9 +34284,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12570,9 +34304,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12587,9 +34324,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12604,9 +34344,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12621,9 +34364,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12638,9 +34384,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12655,9 +34404,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12672,9 +34424,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12689,9 +34444,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12706,9 +34464,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12723,9 +34484,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12740,9 +34504,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12757,9 +34524,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12774,9 +34544,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12791,9 +34564,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12808,9 +34584,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12825,9 +34604,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12842,9 +34624,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12859,9 +34644,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12876,9 +34664,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12893,9 +34684,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12910,9 +34704,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12927,9 +34724,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12944,9 +34744,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12961,9 +34764,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12978,9 +34784,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -12995,9 +34804,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13012,9 +34824,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13029,9 +34844,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13046,9 +34864,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13063,9 +34884,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13080,9 +34904,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13097,9 +34924,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13114,9 +34944,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13131,9 +34964,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13148,9 +34984,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13165,9 +35004,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13182,9 +35024,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13199,9 +35044,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13216,9 +35064,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13233,9 +35084,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13250,9 +35104,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13267,9 +35124,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13284,9 +35144,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13301,9 +35164,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13318,9 +35184,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13335,9 +35204,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13352,9 +35224,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13369,9 +35244,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13386,9 +35264,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13403,9 +35284,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13420,9 +35304,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13437,9 +35324,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13454,9 +35344,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13471,9 +35364,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13488,9 +35384,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13505,9 +35404,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13522,9 +35424,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13539,9 +35444,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13556,9 +35464,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13573,9 +35484,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13590,9 +35504,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13607,9 +35524,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13624,9 +35544,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13641,9 +35564,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13658,9 +35584,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13675,9 +35604,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13692,9 +35624,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13709,9 +35644,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13726,9 +35664,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13743,9 +35684,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13760,9 +35704,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13777,9 +35724,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13794,9 +35744,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13811,9 +35764,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13828,9 +35784,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13845,9 +35804,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13862,9 +35824,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13879,9 +35844,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13896,9 +35864,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13913,9 +35884,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13930,9 +35904,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13947,9 +35924,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13964,9 +35944,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13981,9 +35964,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -13998,9 +35984,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14015,9 +36004,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14032,9 +36024,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14049,9 +36044,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14066,9 +36064,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14083,9 +36084,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14100,9 +36104,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14117,9 +36124,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14134,9 +36144,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14151,9 +36164,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14168,9 +36184,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14185,9 +36204,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14202,9 +36224,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14219,9 +36244,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14236,9 +36264,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14253,9 +36284,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14270,9 +36304,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14287,9 +36324,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14304,9 +36344,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14321,9 +36364,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14338,9 +36384,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14355,9 +36404,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14372,9 +36424,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14389,9 +36444,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14406,9 +36464,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14423,9 +36484,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14440,9 +36504,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14457,9 +36524,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14474,9 +36544,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14491,9 +36564,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14508,9 +36584,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14525,9 +36604,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14542,9 +36624,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14559,9 +36644,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14576,9 +36664,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14593,9 +36684,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14610,9 +36704,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14627,9 +36724,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14644,9 +36744,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14661,9 +36764,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14678,9 +36784,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14695,9 +36804,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14712,9 +36824,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14729,9 +36844,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14746,9 +36864,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14763,9 +36884,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14780,9 +36904,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14797,9 +36924,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14814,9 +36944,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14831,9 +36964,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14848,9 +36984,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14865,9 +37004,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14882,9 +37024,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14899,9 +37044,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14916,9 +37064,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14933,9 +37084,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14950,9 +37104,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14967,9 +37124,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -14984,9 +37144,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15001,9 +37164,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15018,9 +37184,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15035,9 +37204,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15052,9 +37224,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15069,9 +37244,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15086,9 +37264,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15103,9 +37284,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15120,9 +37304,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15137,9 +37324,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15154,9 +37344,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15171,9 +37364,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15188,9 +37384,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15205,9 +37404,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15222,9 +37424,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15239,9 +37444,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15256,9 +37464,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15273,9 +37484,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15290,9 +37504,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15307,9 +37524,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15324,9 +37544,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15341,9 +37564,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15358,9 +37584,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15375,9 +37604,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15392,9 +37624,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15409,9 +37644,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15426,9 +37664,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15443,9 +37684,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15460,9 +37704,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15477,9 +37724,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15494,9 +37744,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15511,9 +37764,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15528,9 +37784,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15545,9 +37804,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15562,9 +37824,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15579,9 +37844,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15596,9 +37864,12 @@ export const Dishes = [
             "pokemon":[
                "Articuno",
                "Zapdos",
-               "Moltres",
-               "Mewtwo",
-               "Mew"
+               "Moltres"
+            ],
+            "rate":[
+               33.33,
+               33.33,
+               33.33
             ]
          }
       ],
@@ -15609,6 +37880,11 @@ export const Dishes = [
                "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.87,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15617,6 +37893,11 @@ export const Dishes = [
                "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.87,
+               33.33,
+               33.33
             ]
          },
          {
@@ -15625,22 +37906,29 @@ export const Dishes = [
                "Special",
                "Very Good",
                "Good"
+            ],
+            "rate":[
+               15.87,
+               33.33,
+               33.33
             ]
          },
          {
             "name":"Mewtwo",
             "quality":[
-               "Special",
-               "Very Good",
-               "Good"
+               "Special"
+            ],
+            "rate":[
+               47.62
             ]
          },
          {
             "name":"Mew",
             "quality":[
-               "Special",
-               "Very Good",
-               "Good"
+               "Special"
+            ],
+            "rate":[
+               4.76
             ]
          }
       ]

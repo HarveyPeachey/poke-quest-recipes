@@ -13,7 +13,7 @@ import PokemonItem from './PokemonItem';
 import './styles/VariationView.css'
 
 const VariationView = ({variations, pokeSprites, handlePokeClick}) => {
-  const { ingredients, quality, pokemon } = variations;
+  const { ingredients, quality, pokemon, rate } = variations;
   var basicBronze, silver, gold = null;
   var imgSizes = [];
   var imgUrls = [];
@@ -31,6 +31,7 @@ const VariationView = ({variations, pokeSprites, handlePokeClick}) => {
       <PokemonItem
         key={index}
         pokemon={variationPokemon[index]}
+        rate={rate[index]}
         handlePokeClick={handlePokeClick}
       />
     );
