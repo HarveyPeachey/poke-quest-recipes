@@ -93,7 +93,7 @@ class App extends Component {
         <TypeView dish={ Dishes } handleOnClick={this.handleOnClick} handlePokeClick={this.handlePokeClick} filterId={this.state.filterId} />
         <DishView dish={this.state.dish} handlePokeClick={this.handlePokeClick} id={this.state.pokeRecId} filterId={this.state.filterId}/>
         <div className="app-info">
-          <p className="version"><strong>Version 1.6</strong></p>
+          <p className="version"><strong>Version 1.61</strong></p>
           {regionChina
         ?(<div className="cool-item">
             <a target="_blank" rel="noopener noreferrer" href="https://amazon.cn/gp/product/B072FHHZFJ/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B072FHHZFJ&linkCode=as2&tag=harveypeachey-23&linkId=100d77363e82da02606f5ce7624cf4e5"><img border={0} alt="img" src="//ws-cn.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=CN&ASIN=B072FHHZFJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeachey-23" /></a><img src="//ir-cn.amazon-adsystem.com/e/ir?t=harveypeachey-23&l=am2&o=28&a=B072FHHZFJ" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
@@ -120,6 +120,7 @@ class App extends Component {
             <br/>• Added Pokemon attract rates
             <br/>• Fixed Pokemon listing errors
             <br/>• Fixed Discord Link
+            <br/>• QOL Added cursor pointer for buttons
             {/*<iframe className="strawpoll" title="strawpoll" src="https://www.strawpoll.me/embed_1/15908467">Loading poll...</iframe>*/}
             <br/>Shoutouts!:
             <br/><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1UTudD9CA-ysSiYNX6iYIBEWmBbvvJiFgUCuZCm3ppWU/edit#gid=1519206697">Pokemon Attract Rates</a>
