@@ -40,7 +40,24 @@
     <!-- <script>var ezoicId = 72362;</script>
     <script type="text/javascript" src="//go.ezoic.net/ezoic/ezoic.js"></script> -->
     <!-- Ezoic Code -->
-    <script type="text/javascript" src="https://ssp-nj.webtradehub.com/?c=b&m=s&placementId=9504"></script>
+    <script type="text/javascript">
+      var placementId = "9504";
+      var protocol =  "%%SCHEME%%";
+      var secure = (protocol === "https:")?1:0;
+      var site = "%%SITE%%";
+      var index = site.indexOf("/");
+      var domain,page
+      if(index !== -1){
+        domain = site.slice(0,index);
+        page = site.slice(index,site.lenght);
+      } else{
+        domain = site;
+        page = "/";
+      }
+      var language = (typeof(navigator) !== "undefined" && navigator.language)?navigator.language:"";
+      var script = "<script src='"+protocol+"//ssp-nj.webtradehub.com/?c=b&m=api&res=js&placementId="+placementId+"&secure="+secure+"&domain="+domain+"&page="+page+"&language="+language+"'><\/script>"
+      document.write(script);
+    </script>
     <script>
      var adUnits = [{
           code: 'placementid_9504',
