@@ -40,6 +40,36 @@
     <!-- <script>var ezoicId = 72362;</script>
     <script type="text/javascript" src="//go.ezoic.net/ezoic/ezoic.js"></script> -->
     <!-- Ezoic Code -->
+    <script type="text/javascript" src="https://ssp-nj.webtradehub.com/?c=b&m=s&placementId=9504"></script>
+    <script>
+     var adUnits = [{
+          code: 'placementid_9504',
+          sizes: [[728, 90]],
+          bids: [{
+                  bidder: 'smartyads',
+                  params: {
+                      placement_id: 9504
+                  }
+          }]
+      }
+     ];
+     var pbjs = pbjs || {};
+     pbjs.que = pbjs.que || [];
+     pbjs.que.push(function() {
+          pbjs.addAdUnits(adUnits);
+          pbjs.requestBids({
+              bidsBackHandler: function(bidResponses) {
+                  var ads = pbjs.getHighestCpmBids();
+                  for (var i = 0; i < ads.length; i++) {
+                      var oneDiv = document.getElementById(ads[i]['adUnitCode']);
+                      var iframe = document.createElement("iframe");
+                      oneDiv.appendChild(iframe);
+                      pbjs.renderAd(iframe.contentWindow.document, ads[i]['adId']);
+                  }
+              }
+          });
+      });
+  </script>
   </head>
   <body>
     <noscript>
