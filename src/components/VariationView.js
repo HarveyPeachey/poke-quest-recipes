@@ -105,19 +105,19 @@ const VariationView = ({variations, pokeSprites, handlePokeClick}) => {
         imgSizes[i] = {width: "50px", height:"50px"}
         switch(quality) {
           case "Special":
-            basicBronze = 8
-            silver = 9
-            gold = 10
-            break;
-          case "Very Good":
             basicBronze = 7
             silver = 8
             gold = 9
             break;
-          case "Good":
+          case "Very Good":
             basicBronze = 6
-            silver =  7
+            silver = 7
             gold = 8
+            break;
+          case "Good":
+            basicBronze = 5
+            silver =  6
+            gold = 7
             break;
           default:
             console.log("Invalid Quality");
