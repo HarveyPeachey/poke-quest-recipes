@@ -85,7 +85,6 @@ class App extends Component {
     return (
         <div className="App">
         <div className="title" ><h1>Pokemon Quest Recipes</h1></div>
-        <div className="nimses" >I live. I get paid. I am on Nimses. Gеt the app and earn 1440 nims now. <a href="https://get.nimses.com/lSacYfgCkX">https://get.nimses.com/lSacYfgCkX</a></div>
         {regionChina ? null :
         (<div className="hide cool-item">
         <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/gp/product/B07DJXXFH6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07DJXXFH6&linkCode=as2&tag=harveypeach01-20&linkId=2b3697ee68e3e3d2749343ac3991fd70"><img border={0} alt="img" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07DJXXFH6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=harveypeach01-20" /></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=harveypeach01-20&l=am2&o=1&a=B07DJXXFH6" width={1} height={1} border={0} alt="img" style={{border: 'none !important', margin: '0px !important'}} />
