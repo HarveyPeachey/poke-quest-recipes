@@ -1,12 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
+import MainPage from '../MainPage/MainPage'
 
 const App = () => {
   const StyledDiv = styled.div`
     text-align: center;
   `;
 
-  const StyledHeader = styled.div`
+  const StyledHeader = styled.header`
     background-color: #282c34;
     min-height: 100vh;
     display: flex;
@@ -19,7 +20,8 @@ const App = () => {
 
   return (
     <StyledDiv>
-      <StyledHeader/>
+      <StyledHeader><h1>Pokemon Quest Recipes</h1></StyledHeader>
+      <MainPage/>
     </StyledDiv>
   );
 }
